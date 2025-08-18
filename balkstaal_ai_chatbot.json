@@ -1,0 +1,1244 @@
+{
+  "metadata": {
+    "naam": "Balkstaal AI Chatbot Database",
+    "versie": "1.0",
+    "categorie": "Balkstaal",
+    "totaal_entries": 137,
+    "beschrijving": "Geoptimaliseerde balkstaal database voor AI chatbot gewichtsopzoekingen"
+  },
+  "data": [
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 100,
+      "gewicht_kg_per_m": "17,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 100",
+      "antwoord": "HEA 100 weegt 17,0 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 1000,
+      "gewicht_kg_per_m": "277",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 1000",
+      "antwoord": "HEA 1000 weegt 277 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 120,
+      "gewicht_kg_per_m": "20,3",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 120",
+      "antwoord": "HEA 120 weegt 20,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 140,
+      "gewicht_kg_per_m": "25,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 140",
+      "antwoord": "HEA 140 weegt 25,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 160,
+      "gewicht_kg_per_m": "31,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 160",
+      "antwoord": "HEA 160 weegt 31,0 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 180,
+      "gewicht_kg_per_m": "36,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 180",
+      "antwoord": "HEA 180 weegt 36,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 200,
+      "gewicht_kg_per_m": "43,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 200",
+      "antwoord": "HEA 200 weegt 43,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 220,
+      "gewicht_kg_per_m": "51,5",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 220",
+      "antwoord": "HEA 220 weegt 51,5 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 240,
+      "gewicht_kg_per_m": "61,5",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 240",
+      "antwoord": "HEA 240 weegt 61,5 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 260,
+      "gewicht_kg_per_m": "69,5",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 260",
+      "antwoord": "HEA 260 weegt 69,5 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 280,
+      "gewicht_kg_per_m": "77,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 280",
+      "antwoord": "HEA 280 weegt 77,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 300,
+      "gewicht_kg_per_m": "90,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 300",
+      "antwoord": "HEA 300 weegt 90,0 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 320,
+      "gewicht_kg_per_m": "99,5",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 320",
+      "antwoord": "HEA 320 weegt 99,5 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 340,
+      "gewicht_kg_per_m": "107",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 340",
+      "antwoord": "HEA 340 weegt 107 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 360,
+      "gewicht_kg_per_m": "114",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 360",
+      "antwoord": "HEA 360 weegt 114 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 400,
+      "gewicht_kg_per_m": "127",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 400",
+      "antwoord": "HEA 400 weegt 127 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 450,
+      "gewicht_kg_per_m": "142",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 450",
+      "antwoord": "HEA 450 weegt 142 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 500,
+      "gewicht_kg_per_m": "158",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 500",
+      "antwoord": "HEA 500 weegt 158 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 550,
+      "gewicht_kg_per_m": "169",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 550",
+      "antwoord": "HEA 550 weegt 169 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 600,
+      "gewicht_kg_per_m": "181",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 600",
+      "antwoord": "HEA 600 weegt 181 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 650,
+      "gewicht_kg_per_m": "193",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 650",
+      "antwoord": "HEA 650 weegt 193 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 700,
+      "gewicht_kg_per_m": "208",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 700",
+      "antwoord": "HEA 700 weegt 208 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 800,
+      "gewicht_kg_per_m": "229",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 800",
+      "antwoord": "HEA 800 weegt 229 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEA",
+      "afmeting": 900,
+      "gewicht_kg_per_m": "256",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hea 900",
+      "antwoord": "HEA 900 weegt 256 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 100,
+      "gewicht_kg_per_m": "20,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 100",
+      "antwoord": "HEB 100 weegt 20,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 1000,
+      "gewicht_kg_per_m": "320",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 1000",
+      "antwoord": "HEB 1000 weegt 320 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 120,
+      "gewicht_kg_per_m": "27,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 120",
+      "antwoord": "HEB 120 weegt 27,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 140,
+      "gewicht_kg_per_m": "34,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 140",
+      "antwoord": "HEB 140 weegt 34,4 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 160,
+      "gewicht_kg_per_m": "43,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 160",
+      "antwoord": "HEB 160 weegt 43,4 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 180,
+      "gewicht_kg_per_m": "52,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 180",
+      "antwoord": "HEB 180 weegt 52,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 200,
+      "gewicht_kg_per_m": "62,5",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 200",
+      "antwoord": "HEB 200 weegt 62,5 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 220,
+      "gewicht_kg_per_m": "72,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 220",
+      "antwoord": "HEB 220 weegt 72,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 240,
+      "gewicht_kg_per_m": "84,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 240",
+      "antwoord": "HEB 240 weegt 84,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 260,
+      "gewicht_kg_per_m": "94,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 260",
+      "antwoord": "HEB 260 weegt 94,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 280,
+      "gewicht_kg_per_m": "105",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 280",
+      "antwoord": "HEB 280 weegt 105 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 300,
+      "gewicht_kg_per_m": "119",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 300",
+      "antwoord": "HEB 300 weegt 119 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 320,
+      "gewicht_kg_per_m": "129",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 320",
+      "antwoord": "HEB 320 weegt 129 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 340,
+      "gewicht_kg_per_m": "137",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 340",
+      "antwoord": "HEB 340 weegt 137 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 360,
+      "gewicht_kg_per_m": "145",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 360",
+      "antwoord": "HEB 360 weegt 145 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 400,
+      "gewicht_kg_per_m": "158",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 400",
+      "antwoord": "HEB 400 weegt 158 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 450,
+      "gewicht_kg_per_m": "174",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 450",
+      "antwoord": "HEB 450 weegt 174 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 500,
+      "gewicht_kg_per_m": "191",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 500",
+      "antwoord": "HEB 500 weegt 191 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 550,
+      "gewicht_kg_per_m": "203",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 550",
+      "antwoord": "HEB 550 weegt 203 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 600,
+      "gewicht_kg_per_m": "216",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 600",
+      "antwoord": "HEB 600 weegt 216 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 650,
+      "gewicht_kg_per_m": "229",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 650",
+      "antwoord": "HEB 650 weegt 229 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 700,
+      "gewicht_kg_per_m": "245",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 700",
+      "antwoord": "HEB 700 weegt 245 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 800,
+      "gewicht_kg_per_m": "267",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 800",
+      "antwoord": "HEB 800 weegt 267 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEB",
+      "afmeting": 900,
+      "gewicht_kg_per_m": "297",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal heb 900",
+      "antwoord": "HEB 900 weegt 297 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 100,
+      "gewicht_kg_per_m": "42,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 100",
+      "antwoord": "HEM 100 weegt 42,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 1000,
+      "gewicht_kg_per_m": "355",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 1000",
+      "antwoord": "HEM 1000 weegt 355 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 120,
+      "gewicht_kg_per_m": "53,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 120",
+      "antwoord": "HEM 120 weegt 53,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 140,
+      "gewicht_kg_per_m": "64,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 140",
+      "antwoord": "HEM 140 weegt 64,4 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 160,
+      "gewicht_kg_per_m": "77,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 160",
+      "antwoord": "HEM 160 weegt 77,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 180,
+      "gewicht_kg_per_m": "90,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 180",
+      "antwoord": "HEM 180 weegt 90,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 200,
+      "gewicht_kg_per_m": "105",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 200",
+      "antwoord": "HEM 200 weegt 105 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 220,
+      "gewicht_kg_per_m": "120",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 220",
+      "antwoord": "HEM 220 weegt 120 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 240,
+      "gewicht_kg_per_m": "160",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 240",
+      "antwoord": "HEM 240 weegt 160 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 260,
+      "gewicht_kg_per_m": "176",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 260",
+      "antwoord": "HEM 260 weegt 176 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 280,
+      "gewicht_kg_per_m": "192",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 280",
+      "antwoord": "HEM 280 weegt 192 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 300,
+      "gewicht_kg_per_m": "242",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 300",
+      "antwoord": "HEM 300 weegt 242 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 320,
+      "gewicht_kg_per_m": "250",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 320",
+      "antwoord": "HEM 320 weegt 250 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 340,
+      "gewicht_kg_per_m": "253",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 340",
+      "antwoord": "HEM 340 weegt 253 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 360,
+      "gewicht_kg_per_m": "255",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 360",
+      "antwoord": "HEM 360 weegt 255 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 400,
+      "gewicht_kg_per_m": "261",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 400",
+      "antwoord": "HEM 400 weegt 261 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 450,
+      "gewicht_kg_per_m": "268",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 450",
+      "antwoord": "HEM 450 weegt 268 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 500,
+      "gewicht_kg_per_m": "275",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 500",
+      "antwoord": "HEM 500 weegt 275 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 550,
+      "gewicht_kg_per_m": "284",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 550",
+      "antwoord": "HEM 550 weegt 284 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 600,
+      "gewicht_kg_per_m": "291",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 600",
+      "antwoord": "HEM 600 weegt 291 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 650,
+      "gewicht_kg_per_m": "299",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 650",
+      "antwoord": "HEM 650 weegt 299 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 700,
+      "gewicht_kg_per_m": "306",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 700",
+      "antwoord": "HEM 700 weegt 306 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 800,
+      "gewicht_kg_per_m": "323",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 800",
+      "antwoord": "HEM 800 weegt 323 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "HEM",
+      "afmeting": 900,
+      "gewicht_kg_per_m": "339",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal hem 900",
+      "antwoord": "HEM 900 weegt 339 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 100,
+      "gewicht_kg_per_m": "8,50",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 100",
+      "antwoord": "INP 100 weegt 8,50 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 120,
+      "gewicht_kg_per_m": "11,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 120",
+      "antwoord": "INP 120 weegt 11,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 140,
+      "gewicht_kg_per_m": "14,6",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 140",
+      "antwoord": "INP 140 weegt 14,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 160,
+      "gewicht_kg_per_m": "18,2",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 160",
+      "antwoord": "INP 160 weegt 18,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 180,
+      "gewicht_kg_per_m": "22,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 180",
+      "antwoord": "INP 180 weegt 22,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 200,
+      "gewicht_kg_per_m": "26,7",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 200",
+      "antwoord": "INP 200 weegt 26,7 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 220,
+      "gewicht_kg_per_m": "31,6",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 220",
+      "antwoord": "INP 220 weegt 31,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 240,
+      "gewicht_kg_per_m": "36,9",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 240",
+      "antwoord": "INP 240 weegt 36,9 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 260,
+      "gewicht_kg_per_m": "42,7",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 260",
+      "antwoord": "INP 260 weegt 42,7 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 280,
+      "gewicht_kg_per_m": "48,8",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 280",
+      "antwoord": "INP 280 weegt 48,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 300,
+      "gewicht_kg_per_m": "55,2",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 300",
+      "antwoord": "INP 300 weegt 55,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 320,
+      "gewicht_kg_per_m": "62,2",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 320",
+      "antwoord": "INP 320 weegt 62,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 340,
+      "gewicht_kg_per_m": "69,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 340",
+      "antwoord": "INP 340 weegt 69,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 360,
+      "gewicht_kg_per_m": "77,6",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 360",
+      "antwoord": "INP 360 weegt 77,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 380,
+      "gewicht_kg_per_m": "85,6",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 380",
+      "antwoord": "INP 380 weegt 85,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 400,
+      "gewicht_kg_per_m": "94,2",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 400",
+      "antwoord": "INP 400 weegt 94,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "INP",
+      "afmeting": 80,
+      "gewicht_kg_per_m": "6,06",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal inp 80",
+      "antwoord": "INP 80 weegt 6,06 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 100,
+      "gewicht_kg_per_m": "8,26",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal ipe 100",
+      "antwoord": "IPE 100 weegt 8,26 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 120,
+      "gewicht_kg_per_m": "10,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 120",
+      "antwoord": "IPE 120 weegt 10,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 140,
+      "gewicht_kg_per_m": "13,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 140",
+      "antwoord": "IPE 140 weegt 13,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 160,
+      "gewicht_kg_per_m": "16,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 160",
+      "antwoord": "IPE 160 weegt 16,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 180,
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 180",
+      "antwoord": "IPE 180 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 200,
+      "gewicht_kg_per_m": "22,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 200",
+      "antwoord": "IPE 200 weegt 22,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 220,
+      "gewicht_kg_per_m": "26,7",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 220",
+      "antwoord": "IPE 220 weegt 26,7 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 240,
+      "gewicht_kg_per_m": "31,3",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 240",
+      "antwoord": "IPE 240 weegt 31,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 270,
+      "gewicht_kg_per_m": "36,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 270",
+      "antwoord": "IPE 270 weegt 36,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 300,
+      "gewicht_kg_per_m": "43,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 300",
+      "antwoord": "IPE 300 weegt 43,0 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 330,
+      "gewicht_kg_per_m": "50,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 330",
+      "antwoord": "IPE 330 weegt 50,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 360,
+      "gewicht_kg_per_m": "58,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 360",
+      "antwoord": "IPE 360 weegt 58,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 400,
+      "gewicht_kg_per_m": "67,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 400",
+      "antwoord": "IPE 400 weegt 67,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 450,
+      "gewicht_kg_per_m": "79,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 450",
+      "antwoord": "IPE 450 weegt 79,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 500,
+      "gewicht_kg_per_m": "92,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 500",
+      "antwoord": "IPE 500 weegt 92,4 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 550,
+      "gewicht_kg_per_m": "108",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 550",
+      "antwoord": "IPE 550 weegt 108 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 600,
+      "gewicht_kg_per_m": "125",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal ipe 600",
+      "antwoord": "IPE 600 weegt 125 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "IPE",
+      "afmeting": 80,
+      "gewicht_kg_per_m": "6,11",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal ipe 80",
+      "antwoord": "IPE 80 weegt 6,11 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 100,
+      "gewicht_kg_per_m": "10,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 100",
+      "antwoord": "UNP 100 weegt 10,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 120,
+      "gewicht_kg_per_m": "13,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 120",
+      "antwoord": "UNP 120 weegt 13,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 140,
+      "gewicht_kg_per_m": "16,3",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 140",
+      "antwoord": "UNP 140 weegt 16,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 160,
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 160",
+      "antwoord": "UNP 160 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 180,
+      "gewicht_kg_per_m": "22,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 180",
+      "antwoord": "UNP 180 weegt 22,4 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 200,
+      "gewicht_kg_per_m": "25,7",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 200",
+      "antwoord": "UNP 200 weegt 25,7 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 220,
+      "gewicht_kg_per_m": "30,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 220",
+      "antwoord": "UNP 220 weegt 30,0 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 240,
+      "gewicht_kg_per_m": "33,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 240",
+      "antwoord": "UNP 240 weegt 33,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 260,
+      "gewicht_kg_per_m": "38,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 260",
+      "antwoord": "UNP 260 weegt 38,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 280,
+      "gewicht_kg_per_m": "42,7",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 280",
+      "antwoord": "UNP 280 weegt 42,7 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 300,
+      "gewicht_kg_per_m": "47,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 300",
+      "antwoord": "UNP 300 weegt 47,0 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 320,
+      "gewicht_kg_per_m": "60,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 320",
+      "antwoord": "UNP 320 weegt 60,6 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 350,
+      "gewicht_kg_per_m": "61,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 350",
+      "antwoord": "UNP 350 weegt 61,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 380,
+      "gewicht_kg_per_m": "64,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal unp 380",
+      "antwoord": "UNP 380 weegt 64,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 400,
+      "gewicht_kg_per_m": "73,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "balkstaal unp 400",
+      "antwoord": "UNP 400 weegt 73,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UNP",
+      "afmeting": 80,
+      "gewicht_kg_per_m": "8,82",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal unp 80",
+      "antwoord": "UNP 80 weegt 8,82 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 100,
+      "gewicht_kg_per_m": "10,0",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 100",
+      "antwoord": "UPE 100 weegt 10,0 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 120,
+      "gewicht_kg_per_m": "12,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 120",
+      "antwoord": "UPE 120 weegt 12,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 140,
+      "gewicht_kg_per_m": "14,7",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 140",
+      "antwoord": "UPE 140 weegt 14,7 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 160,
+      "gewicht_kg_per_m": "17,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 160",
+      "antwoord": "UPE 160 weegt 17,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 180,
+      "gewicht_kg_per_m": "20,1",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 180",
+      "antwoord": "UPE 180 weegt 20,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 200,
+      "gewicht_kg_per_m": "23,2",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 200",
+      "antwoord": "UPE 200 weegt 23,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 220,
+      "gewicht_kg_per_m": "27,1",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 220",
+      "antwoord": "UPE 220 weegt 27,1 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 240,
+      "gewicht_kg_per_m": "30,8",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 240",
+      "antwoord": "UPE 240 weegt 30,8 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 270,
+      "gewicht_kg_per_m": "35,9",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 270",
+      "antwoord": "UPE 270 weegt 35,9 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 300,
+      "gewicht_kg_per_m": "45,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 300",
+      "antwoord": "UPE 300 weegt 45,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 330,
+      "gewicht_kg_per_m": "54,2",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 330",
+      "antwoord": "UPE 330 weegt 54,2 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 360,
+      "gewicht_kg_per_m": "62,3",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 360",
+      "antwoord": "UPE 360 weegt 62,3 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 400,
+      "gewicht_kg_per_m": "73,5",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 400",
+      "antwoord": "UPE 400 weegt 73,5 kg/m"
+    },
+    {
+      "categorie": "Balkstaal",
+      "type": "UPE",
+      "afmeting": 80,
+      "gewicht_kg_per_m": "8,06",
+      "materiaal": "S235",
+      "zoekterm": "balkstaal upe 80",
+      "antwoord": "UPE 80 weegt 8,06 kg/m"
+    }
+  ]
+}

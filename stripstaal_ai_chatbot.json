@@ -1,0 +1,1118 @@
+{
+  "metadata": {
+    "naam": "Stripstaal AI Chatbot Database",
+    "versie": "1.0",
+    "categorie": "Stripstaal",
+    "totaal_entries": 123,
+    "beschrijving": "Geoptimaliseerde stripstaal database voor AI chatbot gewichtsopzoekingen"
+  },
+  "data": [
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 10",
+      "gewicht_kg_per_m": "12,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 160 x 10",
+      "antwoord": "strip 160 x 10 weegt 12,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 12",
+      "gewicht_kg_per_m": "15,36",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 160 x 12",
+      "antwoord": "strip 160 x 12 weegt 15,36 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 15",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 160 x 15",
+      "antwoord": "strip 160 x 15 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 20",
+      "gewicht_kg_per_m": "25,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 160 x 20",
+      "antwoord": "strip 160 x 20 weegt 25,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 25",
+      "gewicht_kg_per_m": "32",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 160 x 25",
+      "antwoord": "strip 160 x 25 weegt 32 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 30",
+      "gewicht_kg_per_m": "38,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 160 x 30",
+      "antwoord": "strip 160 x 30 weegt 38,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 5",
+      "gewicht_kg_per_m": "6,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 160 x 5",
+      "antwoord": "strip 160 x 5 weegt 6,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 6",
+      "gewicht_kg_per_m": "7,68",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 160 x 6",
+      "antwoord": "strip 160 x 6 weegt 7,68 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "160 x 8",
+      "gewicht_kg_per_m": "10,24",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 160 x 8",
+      "antwoord": "strip 160 x 8 weegt 10,24 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 10",
+      "gewicht_kg_per_m": "13,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 10",
+      "antwoord": "strip 165 x 10 weegt 13,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 12",
+      "gewicht_kg_per_m": "15,84",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 12",
+      "antwoord": "strip 165 x 12 weegt 15,84 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 15",
+      "gewicht_kg_per_m": "19,8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 15",
+      "antwoord": "strip 165 x 15 weegt 19,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 20",
+      "gewicht_kg_per_m": "26,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 20",
+      "antwoord": "strip 165 x 20 weegt 26,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 25",
+      "gewicht_kg_per_m": "33",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 25",
+      "antwoord": "strip 165 x 25 weegt 33 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 30",
+      "gewicht_kg_per_m": "39,6",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 30",
+      "antwoord": "strip 165 x 30 weegt 39,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 5",
+      "gewicht_kg_per_m": "6,6",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 5",
+      "antwoord": "strip 165 x 5 weegt 6,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 6",
+      "gewicht_kg_per_m": "7,92",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 6",
+      "antwoord": "strip 165 x 6 weegt 7,92 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "165 x 8",
+      "gewicht_kg_per_m": "10,56",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 165 x 8",
+      "antwoord": "strip 165 x 8 weegt 10,56 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "170 x 10",
+      "gewicht_kg_per_m": "13,6",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 170 x 10",
+      "antwoord": "strip 170 x 10 weegt 13,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "170 x 12",
+      "gewicht_kg_per_m": "16,32",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 170 x 12",
+      "antwoord": "strip 170 x 12 weegt 16,32 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "170 x 15",
+      "gewicht_kg_per_m": "20,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 170 x 15",
+      "antwoord": "strip 170 x 15 weegt 20,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "170 x 20",
+      "gewicht_kg_per_m": "27,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 170 x 20",
+      "antwoord": "strip 170 x 20 weegt 27,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "170 x 5",
+      "gewicht_kg_per_m": "6,8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 170 x 5",
+      "antwoord": "strip 170 x 5 weegt 6,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "170 x 6",
+      "gewicht_kg_per_m": "8,16",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 170 x 6",
+      "antwoord": "strip 170 x 6 weegt 8,16 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "170 x 8",
+      "gewicht_kg_per_m": "10,88",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 170 x 8",
+      "antwoord": "strip 170 x 8 weegt 10,88 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 10",
+      "gewicht_kg_per_m": "14,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 180 x 10",
+      "antwoord": "strip 180 x 10 weegt 14,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 12",
+      "gewicht_kg_per_m": "17,28",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 12",
+      "antwoord": "strip 180 x 12 weegt 17,28 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 15",
+      "gewicht_kg_per_m": "21,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 180 x 15",
+      "antwoord": "strip 180 x 15 weegt 21,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 20",
+      "gewicht_kg_per_m": "28,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 180 x 20",
+      "antwoord": "strip 180 x 20 weegt 28,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 25",
+      "gewicht_kg_per_m": "36",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 25",
+      "antwoord": "strip 180 x 25 weegt 36 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 30",
+      "gewicht_kg_per_m": "43,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 30",
+      "antwoord": "strip 180 x 30 weegt 43,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 40",
+      "gewicht_kg_per_m": "57,6",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 40",
+      "antwoord": "strip 180 x 40 weegt 57,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 5",
+      "gewicht_kg_per_m": "7,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 5",
+      "antwoord": "strip 180 x 5 weegt 7,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 50",
+      "gewicht_kg_per_m": "72",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 50",
+      "antwoord": "strip 180 x 50 weegt 72 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 6",
+      "gewicht_kg_per_m": "8,64",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 6",
+      "antwoord": "strip 180 x 6 weegt 8,64 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "180 x 8",
+      "gewicht_kg_per_m": "11,52",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 180 x 8",
+      "antwoord": "strip 180 x 8 weegt 11,52 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 10",
+      "gewicht_kg_per_m": "16",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 200 x 10",
+      "antwoord": "strip 200 x 10 weegt 16 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 12",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 200 x 12",
+      "antwoord": "strip 200 x 12 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 15",
+      "gewicht_kg_per_m": "24",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 200 x 15",
+      "antwoord": "strip 200 x 15 weegt 24 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 20",
+      "gewicht_kg_per_m": "32",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 200 x 20",
+      "antwoord": "strip 200 x 20 weegt 32 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 25",
+      "gewicht_kg_per_m": "40",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 200 x 25",
+      "antwoord": "strip 200 x 25 weegt 40 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 30",
+      "gewicht_kg_per_m": "48",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 200 x 30",
+      "antwoord": "strip 200 x 30 weegt 48 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 40",
+      "gewicht_kg_per_m": "64",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 200 x 40",
+      "antwoord": "strip 200 x 40 weegt 64 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 5",
+      "gewicht_kg_per_m": "8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 200 x 5",
+      "antwoord": "strip 200 x 5 weegt 8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 50",
+      "gewicht_kg_per_m": "80",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 200 x 50",
+      "antwoord": "strip 200 x 50 weegt 80 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 6",
+      "gewicht_kg_per_m": "9,60",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 200 x 6",
+      "antwoord": "strip 200 x 6 weegt 9,60 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "200 x 8",
+      "gewicht_kg_per_m": "12,8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 200 x 8",
+      "antwoord": "strip 200 x 8 weegt 12,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 10",
+      "gewicht_kg_per_m": "17,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 220 x 10",
+      "antwoord": "strip 220 x 10 weegt 17,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 12",
+      "gewicht_kg_per_m": "21,12",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 220 x 12",
+      "antwoord": "strip 220 x 12 weegt 21,12 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 15",
+      "gewicht_kg_per_m": "26,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 220 x 15",
+      "antwoord": "strip 220 x 15 weegt 26,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 20",
+      "gewicht_kg_per_m": "35,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 220 x 20",
+      "antwoord": "strip 220 x 20 weegt 35,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 25",
+      "gewicht_kg_per_m": "44",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 220 x 25",
+      "antwoord": "strip 220 x 25 weegt 44 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 30",
+      "gewicht_kg_per_m": "52,8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 220 x 30",
+      "antwoord": "strip 220 x 30 weegt 52,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 6",
+      "gewicht_kg_per_m": "10,56",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 220 x 6",
+      "antwoord": "strip 220 x 6 weegt 10,56 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "220 x 8",
+      "gewicht_kg_per_m": "14,08",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 220 x 8",
+      "antwoord": "strip 220 x 8 weegt 14,08 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 10",
+      "gewicht_kg_per_m": "18,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 230 x 10",
+      "antwoord": "strip 230 x 10 weegt 18,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 12",
+      "gewicht_kg_per_m": "22,08",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 230 x 12",
+      "antwoord": "strip 230 x 12 weegt 22,08 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 15",
+      "gewicht_kg_per_m": "27,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 230 x 15",
+      "antwoord": "strip 230 x 15 weegt 27,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 20",
+      "gewicht_kg_per_m": "36,8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 230 x 20",
+      "antwoord": "strip 230 x 20 weegt 36,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 25",
+      "gewicht_kg_per_m": "46",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 230 x 25",
+      "antwoord": "strip 230 x 25 weegt 46 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 30",
+      "gewicht_kg_per_m": "55,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 230 x 30",
+      "antwoord": "strip 230 x 30 weegt 55,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 6",
+      "gewicht_kg_per_m": "11,04",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 230 x 6",
+      "antwoord": "strip 230 x 6 weegt 11,04 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "230 x 8",
+      "gewicht_kg_per_m": "14,72",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 230 x 8",
+      "antwoord": "strip 230 x 8 weegt 14,72 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "240 x 10",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 240 x 10",
+      "antwoord": "strip 240 x 10 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "240 x 12",
+      "gewicht_kg_per_m": "23,04",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 240 x 12",
+      "antwoord": "strip 240 x 12 weegt 23,04 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "240 x 15",
+      "gewicht_kg_per_m": "28,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 240 x 15",
+      "antwoord": "strip 240 x 15 weegt 28,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "240 x 20",
+      "gewicht_kg_per_m": "38,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 240 x 20",
+      "antwoord": "strip 240 x 20 weegt 38,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 10",
+      "gewicht_kg_per_m": "20",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 250 x 10",
+      "antwoord": "strip 250 x 10 weegt 20 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 12",
+      "gewicht_kg_per_m": "24",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 250 x 12",
+      "antwoord": "strip 250 x 12 weegt 24 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 15",
+      "gewicht_kg_per_m": "30",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 250 x 15",
+      "antwoord": "strip 250 x 15 weegt 30 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 20",
+      "gewicht_kg_per_m": "40",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 250 x 20",
+      "antwoord": "strip 250 x 20 weegt 40 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 25",
+      "gewicht_kg_per_m": "50",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 250 x 25",
+      "antwoord": "strip 250 x 25 weegt 50 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 30",
+      "gewicht_kg_per_m": "60",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 250 x 30",
+      "antwoord": "strip 250 x 30 weegt 60 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 40",
+      "gewicht_kg_per_m": "80",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 250 x 40",
+      "antwoord": "strip 250 x 40 weegt 80 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 5",
+      "gewicht_kg_per_m": "10",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 250 x 5",
+      "antwoord": "strip 250 x 5 weegt 10 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 6",
+      "gewicht_kg_per_m": "12",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 250 x 6",
+      "antwoord": "strip 250 x 6 weegt 12 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "250 x 8",
+      "gewicht_kg_per_m": "16",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 250 x 8",
+      "antwoord": "strip 250 x 8 weegt 16 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 10",
+      "gewicht_kg_per_m": "22,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 280 x 10",
+      "antwoord": "strip 280 x 10 weegt 22,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 12",
+      "gewicht_kg_per_m": "26,88",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 280 x 12",
+      "antwoord": "strip 280 x 12 weegt 26,88 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 15",
+      "gewicht_kg_per_m": "33,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 280 x 15",
+      "antwoord": "strip 280 x 15 weegt 33,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 20",
+      "gewicht_kg_per_m": "44,8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 280 x 20",
+      "antwoord": "strip 280 x 20 weegt 44,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 25",
+      "gewicht_kg_per_m": "56",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 280 x 25",
+      "antwoord": "strip 280 x 25 weegt 56 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 30",
+      "gewicht_kg_per_m": "67,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 280 x 30",
+      "antwoord": "strip 280 x 30 weegt 67,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 6",
+      "gewicht_kg_per_m": "13,44",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 280 x 6",
+      "antwoord": "strip 280 x 6 weegt 13,44 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "280 x 8",
+      "gewicht_kg_per_m": "17,92",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 280 x 8",
+      "antwoord": "strip 280 x 8 weegt 17,92 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 10",
+      "gewicht_kg_per_m": "24",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 300 x 10",
+      "antwoord": "strip 300 x 10 weegt 24 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 12",
+      "gewicht_kg_per_m": "28,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 300 x 12",
+      "antwoord": "strip 300 x 12 weegt 28,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 15",
+      "gewicht_kg_per_m": "36",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 300 x 15",
+      "antwoord": "strip 300 x 15 weegt 36 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 20",
+      "gewicht_kg_per_m": "48",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 300 x 20",
+      "antwoord": "strip 300 x 20 weegt 48 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 25",
+      "gewicht_kg_per_m": "60",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 300 x 25",
+      "antwoord": "strip 300 x 25 weegt 60 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 30",
+      "gewicht_kg_per_m": "72",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 300 x 30",
+      "antwoord": "strip 300 x 30 weegt 72 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 40",
+      "gewicht_kg_per_m": "96",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 300 x 40",
+      "antwoord": "strip 300 x 40 weegt 96 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 5",
+      "gewicht_kg_per_m": "12",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 300 x 5",
+      "antwoord": "strip 300 x 5 weegt 12 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 50",
+      "gewicht_kg_per_m": "120",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 300 x 50",
+      "antwoord": "strip 300 x 50 weegt 120 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 6",
+      "gewicht_kg_per_m": "14,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 300 x 6",
+      "antwoord": "strip 300 x 6 weegt 14,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "300 x 8",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 300 x 8",
+      "antwoord": "strip 300 x 8 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 10",
+      "gewicht_kg_per_m": "28",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 10",
+      "antwoord": "strip 350 x 10 weegt 28 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 12",
+      "gewicht_kg_per_m": "33,6",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 12",
+      "antwoord": "strip 350 x 12 weegt 33,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 15",
+      "gewicht_kg_per_m": "42",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 15",
+      "antwoord": "strip 350 x 15 weegt 42 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 20",
+      "gewicht_kg_per_m": "56",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 20",
+      "antwoord": "strip 350 x 20 weegt 56 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 25",
+      "gewicht_kg_per_m": "70",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 25",
+      "antwoord": "strip 350 x 25 weegt 70 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 30",
+      "gewicht_kg_per_m": "84",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 30",
+      "antwoord": "strip 350 x 30 weegt 84 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 6",
+      "gewicht_kg_per_m": "16,8",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 6",
+      "antwoord": "strip 350 x 6 weegt 16,8 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "350 x 8",
+      "gewicht_kg_per_m": "22,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 350 x 8",
+      "antwoord": "strip 350 x 8 weegt 22,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 10",
+      "gewicht_kg_per_m": "32",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stripstaal strip 400 x 10",
+      "antwoord": "strip 400 x 10 weegt 32 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 12",
+      "gewicht_kg_per_m": "38,4",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 12",
+      "antwoord": "strip 400 x 12 weegt 38,4 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 15",
+      "gewicht_kg_per_m": "48",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 15",
+      "antwoord": "strip 400 x 15 weegt 48 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 20",
+      "gewicht_kg_per_m": "64",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 20",
+      "antwoord": "strip 400 x 20 weegt 64 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 25",
+      "gewicht_kg_per_m": "80",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 25",
+      "antwoord": "strip 400 x 25 weegt 80 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 30",
+      "gewicht_kg_per_m": "96",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 30",
+      "antwoord": "strip 400 x 30 weegt 96 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 40",
+      "gewicht_kg_per_m": "128",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 40",
+      "antwoord": "strip 400 x 40 weegt 128 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 50",
+      "gewicht_kg_per_m": "160",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 50",
+      "antwoord": "strip 400 x 50 weegt 160 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 6",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 6",
+      "antwoord": "strip 400 x 6 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "400 x 8",
+      "gewicht_kg_per_m": "25,6",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 400 x 8",
+      "antwoord": "strip 400 x 8 weegt 25,6 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 10",
+      "gewicht_kg_per_m": "40",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 10",
+      "antwoord": "strip 500 x 10 weegt 40 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 12",
+      "gewicht_kg_per_m": "48",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 12",
+      "antwoord": "strip 500 x 12 weegt 48 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 15",
+      "gewicht_kg_per_m": "60",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 15",
+      "antwoord": "strip 500 x 15 weegt 60 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 20",
+      "gewicht_kg_per_m": "80",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 20",
+      "antwoord": "strip 500 x 20 weegt 80 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 25",
+      "gewicht_kg_per_m": "100",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 25",
+      "antwoord": "strip 500 x 25 weegt 100 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 30",
+      "gewicht_kg_per_m": "120",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 30",
+      "antwoord": "strip 500 x 30 weegt 120 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 40",
+      "gewicht_kg_per_m": "160",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 40",
+      "antwoord": "strip 500 x 40 weegt 160 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 50",
+      "gewicht_kg_per_m": "200",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 50",
+      "antwoord": "strip 500 x 50 weegt 200 kg/m"
+    },
+    {
+      "categorie": "Stripstaal",
+      "type": "strip",
+      "afmeting": "500 x 8",
+      "gewicht_kg_per_m": "32",
+      "materiaal": "S235",
+      "zoekterm": "stripstaal strip 500 x 8",
+      "antwoord": "strip 500 x 8 weegt 32 kg/m"
+    }
+  ]
+}

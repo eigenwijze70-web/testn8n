@@ -1,0 +1,4880 @@
+{
+  "metadata": {
+    "naam": "Stafstaal AI Chatbot Database",
+    "versie": "1.0",
+    "categorie": "Stafstaal",
+    "totaal_entries": 541,
+    "beschrijving": "Geoptimaliseerde stafstaal database voor AI chatbot gewichtsopzoekingen"
+  },
+  "data": [
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "100x100 x 10",
+      "gewicht_kg_per_m": "15,3",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 100x100 x 10",
+      "antwoord": "L gel. 100x100 x 10 weegt 15,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "100x100 x 12",
+      "gewicht_kg_per_m": "18,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 100x100 x 12",
+      "antwoord": "L gel. 100x100 x 12 weegt 18,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "100x100 x 14",
+      "gewicht_kg_per_m": "21,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 100x100 x 14",
+      "antwoord": "L gel. 100x100 x 14 weegt 21,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "100x100 x 15",
+      "gewicht_kg_per_m": "22,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 100x100 x 15",
+      "antwoord": "L gel. 100x100 x 15 weegt 22,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "100x100 x 8",
+      "gewicht_kg_per_m": "12,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 100x100 x 8",
+      "antwoord": "L gel. 100x100 x 8 weegt 12,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "110x110 x 10",
+      "gewicht_kg_per_m": "16,9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 110x110 x 10",
+      "antwoord": "L gel. 110x110 x 10 weegt 16,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "110x110 x 12",
+      "gewicht_kg_per_m": "20,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 110x110 x 12",
+      "antwoord": "L gel. 110x110 x 12 weegt 20,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "110x110 x 14",
+      "gewicht_kg_per_m": "23,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 110x110 x 14",
+      "antwoord": "L gel. 110x110 x 14 weegt 23,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "120x120 x 10",
+      "gewicht_kg_per_m": "18,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 120x120 x 10",
+      "antwoord": "L gel. 120x120 x 10 weegt 18,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "120x120 x 11",
+      "gewicht_kg_per_m": "20,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 120x120 x 11",
+      "antwoord": "L gel. 120x120 x 11 weegt 20,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "120x120 x 12",
+      "gewicht_kg_per_m": "22,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 120x120 x 12",
+      "antwoord": "L gel. 120x120 x 12 weegt 22,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "120x120 x 15",
+      "gewicht_kg_per_m": "27,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 120x120 x 15",
+      "antwoord": "L gel. 120x120 x 15 weegt 27,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "130x130 x 12",
+      "gewicht_kg_per_m": "24,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 130x130 x 12",
+      "antwoord": "L gel. 130x130 x 12 weegt 24,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "130x130 x 14",
+      "gewicht_kg_per_m": "27,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 130x130 x 14",
+      "antwoord": "L gel. 130x130 x 14 weegt 27,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "140x140 x 13",
+      "gewicht_kg_per_m": "28,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 140x140 x 13",
+      "antwoord": "L gel. 140x140 x 13 weegt 28,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "140x140 x 15",
+      "gewicht_kg_per_m": "32,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 140x140 x 15",
+      "antwoord": "L gel. 140x140 x 15 weegt 32,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "150x150 x 12",
+      "gewicht_kg_per_m": "27,9",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 150x150 x 12",
+      "antwoord": "L gel. 150x150 x 12 weegt 27,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "150x150 x 14",
+      "gewicht_kg_per_m": "32,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 150x150 x 14",
+      "antwoord": "L gel. 150x150 x 14 weegt 32,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "150x150 x 15",
+      "gewicht_kg_per_m": "34,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 150x150 x 15",
+      "antwoord": "L gel. 150x150 x 15 weegt 34,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "150x150 x 18",
+      "gewicht_kg_per_m": "40,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 150x150 x 18",
+      "antwoord": "L gel. 150x150 x 18 weegt 40,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "160x160 x 15",
+      "gewicht_kg_per_m": "36,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 160x160 x 15",
+      "antwoord": "L gel. 160x160 x 15 weegt 36,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "180x180 x 16",
+      "gewicht_kg_per_m": "44,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 180x180 x 16",
+      "antwoord": "L gel. 180x180 x 16 weegt 44,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "180x180 x 18",
+      "gewicht_kg_per_m": "49,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 180x180 x 18",
+      "antwoord": "L gel. 180x180 x 18 weegt 49,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "200x200 x 16",
+      "gewicht_kg_per_m": "49,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 200x200 x 16",
+      "antwoord": "L gel. 200x200 x 16 weegt 49,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "200x200 x 18",
+      "gewicht_kg_per_m": "55,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 200x200 x 18",
+      "antwoord": "L gel. 200x200 x 18 weegt 55,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "200x200 x 20",
+      "gewicht_kg_per_m": "61,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 200x200 x 20",
+      "antwoord": "L gel. 200x200 x 20 weegt 61,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "200x200 x 24",
+      "gewicht_kg_per_m": "72,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 200x200 x 24",
+      "antwoord": "L gel. 200x200 x 24 weegt 72,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "20x20 x 3",
+      "gewicht_kg_per_m": "0,895",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 20x20 x 3",
+      "antwoord": "L gel. 20x20 x 3 weegt 0,895 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "20x20 x 4",
+      "gewicht_kg_per_m": "1,16",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 20x20 x 4",
+      "antwoord": "L gel. 20x20 x 4 weegt 1,16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "25x25 x 3",
+      "gewicht_kg_per_m": "1,14",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 25x25 x 3",
+      "antwoord": "L gel. 25x25 x 3 weegt 1,14 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "25x25 x 4",
+      "gewicht_kg_per_m": "1,48",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 25x25 x 4",
+      "antwoord": "L gel. 25x25 x 4 weegt 1,48 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "25x25 x 5",
+      "gewicht_kg_per_m": "1,81",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 25x25 x 5",
+      "antwoord": "L gel. 25x25 x 5 weegt 1,81 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "30x30 x 3",
+      "gewicht_kg_per_m": "1,39",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 30x30 x 3",
+      "antwoord": "L gel. 30x30 x 3 weegt 1,39 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "30x30 x 4",
+      "gewicht_kg_per_m": "1,81",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 30x30 x 4",
+      "antwoord": "L gel. 30x30 x 4 weegt 1,81 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "30x30 x 5",
+      "gewicht_kg_per_m": "2,22",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 30x30 x 5",
+      "antwoord": "L gel. 30x30 x 5 weegt 2,22 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "35x35 x 3",
+      "gewicht_kg_per_m": "1,63",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 35x35 x 3",
+      "antwoord": "L gel. 35x35 x 3 weegt 1,63 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "35x35 x 4",
+      "gewicht_kg_per_m": "2,13",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 35x35 x 4",
+      "antwoord": "L gel. 35x35 x 4 weegt 2,13 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "35x35 x 5",
+      "gewicht_kg_per_m": "2,62",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 35x35 x 5",
+      "antwoord": "L gel. 35x35 x 5 weegt 2,62 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "35x35 x 6",
+      "gewicht_kg_per_m": "3,09",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 35x35 x 6",
+      "antwoord": "L gel. 35x35 x 6 weegt 3,09 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "40x40 x 3",
+      "gewicht_kg_per_m": "1,88",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 40x40 x 3",
+      "antwoord": "L gel. 40x40 x 3 weegt 1,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "40x40 x 4",
+      "gewicht_kg_per_m": "2,46",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 40x40 x 4",
+      "antwoord": "L gel. 40x40 x 4 weegt 2,46 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "40x40 x 5",
+      "gewicht_kg_per_m": "3,03",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 40x40 x 5",
+      "antwoord": "L gel. 40x40 x 5 weegt 3,03 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "40x40 x 6",
+      "gewicht_kg_per_m": "3,58",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 40x40 x 6",
+      "antwoord": "L gel. 40x40 x 6 weegt 3,58 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "45x45 x 5",
+      "gewicht_kg_per_m": "3,44",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 45x45 x 5",
+      "antwoord": "L gel. 45x45 x 5 weegt 3,44 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "45x45 x 6",
+      "gewicht_kg_per_m": "4,07",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 45x45 x 6",
+      "antwoord": "L gel. 45x45 x 6 weegt 4,07 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "50x50 x 4",
+      "gewicht_kg_per_m": "3,11",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 50x50 x 4",
+      "antwoord": "L gel. 50x50 x 4 weegt 3,11 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "50x50 x 5",
+      "gewicht_kg_per_m": "3,84",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 50x50 x 5",
+      "antwoord": "L gel. 50x50 x 5 weegt 3,84 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "50x50 x 6",
+      "gewicht_kg_per_m": "4,55",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 50x50 x 6",
+      "antwoord": "L gel. 50x50 x 6 weegt 4,55 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "50x50 x 7",
+      "gewicht_kg_per_m": "5,25",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 50x50 x 7",
+      "antwoord": "L gel. 50x50 x 7 weegt 5,25 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "50x50 x 8",
+      "gewicht_kg_per_m": "5,93",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 50x50 x 8",
+      "antwoord": "L gel. 50x50 x 8 weegt 5,93 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "50x50 x 9",
+      "gewicht_kg_per_m": "6,59",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 50x50 x 9",
+      "antwoord": "L gel. 50x50 x 9 weegt 6,59 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "55x55 x 6",
+      "gewicht_kg_per_m": "5,05",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 55x55 x 6",
+      "antwoord": "L gel. 55x55 x 6 weegt 5,05 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "55x55 x 8",
+      "gewicht_kg_per_m": "6,58",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 55x55 x 8",
+      "antwoord": "L gel. 55x55 x 8 weegt 6,58 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "60x60 x 10",
+      "gewicht_kg_per_m": "8,85",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 60x60 x 10",
+      "antwoord": "L gel. 60x60 x 10 weegt 8,85 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "60x60 x 6",
+      "gewicht_kg_per_m": "5,53",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 60x60 x 6",
+      "antwoord": "L gel. 60x60 x 6 weegt 5,53 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "60x60 x 7",
+      "gewicht_kg_per_m": "6,38",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 60x60 x 7",
+      "antwoord": "L gel. 60x60 x 7 weegt 6,38 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "60x60 x 8",
+      "gewicht_kg_per_m": "7,22",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 60x60 x 8",
+      "antwoord": "L gel. 60x60 x 8 weegt 7,22 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "65x65 x 6",
+      "gewicht_kg_per_m": "6,02",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 65x65 x 6",
+      "antwoord": "L gel. 65x65 x 6 weegt 6,02 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "65x65 x 7",
+      "gewicht_kg_per_m": "6,96",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 65x65 x 7",
+      "antwoord": "L gel. 65x65 x 7 weegt 6,96 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "65x65 x 8",
+      "gewicht_kg_per_m": "7,88",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 65x65 x 8",
+      "antwoord": "L gel. 65x65 x 8 weegt 7,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "65x65 x 9",
+      "gewicht_kg_per_m": "8,78",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 65x65 x 9",
+      "antwoord": "L gel. 65x65 x 9 weegt 8,78 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "70x70 x 10",
+      "gewicht_kg_per_m": "10,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 70x70 x 10",
+      "antwoord": "L gel. 70x70 x 10 weegt 10,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "70x70 x 7",
+      "gewicht_kg_per_m": "7,52",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 70x70 x 7",
+      "antwoord": "L gel. 70x70 x 7 weegt 7,52 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "70x70 x 8",
+      "gewicht_kg_per_m": "8,52",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 70x70 x 8",
+      "antwoord": "L gel. 70x70 x 8 weegt 8,52 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "70x70 x 9",
+      "gewicht_kg_per_m": "9,50",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 70x70 x 9",
+      "antwoord": "L gel. 70x70 x 9 weegt 9,50 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "75x75 x 10",
+      "gewicht_kg_per_m": "11,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 75x75 x 10",
+      "antwoord": "L gel. 75x75 x 10 weegt 11,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "75x75 x 12",
+      "gewicht_kg_per_m": "13,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 75x75 x 12",
+      "antwoord": "L gel. 75x75 x 12 weegt 13,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "75x75 x 6",
+      "gewicht_kg_per_m": "6,98",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 75x75 x 6",
+      "antwoord": "L gel. 75x75 x 6 weegt 6,98 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "75x75 x 7",
+      "gewicht_kg_per_m": "8,09",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 75x75 x 7",
+      "antwoord": "L gel. 75x75 x 7 weegt 8,09 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "75x75 x 8",
+      "gewicht_kg_per_m": "9,17",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 75x75 x 8",
+      "antwoord": "L gel. 75x75 x 8 weegt 9,17 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "80x80 x 10",
+      "gewicht_kg_per_m": "12,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 80x80 x 10",
+      "antwoord": "L gel. 80x80 x 10 weegt 12,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "80x80 x 12",
+      "gewicht_kg_per_m": "14,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 80x80 x 12",
+      "antwoord": "L gel. 80x80 x 12 weegt 14,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "80x80 x 8",
+      "gewicht_kg_per_m": "9,81",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 80x80 x 8",
+      "antwoord": "L gel. 80x80 x 8 weegt 9,81 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "90x90 x 10",
+      "gewicht_kg_per_m": "13,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 90x90 x 10",
+      "antwoord": "L gel. 90x90 x 10 weegt 13,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "90x90 x 12",
+      "gewicht_kg_per_m": "16,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 90x90 x 12",
+      "antwoord": "L gel. 90x90 x 12 weegt 16,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "90x90 x 8",
+      "gewicht_kg_per_m": "11,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l gel. 90x90 x 8",
+      "antwoord": "L gel. 90x90 x 8 weegt 11,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L gel.",
+      "afmeting": "90x90 x 9",
+      "gewicht_kg_per_m": "12,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l gel. 90x90 x 9",
+      "antwoord": "L gel. 90x90 x 9 weegt 12,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 50 x 10",
+      "gewicht_kg_per_m": "11,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 50 x 10",
+      "antwoord": "L ong. 100 x 50 x 10 weegt 11,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 50 x 6",
+      "gewicht_kg_per_m": "6,97",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 50 x 6",
+      "antwoord": "L ong. 100 x 50 x 6 weegt 6,97 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 50 x 8",
+      "gewicht_kg_per_m": "9,14",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 50 x 8",
+      "antwoord": "L ong. 100 x 50 x 8 weegt 9,14 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 65 x 10",
+      "gewicht_kg_per_m": "12,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 65 x 10",
+      "antwoord": "L ong. 100 x 65 x 10 weegt 12,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 65 x 7",
+      "gewicht_kg_per_m": "8,93",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 100 x 65 x 7",
+      "antwoord": "L ong. 100 x 65 x 7 weegt 8,93 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 65 x 8",
+      "gewicht_kg_per_m": "10,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 65 x 8",
+      "antwoord": "L ong. 100 x 65 x 8 weegt 10,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 65 x 9",
+      "gewicht_kg_per_m": "11,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 65 x 9",
+      "antwoord": "L ong. 100 x 65 x 9 weegt 11,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 75 x 10",
+      "gewicht_kg_per_m": "13,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 75 x 10",
+      "antwoord": "L ong. 100 x 75 x 10 weegt 13,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 75 x 11",
+      "gewicht_kg_per_m": "14,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 75 x 11",
+      "antwoord": "L ong. 100 x 75 x 11 weegt 14,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 75 x 12",
+      "gewicht_kg_per_m": "15,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 75 x 12",
+      "antwoord": "L ong. 100 x 75 x 12 weegt 15,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 75 x 7",
+      "gewicht_kg_per_m": "9,49",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 75 x 7",
+      "antwoord": "L ong. 100 x 75 x 7 weegt 9,49 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 75 x 8",
+      "gewicht_kg_per_m": "10,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 75 x 8",
+      "antwoord": "L ong. 100 x 75 x 8 weegt 10,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "100 x 75 x 9",
+      "gewicht_kg_per_m": "12,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 100 x 75 x 9",
+      "antwoord": "L ong. 100 x 75 x 9 weegt 12,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "120 x 80 x 10",
+      "gewicht_kg_per_m": "15,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 120 x 80 x 10",
+      "antwoord": "L ong. 120 x 80 x 10 weegt 15,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "120 x 80 x 12",
+      "gewicht_kg_per_m": "18,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 120 x 80 x 12",
+      "antwoord": "L ong. 120 x 80 x 12 weegt 18,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "120 x 80 x 8",
+      "gewicht_kg_per_m": "12,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 120 x 80 x 8",
+      "antwoord": "L ong. 120 x 80 x 8 weegt 12,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 65 x 10",
+      "gewicht_kg_per_m": "14,9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 130 x 65 x 10",
+      "antwoord": "L ong. 130 x 65 x 10 weegt 14,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 65 x 12",
+      "gewicht_kg_per_m": "17,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 130 x 65 x 12",
+      "antwoord": "L ong. 130 x 65 x 12 weegt 17,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 65 x 8",
+      "gewicht_kg_per_m": "12,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 130 x 65 x 8",
+      "antwoord": "L ong. 130 x 65 x 8 weegt 12,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 75 x 10",
+      "gewicht_kg_per_m": "15,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 130 x 75 x 10",
+      "antwoord": "L ong. 130 x 75 x 10 weegt 15,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 75 x 12",
+      "gewicht_kg_per_m": "18,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 130 x 75 x 12",
+      "antwoord": "L ong. 130 x 75 x 12 weegt 18,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 75 x 8",
+      "gewicht_kg_per_m": "12,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 130 x 75 x 8",
+      "antwoord": "L ong. 130 x 75 x 8 weegt 12,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 90 x 10",
+      "gewicht_kg_per_m": "16,9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 130 x 90 x 10",
+      "antwoord": "L ong. 130 x 90 x 10 weegt 16,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "130 x 90 x 12",
+      "gewicht_kg_per_m": "20,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 130 x 90 x 12",
+      "antwoord": "L ong. 130 x 90 x 12 weegt 20,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 100 x 10",
+      "gewicht_kg_per_m": "19,3",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 150 x 100 x 10",
+      "antwoord": "L ong. 150 x 100 x 10 weegt 19,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 100 x 12",
+      "gewicht_kg_per_m": "23,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 100 x 12",
+      "antwoord": "L ong. 150 x 100 x 12 weegt 23,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 100 x 14",
+      "gewicht_kg_per_m": "26,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 100 x 14",
+      "antwoord": "L ong. 150 x 100 x 14 weegt 26,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 75 x 10",
+      "gewicht_kg_per_m": "17,3",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 150 x 75 x 10",
+      "antwoord": "L ong. 150 x 75 x 10 weegt 17,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 75 x 11",
+      "gewicht_kg_per_m": "19,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 75 x 11",
+      "antwoord": "L ong. 150 x 75 x 11 weegt 19,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 75 x 12",
+      "gewicht_kg_per_m": "20,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 75 x 12",
+      "antwoord": "L ong. 150 x 75 x 12 weegt 20,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 75 x 9",
+      "gewicht_kg_per_m": "15,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 75 x 9",
+      "antwoord": "L ong. 150 x 75 x 9 weegt 15,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 90 x 10",
+      "gewicht_kg_per_m": "18,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 90 x 10",
+      "antwoord": "L ong. 150 x 90 x 10 weegt 18,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 90 x 12",
+      "gewicht_kg_per_m": "22,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 90 x 12",
+      "antwoord": "L ong. 150 x 90 x 12 weegt 22,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "150 x 90 x 15",
+      "gewicht_kg_per_m": "27,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 150 x 90 x 15",
+      "antwoord": "L ong. 150 x 90 x 15 weegt 27,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "160 x 80 x 10",
+      "gewicht_kg_per_m": "18,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 160 x 80 x 10",
+      "antwoord": "L ong. 160 x 80 x 10 weegt 18,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "160 x 80 x 12",
+      "gewicht_kg_per_m": "22,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 160 x 80 x 12",
+      "antwoord": "L ong. 160 x 80 x 12 weegt 22,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "160 x 80 x 14",
+      "gewicht_kg_per_m": "25,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 160 x 80 x 14",
+      "antwoord": "L ong. 160 x 80 x 14 weegt 25,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "200 x 100 x 10",
+      "gewicht_kg_per_m": "23,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 200 x 100 x 10",
+      "antwoord": "L ong. 200 x 100 x 10 weegt 23,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "200 x 100 x 12",
+      "gewicht_kg_per_m": "27,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 200 x 100 x 12",
+      "antwoord": "L ong. 200 x 100 x 12 weegt 27,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "200 x 100 x 15",
+      "gewicht_kg_per_m": "34,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 200 x 100 x 15",
+      "antwoord": "L ong. 200 x 100 x 15 weegt 34,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "250 x 90 x 10",
+      "gewicht_kg_per_m": "26,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 250 x 90 x 10",
+      "antwoord": "L ong. 250 x 90 x 10 weegt 26,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "30 x 20 x 3",
+      "gewicht_kg_per_m": "1,14",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 30 x 20 x 3",
+      "antwoord": "L ong. 30 x 20 x 3 weegt 1,14 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "30 x 20 x 4",
+      "gewicht_kg_per_m": "1,49",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 30 x 20 x 4",
+      "antwoord": "L ong. 30 x 20 x 4 weegt 1,49 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "40 x 20 x 3",
+      "gewicht_kg_per_m": "1,38",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 40 x 20 x 3",
+      "antwoord": "L ong. 40 x 20 x 3 weegt 1,38 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "40 x 20 x 4",
+      "gewicht_kg_per_m": "1,81",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 40 x 20 x 4",
+      "antwoord": "L ong. 40 x 20 x 4 weegt 1,81 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "40 x 25 x 4",
+      "gewicht_kg_per_m": "1,97",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 40 x 25 x 4",
+      "antwoord": "L ong. 40 x 25 x 4 weegt 1,97 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "45 x 30 x 4",
+      "gewicht_kg_per_m": "2,29",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 45 x 30 x 4",
+      "antwoord": "L ong. 45 x 30 x 4 weegt 2,29 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "45 x 30 x 5",
+      "gewicht_kg_per_m": "2,82",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 45 x 30 x 5",
+      "antwoord": "L ong. 45 x 30 x 5 weegt 2,82 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "50 x 30 x 5",
+      "gewicht_kg_per_m": "3,02",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 50 x 30 x 5",
+      "antwoord": "L ong. 50 x 30 x 5 weegt 3,02 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "50 x 30 x 6",
+      "gewicht_kg_per_m": "3,57",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 50 x 30 x 6",
+      "antwoord": "L ong. 50 x 30 x 6 weegt 3,57 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "50 x 40 x 4",
+      "gewicht_kg_per_m": "2,77",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 50 x 40 x 4",
+      "antwoord": "L ong. 50 x 40 x 4 weegt 2,77 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "50 x 40 x 5",
+      "gewicht_kg_per_m": "3,41",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 50 x 40 x 5",
+      "antwoord": "L ong. 50 x 40 x 5 weegt 3,41 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "50 x 40 x 6",
+      "gewicht_kg_per_m": "4,05",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 50 x 40 x 6",
+      "antwoord": "L ong. 50 x 40 x 6 weegt 4,05 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "60 x 30 x 5",
+      "gewicht_kg_per_m": "3,42",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 60 x 30 x 5",
+      "antwoord": "L ong. 60 x 30 x 5 weegt 3,42 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "60 x 30 x 6",
+      "gewicht_kg_per_m": "4,05",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 60 x 30 x 6",
+      "antwoord": "L ong. 60 x 30 x 6 weegt 4,05 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "60 x 30 x 7",
+      "gewicht_kg_per_m": "4,67",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 60 x 30 x 7",
+      "antwoord": "L ong. 60 x 30 x 7 weegt 4,67 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "60 x 40 x 5",
+      "gewicht_kg_per_m": "3,83",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 60 x 40 x 5",
+      "antwoord": "L ong. 60 x 40 x 5 weegt 3,83 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "60 x 40 x 6",
+      "gewicht_kg_per_m": "4,54",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 60 x 40 x 6",
+      "antwoord": "L ong. 60 x 40 x 6 weegt 4,54 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "60 x 40 x 7",
+      "gewicht_kg_per_m": "5,24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 60 x 40 x 7",
+      "antwoord": "L ong. 60 x 40 x 7 weegt 5,24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "65 x 50 x 5",
+      "gewicht_kg_per_m": "4,43",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 65 x 50 x 5",
+      "antwoord": "L ong. 65 x 50 x 5 weegt 4,43 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "65 x 50 x 6",
+      "gewicht_kg_per_m": "5,26",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 65 x 50 x 6",
+      "antwoord": "L ong. 65 x 50 x 6 weegt 5,26 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "65 x 50 x 7",
+      "gewicht_kg_per_m": "6,08",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 65 x 50 x 7",
+      "antwoord": "L ong. 65 x 50 x 7 weegt 6,08 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "65 x 50 x 8",
+      "gewicht_kg_per_m": "6,88",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 65 x 50 x 8",
+      "antwoord": "L ong. 65 x 50 x 8 weegt 6,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 50 x 5",
+      "gewicht_kg_per_m": "4,84",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 50 x 5",
+      "antwoord": "L ong. 75 x 50 x 5 weegt 4,84 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 50 x 6",
+      "gewicht_kg_per_m": "5,75",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal l ong. 75 x 50 x 6",
+      "antwoord": "L ong. 75 x 50 x 6 weegt 5,75 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 50 x 7",
+      "gewicht_kg_per_m": "6,65",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 50 x 7",
+      "antwoord": "L ong. 75 x 50 x 7 weegt 6,65 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 50 x 8",
+      "gewicht_kg_per_m": "7,53",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 50 x 8",
+      "antwoord": "L ong. 75 x 50 x 8 weegt 7,53 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 50 x 9",
+      "gewicht_kg_per_m": "8,39",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 50 x 9",
+      "antwoord": "L ong. 75 x 50 x 9 weegt 8,39 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 55 x 5",
+      "gewicht_kg_per_m": "5,04",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 55 x 5",
+      "antwoord": "L ong. 75 x 55 x 5 weegt 5,04 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 55 x 7",
+      "gewicht_kg_per_m": "6,93",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 55 x 7",
+      "antwoord": "L ong. 75 x 55 x 7 weegt 6,93 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 65 x 10",
+      "gewicht_kg_per_m": "10,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 65 x 10",
+      "antwoord": "L ong. 75 x 65 x 10 weegt 10,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 65 x 6",
+      "gewicht_kg_per_m": "6,49",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 65 x 6",
+      "antwoord": "L ong. 75 x 65 x 6 weegt 6,49 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "75 x 65 x 8",
+      "gewicht_kg_per_m": "8,50",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 75 x 65 x 8",
+      "antwoord": "L ong. 75 x 65 x 8 weegt 8,50 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 40 x 6",
+      "gewicht_kg_per_m": "5,51",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 40 x 6",
+      "antwoord": "L ong. 80 x 40 x 6 weegt 5,51 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 40 x 8",
+      "gewicht_kg_per_m": "7,21",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 40 x 8",
+      "antwoord": "L ong. 80 x 40 x 8 weegt 7,21 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 60 x 6",
+      "gewicht_kg_per_m": "6,49",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 60 x 6",
+      "antwoord": "L ong. 80 x 60 x 6 weegt 6,49 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 60 x 7",
+      "gewicht_kg_per_m": "7,50",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 60 x 7",
+      "antwoord": "L ong. 80 x 60 x 7 weegt 7,50 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 60 x 8",
+      "gewicht_kg_per_m": "8,50",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 60 x 8",
+      "antwoord": "L ong. 80 x 60 x 8 weegt 8,50 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 65 x 10",
+      "gewicht_kg_per_m": "10,9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 65 x 10",
+      "antwoord": "L ong. 80 x 65 x 10 weegt 10,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 65 x 6",
+      "gewicht_kg_per_m": "6,73",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 65 x 6",
+      "antwoord": "L ong. 80 x 65 x 6 weegt 6,73 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "80 x 65 x 8",
+      "gewicht_kg_per_m": "8,82",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 80 x 65 x 8",
+      "antwoord": "L ong. 80 x 65 x 8 weegt 8,82 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "90 x 65 x 10",
+      "gewicht_kg_per_m": "11,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 90 x 65 x 10",
+      "antwoord": "L ong. 90 x 65 x 10 weegt 11,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "90 x 65 x 6",
+      "gewicht_kg_per_m": "7,21",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 90 x 65 x 6",
+      "antwoord": "L ong. 90 x 65 x 6 weegt 7,21 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "90 x 65 x 7",
+      "gewicht_kg_per_m": "8,34",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 90 x 65 x 7",
+      "antwoord": "L ong. 90 x 65 x 7 weegt 8,34 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "L ong.",
+      "afmeting": "90 x 65 x 8",
+      "gewicht_kg_per_m": "9,46",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal l ong. 90 x 65 x 8",
+      "antwoord": "L ong. 90 x 65 x 8 weegt 9,46 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "100x100x11",
+      "gewicht_kg_per_m": "16,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 100x100x11",
+      "antwoord": "T gel. 100x100x11 weegt 16,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "120x120x13",
+      "gewicht_kg_per_m": "23,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 120x120x13",
+      "antwoord": "T gel. 120x120x13 weegt 23,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "140x140x15",
+      "gewicht_kg_per_m": "31,9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 140x140x15",
+      "antwoord": "T gel. 140x140x15 weegt 31,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "20x20x3",
+      "gewicht_kg_per_m": "0,895",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 20x20x3",
+      "antwoord": "T gel. 20x20x3 weegt 0,895 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "25x25x3,5",
+      "gewicht_kg_per_m": "1,31",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 25x25x3,5",
+      "antwoord": "T gel. 25x25x3,5 weegt 1,31 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "30x30x4",
+      "gewicht_kg_per_m": "1,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 30x30x4",
+      "antwoord": "T gel. 30x30x4 weegt 1,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "35x35x4,5",
+      "gewicht_kg_per_m": "2,37",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 35x35x4,5",
+      "antwoord": "T gel. 35x35x4,5 weegt 2,37 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "40x40x5",
+      "gewicht_kg_per_m": "3,02",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 40x40x5",
+      "antwoord": "T gel. 40x40x5 weegt 3,02 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "45x45x5,5",
+      "gewicht_kg_per_m": "3,73",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 45x45x5,5",
+      "antwoord": "T gel. 45x45x5,5 weegt 3,73 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "50x50x6",
+      "gewicht_kg_per_m": "4,53",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 50x50x6",
+      "antwoord": "T gel. 50x50x6 weegt 4,53 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "60x60x7",
+      "gewicht_kg_per_m": "6,35",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 60x60x7",
+      "antwoord": "T gel. 60x60x7 weegt 6,35 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "70x70x8",
+      "gewicht_kg_per_m": "8,48",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 70x70x8",
+      "antwoord": "T gel. 70x70x8 weegt 8,48 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "80x80x9",
+      "gewicht_kg_per_m": "10,9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 80x80x9",
+      "antwoord": "T gel. 80x80x9 weegt 10,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T gel.",
+      "afmeting": "90x90x10",
+      "gewicht_kg_per_m": "13,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t gel. 90x90x10",
+      "antwoord": "T gel. 90x90x10 weegt 13,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T ong.",
+      "afmeting": "100x50x8,5",
+      "gewicht_kg_per_m": "9,61",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t ong. 100x50x8,5",
+      "antwoord": "T ong. 100x50x8,5 weegt 9,61 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T ong.",
+      "afmeting": "120x60x10",
+      "gewicht_kg_per_m": "13,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t ong. 120x60x10",
+      "antwoord": "T ong. 120x60x10 weegt 13,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T ong.",
+      "afmeting": "60x30x5,5",
+      "gewicht_kg_per_m": "3,72",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t ong. 60x30x5,5",
+      "antwoord": "T ong. 60x30x5,5 weegt 3,72 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T ong.",
+      "afmeting": "70x35x6",
+      "gewicht_kg_per_m": "4,75",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t ong. 70x35x6",
+      "antwoord": "T ong. 70x35x6 weegt 4,75 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "T ong.",
+      "afmeting": "80x40x7",
+      "gewicht_kg_per_m": "6,32",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal t ong. 80x40x7",
+      "antwoord": "T ong. 80x40x7 weegt 6,32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "klein U",
+      "afmeting": "30x33x5",
+      "gewicht_kg_per_m": "4,35",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal klein u 30x33x5",
+      "antwoord": "klein U 30x33x5 weegt 4,35 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "klein U",
+      "afmeting": "40x20x5",
+      "gewicht_kg_per_m": "2,93",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal klein u 40x20x5",
+      "antwoord": "klein U 40x20x5 weegt 2,93 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "klein U",
+      "afmeting": "40x35x5",
+      "gewicht_kg_per_m": "4,97",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal klein u 40x35x5",
+      "antwoord": "klein U 40x35x5 weegt 4,97 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "klein U",
+      "afmeting": "50x25x5",
+      "gewicht_kg_per_m": "3,94",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal klein u 50x25x5",
+      "antwoord": "klein U 50x25x5 weegt 3,94 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "klein U",
+      "afmeting": "50x38x5",
+      "gewicht_kg_per_m": "5,70",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal klein u 50x38x5",
+      "antwoord": "klein U 50x38x5 weegt 5,70 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "klein U",
+      "afmeting": "60x30x6",
+      "gewicht_kg_per_m": "5,17",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal klein u 60x30x6",
+      "antwoord": "klein U 60x30x6 weegt 5,17 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "klein U",
+      "afmeting": "65x42x6",
+      "gewicht_kg_per_m": "7,22",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal klein u 65x42x6",
+      "antwoord": "klein U 65x42x6 weegt 7,22 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "10 x 3",
+      "gewicht_kg_per_m": "0,24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 10 x 3",
+      "antwoord": "plat 10 x 3 weegt 0,24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "10 x 4",
+      "gewicht_kg_per_m": "0,32",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 10 x 4",
+      "antwoord": "plat 10 x 4 weegt 0,32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 10",
+      "gewicht_kg_per_m": "8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 100 x 10",
+      "antwoord": "plat 100 x 10 weegt 8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 12",
+      "gewicht_kg_per_m": "9,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 100 x 12",
+      "antwoord": "plat 100 x 12 weegt 9,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 15",
+      "gewicht_kg_per_m": "12",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 100 x 15",
+      "antwoord": "plat 100 x 15 weegt 12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 20",
+      "gewicht_kg_per_m": "16",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 100 x 20",
+      "antwoord": "plat 100 x 20 weegt 16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 25",
+      "gewicht_kg_per_m": "20",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 100 x 25",
+      "antwoord": "plat 100 x 25 weegt 20 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 3",
+      "gewicht_kg_per_m": "2,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 100 x 3",
+      "antwoord": "plat 100 x 3 weegt 2,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 30",
+      "gewicht_kg_per_m": "24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 100 x 30",
+      "antwoord": "plat 100 x 30 weegt 24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 4",
+      "gewicht_kg_per_m": "3,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 100 x 4",
+      "antwoord": "plat 100 x 4 weegt 3,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 40",
+      "gewicht_kg_per_m": "32",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 100 x 40",
+      "antwoord": "plat 100 x 40 weegt 32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 5",
+      "gewicht_kg_per_m": "4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 100 x 5",
+      "antwoord": "plat 100 x 5 weegt 4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 50",
+      "gewicht_kg_per_m": "40",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 100 x 50",
+      "antwoord": "plat 100 x 50 weegt 40 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 6",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 100 x 6",
+      "antwoord": "plat 100 x 6 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "100 x 8",
+      "gewicht_kg_per_m": "6,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 100 x 8",
+      "antwoord": "plat 100 x 8 weegt 6,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 10",
+      "gewicht_kg_per_m": "8,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 110 x 10",
+      "antwoord": "plat 110 x 10 weegt 8,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 12",
+      "gewicht_kg_per_m": "10,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 12",
+      "antwoord": "plat 110 x 12 weegt 10,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 15",
+      "gewicht_kg_per_m": "13,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 15",
+      "antwoord": "plat 110 x 15 weegt 13,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 20",
+      "gewicht_kg_per_m": "17,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 20",
+      "antwoord": "plat 110 x 20 weegt 17,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 25",
+      "gewicht_kg_per_m": "22",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 25",
+      "antwoord": "plat 110 x 25 weegt 22 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 3",
+      "gewicht_kg_per_m": "2,64",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 3",
+      "antwoord": "plat 110 x 3 weegt 2,64 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 30",
+      "gewicht_kg_per_m": "26,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 30",
+      "antwoord": "plat 110 x 30 weegt 26,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 4",
+      "gewicht_kg_per_m": "3,52",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 4",
+      "antwoord": "plat 110 x 4 weegt 3,52 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 40",
+      "gewicht_kg_per_m": "35,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 40",
+      "antwoord": "plat 110 x 40 weegt 35,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 5",
+      "gewicht_kg_per_m": "4,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 5",
+      "antwoord": "plat 110 x 5 weegt 4,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 50",
+      "gewicht_kg_per_m": "44",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 50",
+      "antwoord": "plat 110 x 50 weegt 44 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 6",
+      "gewicht_kg_per_m": "5,28",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 6",
+      "antwoord": "plat 110 x 6 weegt 5,28 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "110 x 8",
+      "gewicht_kg_per_m": "7,04",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 110 x 8",
+      "antwoord": "plat 110 x 8 weegt 7,04 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "12 x 3",
+      "gewicht_kg_per_m": "0,288",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 12 x 3",
+      "antwoord": "plat 12 x 3 weegt 0,288 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "12 x 4",
+      "gewicht_kg_per_m": "0,384",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 12 x 4",
+      "antwoord": "plat 12 x 4 weegt 0,384 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 10",
+      "gewicht_kg_per_m": "9,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 120 x 10",
+      "antwoord": "plat 120 x 10 weegt 9,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 12",
+      "gewicht_kg_per_m": "11,5",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 120 x 12",
+      "antwoord": "plat 120 x 12 weegt 11,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 15",
+      "gewicht_kg_per_m": "14,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 120 x 15",
+      "antwoord": "plat 120 x 15 weegt 14,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 20",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 120 x 20",
+      "antwoord": "plat 120 x 20 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 25",
+      "gewicht_kg_per_m": "24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 120 x 25",
+      "antwoord": "plat 120 x 25 weegt 24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 3",
+      "gewicht_kg_per_m": "2,88",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 120 x 3",
+      "antwoord": "plat 120 x 3 weegt 2,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 30",
+      "gewicht_kg_per_m": "28,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 120 x 30",
+      "antwoord": "plat 120 x 30 weegt 28,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 4",
+      "gewicht_kg_per_m": "3,84",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 120 x 4",
+      "antwoord": "plat 120 x 4 weegt 3,84 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 40",
+      "gewicht_kg_per_m": "38,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 120 x 40",
+      "antwoord": "plat 120 x 40 weegt 38,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 5",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 120 x 5",
+      "antwoord": "plat 120 x 5 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 50",
+      "gewicht_kg_per_m": "48",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 120 x 50",
+      "antwoord": "plat 120 x 50 weegt 48 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 6",
+      "gewicht_kg_per_m": "5,76",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 120 x 6",
+      "antwoord": "plat 120 x 6 weegt 5,76 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "120 x 8",
+      "gewicht_kg_per_m": "7,68",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 120 x 8",
+      "antwoord": "plat 120 x 8 weegt 7,68 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 10",
+      "gewicht_kg_per_m": "10,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 130 x 10",
+      "antwoord": "plat 130 x 10 weegt 10,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 12",
+      "gewicht_kg_per_m": "12,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 12",
+      "antwoord": "plat 130 x 12 weegt 12,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 15",
+      "gewicht_kg_per_m": "15,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 130 x 15",
+      "antwoord": "plat 130 x 15 weegt 15,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 20",
+      "gewicht_kg_per_m": "20,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 20",
+      "antwoord": "plat 130 x 20 weegt 20,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 25",
+      "gewicht_kg_per_m": "26",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 25",
+      "antwoord": "plat 130 x 25 weegt 26 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 3",
+      "gewicht_kg_per_m": "3,12",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 3",
+      "antwoord": "plat 130 x 3 weegt 3,12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 30",
+      "gewicht_kg_per_m": "31,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 30",
+      "antwoord": "plat 130 x 30 weegt 31,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 4",
+      "gewicht_kg_per_m": "4,16",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 4",
+      "antwoord": "plat 130 x 4 weegt 4,16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 40",
+      "gewicht_kg_per_m": "41,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 40",
+      "antwoord": "plat 130 x 40 weegt 41,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 5",
+      "gewicht_kg_per_m": "5,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 5",
+      "antwoord": "plat 130 x 5 weegt 5,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 50",
+      "gewicht_kg_per_m": "52",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 50",
+      "antwoord": "plat 130 x 50 weegt 52 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 6",
+      "gewicht_kg_per_m": "6,24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 6",
+      "antwoord": "plat 130 x 6 weegt 6,24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "130 x 8",
+      "gewicht_kg_per_m": "8,32",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 130 x 8",
+      "antwoord": "plat 130 x 8 weegt 8,32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "14 x 3",
+      "gewicht_kg_per_m": "0,336",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 14 x 3",
+      "antwoord": "plat 14 x 3 weegt 0,336 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "14 x 4",
+      "gewicht_kg_per_m": "0,448",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 14 x 4",
+      "antwoord": "plat 14 x 4 weegt 0,448 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "14 x 5",
+      "gewicht_kg_per_m": "0,56",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 14 x 5",
+      "antwoord": "plat 14 x 5 weegt 0,56 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 10",
+      "gewicht_kg_per_m": "11,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 140 x 10",
+      "antwoord": "plat 140 x 10 weegt 11,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 12",
+      "gewicht_kg_per_m": "13,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 12",
+      "antwoord": "plat 140 x 12 weegt 13,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 15",
+      "gewicht_kg_per_m": "16,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 140 x 15",
+      "antwoord": "plat 140 x 15 weegt 16,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 20",
+      "gewicht_kg_per_m": "22,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 140 x 20",
+      "antwoord": "plat 140 x 20 weegt 22,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 25",
+      "gewicht_kg_per_m": "28",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 25",
+      "antwoord": "plat 140 x 25 weegt 28 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 3",
+      "gewicht_kg_per_m": "3,36",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 3",
+      "antwoord": "plat 140 x 3 weegt 3,36 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 30",
+      "gewicht_kg_per_m": "33,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 30",
+      "antwoord": "plat 140 x 30 weegt 33,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 4",
+      "gewicht_kg_per_m": "4,48",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 4",
+      "antwoord": "plat 140 x 4 weegt 4,48 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 40",
+      "gewicht_kg_per_m": "44,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 40",
+      "antwoord": "plat 140 x 40 weegt 44,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 5",
+      "gewicht_kg_per_m": "5,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 5",
+      "antwoord": "plat 140 x 5 weegt 5,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 50",
+      "gewicht_kg_per_m": "56",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 50",
+      "antwoord": "plat 140 x 50 weegt 56 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 6",
+      "gewicht_kg_per_m": "6,72",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 6",
+      "antwoord": "plat 140 x 6 weegt 6,72 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "140 x 8",
+      "gewicht_kg_per_m": "8,96",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 140 x 8",
+      "antwoord": "plat 140 x 8 weegt 8,96 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 10",
+      "gewicht_kg_per_m": "12",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 150 x 10",
+      "antwoord": "plat 150 x 10 weegt 12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 12",
+      "gewicht_kg_per_m": "14,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 150 x 12",
+      "antwoord": "plat 150 x 12 weegt 14,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 15",
+      "gewicht_kg_per_m": "18",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 150 x 15",
+      "antwoord": "plat 150 x 15 weegt 18 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 20",
+      "gewicht_kg_per_m": "24",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 150 x 20",
+      "antwoord": "plat 150 x 20 weegt 24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 25",
+      "gewicht_kg_per_m": "30",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 150 x 25",
+      "antwoord": "plat 150 x 25 weegt 30 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 3",
+      "gewicht_kg_per_m": "3,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 150 x 3",
+      "antwoord": "plat 150 x 3 weegt 3,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 30",
+      "gewicht_kg_per_m": "36",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 150 x 30",
+      "antwoord": "plat 150 x 30 weegt 36 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 4",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 150 x 4",
+      "antwoord": "plat 150 x 4 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 40",
+      "gewicht_kg_per_m": "48",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 150 x 40",
+      "antwoord": "plat 150 x 40 weegt 48 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 5",
+      "gewicht_kg_per_m": "6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 150 x 5",
+      "antwoord": "plat 150 x 5 weegt 6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 50",
+      "gewicht_kg_per_m": "60",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 150 x 50",
+      "antwoord": "plat 150 x 50 weegt 60 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 6",
+      "gewicht_kg_per_m": "7,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 150 x 6",
+      "antwoord": "plat 150 x 6 weegt 7,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "150 x 8",
+      "gewicht_kg_per_m": "9,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 150 x 8",
+      "antwoord": "plat 150 x 8 weegt 9,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "16 x 3",
+      "gewicht_kg_per_m": "0,384",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 16 x 3",
+      "antwoord": "plat 16 x 3 weegt 0,384 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "16 x 4",
+      "gewicht_kg_per_m": "0,512",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 16 x 4",
+      "antwoord": "plat 16 x 4 weegt 0,512 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "16 x 5",
+      "gewicht_kg_per_m": "0,64",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 16 x 5",
+      "antwoord": "plat 16 x 5 weegt 0,64 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "18 x 3",
+      "gewicht_kg_per_m": "0,432",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 18 x 3",
+      "antwoord": "plat 18 x 3 weegt 0,432 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "18 x 4",
+      "gewicht_kg_per_m": "0,576",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 18 x 4",
+      "antwoord": "plat 18 x 4 weegt 0,576 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "18 x 5",
+      "gewicht_kg_per_m": "0,72",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 18 x 5",
+      "antwoord": "plat 18 x 5 weegt 0,72 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 10",
+      "gewicht_kg_per_m": "1,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 10",
+      "antwoord": "plat 20 x 10 weegt 1,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 12",
+      "gewicht_kg_per_m": "1,92",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 12",
+      "antwoord": "plat 20 x 12 weegt 1,92 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 15",
+      "gewicht_kg_per_m": "2,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 15",
+      "antwoord": "plat 20 x 15 weegt 2,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 3",
+      "gewicht_kg_per_m": "0,48",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 3",
+      "antwoord": "plat 20 x 3 weegt 0,48 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 4",
+      "gewicht_kg_per_m": "0,64",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 4",
+      "antwoord": "plat 20 x 4 weegt 0,64 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 5",
+      "gewicht_kg_per_m": "0,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 5",
+      "antwoord": "plat 20 x 5 weegt 0,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 6",
+      "gewicht_kg_per_m": "0,96",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 6",
+      "antwoord": "plat 20 x 6 weegt 0,96 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "20 x 8",
+      "gewicht_kg_per_m": "1,28",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 20 x 8",
+      "antwoord": "plat 20 x 8 weegt 1,28 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 10",
+      "gewicht_kg_per_m": "2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 10",
+      "antwoord": "plat 25 x 10 weegt 2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 12",
+      "gewicht_kg_per_m": "2,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 12",
+      "antwoord": "plat 25 x 12 weegt 2,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 15",
+      "gewicht_kg_per_m": "3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 15",
+      "antwoord": "plat 25 x 15 weegt 3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 3",
+      "gewicht_kg_per_m": "0,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 3",
+      "antwoord": "plat 25 x 3 weegt 0,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 4",
+      "gewicht_kg_per_m": "0,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 4",
+      "antwoord": "plat 25 x 4 weegt 0,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 5",
+      "gewicht_kg_per_m": "1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 5",
+      "antwoord": "plat 25 x 5 weegt 1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 6",
+      "gewicht_kg_per_m": "1,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 6",
+      "antwoord": "plat 25 x 6 weegt 1,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "25 x 8",
+      "gewicht_kg_per_m": "1,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 25 x 8",
+      "antwoord": "plat 25 x 8 weegt 1,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 10",
+      "gewicht_kg_per_m": "2,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 10",
+      "antwoord": "plat 30 x 10 weegt 2,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 12",
+      "gewicht_kg_per_m": "2,88",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 12",
+      "antwoord": "plat 30 x 12 weegt 2,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 15",
+      "gewicht_kg_per_m": "3,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 15",
+      "antwoord": "plat 30 x 15 weegt 3,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 20",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 20",
+      "antwoord": "plat 30 x 20 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 3",
+      "gewicht_kg_per_m": "0,72",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 3",
+      "antwoord": "plat 30 x 3 weegt 0,72 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 4",
+      "gewicht_kg_per_m": "0,96",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 4",
+      "antwoord": "plat 30 x 4 weegt 0,96 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 5",
+      "gewicht_kg_per_m": "1,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 5",
+      "antwoord": "plat 30 x 5 weegt 1,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 6",
+      "gewicht_kg_per_m": "1,44",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 6",
+      "antwoord": "plat 30 x 6 weegt 1,44 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "30 x 8",
+      "gewicht_kg_per_m": "1,92",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 30 x 8",
+      "antwoord": "plat 30 x 8 weegt 1,92 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 10",
+      "gewicht_kg_per_m": "2,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 10",
+      "antwoord": "plat 35 x 10 weegt 2,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 12",
+      "gewicht_kg_per_m": "3,36",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 12",
+      "antwoord": "plat 35 x 12 weegt 3,36 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 15",
+      "gewicht_kg_per_m": "4,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 15",
+      "antwoord": "plat 35 x 15 weegt 4,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 20",
+      "gewicht_kg_per_m": "5,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 20",
+      "antwoord": "plat 35 x 20 weegt 5,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 25",
+      "gewicht_kg_per_m": "7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 25",
+      "antwoord": "plat 35 x 25 weegt 7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 3",
+      "gewicht_kg_per_m": "0,84",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 3",
+      "antwoord": "plat 35 x 3 weegt 0,84 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 4",
+      "gewicht_kg_per_m": "1,12",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 4",
+      "antwoord": "plat 35 x 4 weegt 1,12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 5",
+      "gewicht_kg_per_m": "1,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 5",
+      "antwoord": "plat 35 x 5 weegt 1,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 6",
+      "gewicht_kg_per_m": "1,68",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 6",
+      "antwoord": "plat 35 x 6 weegt 1,68 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "35 x 8",
+      "gewicht_kg_per_m": "2,24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 35 x 8",
+      "antwoord": "plat 35 x 8 weegt 2,24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 10",
+      "gewicht_kg_per_m": "3,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 40 x 10",
+      "antwoord": "plat 40 x 10 weegt 3,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 12",
+      "gewicht_kg_per_m": "3,84",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 40 x 12",
+      "antwoord": "plat 40 x 12 weegt 3,84 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 15",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 40 x 15",
+      "antwoord": "plat 40 x 15 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 20",
+      "gewicht_kg_per_m": "6,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 40 x 20",
+      "antwoord": "plat 40 x 20 weegt 6,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 25",
+      "gewicht_kg_per_m": "8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 40 x 25",
+      "antwoord": "plat 40 x 25 weegt 8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 3",
+      "gewicht_kg_per_m": "0,96",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 40 x 3",
+      "antwoord": "plat 40 x 3 weegt 0,96 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 4",
+      "gewicht_kg_per_m": "1,28",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 40 x 4",
+      "antwoord": "plat 40 x 4 weegt 1,28 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 5",
+      "gewicht_kg_per_m": "1,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 40 x 5",
+      "antwoord": "plat 40 x 5 weegt 1,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 6",
+      "gewicht_kg_per_m": "1,92",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 40 x 6",
+      "antwoord": "plat 40 x 6 weegt 1,92 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "40 x 8",
+      "gewicht_kg_per_m": "2,56",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 40 x 8",
+      "antwoord": "plat 40 x 8 weegt 2,56 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 10",
+      "gewicht_kg_per_m": "3,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 10",
+      "antwoord": "plat 45 x 10 weegt 3,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 12",
+      "gewicht_kg_per_m": "4,32",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 12",
+      "antwoord": "plat 45 x 12 weegt 4,32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 15",
+      "gewicht_kg_per_m": "5,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 15",
+      "antwoord": "plat 45 x 15 weegt 5,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 20",
+      "gewicht_kg_per_m": "7,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 20",
+      "antwoord": "plat 45 x 20 weegt 7,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 25",
+      "gewicht_kg_per_m": "9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 25",
+      "antwoord": "plat 45 x 25 weegt 9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 3",
+      "gewicht_kg_per_m": "1,08",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 3",
+      "antwoord": "plat 45 x 3 weegt 1,08 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 4",
+      "gewicht_kg_per_m": "1,44",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 4",
+      "antwoord": "plat 45 x 4 weegt 1,44 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 5",
+      "gewicht_kg_per_m": "1,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 5",
+      "antwoord": "plat 45 x 5 weegt 1,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 6",
+      "gewicht_kg_per_m": "2,16",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 6",
+      "antwoord": "plat 45 x 6 weegt 2,16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "45 x 8",
+      "gewicht_kg_per_m": "2,88",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 45 x 8",
+      "antwoord": "plat 45 x 8 weegt 2,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 10",
+      "gewicht_kg_per_m": "4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 50 x 10",
+      "antwoord": "plat 50 x 10 weegt 4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 12",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 50 x 12",
+      "antwoord": "plat 50 x 12 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 15",
+      "gewicht_kg_per_m": "6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 50 x 15",
+      "antwoord": "plat 50 x 15 weegt 6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 20",
+      "gewicht_kg_per_m": "8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 50 x 20",
+      "antwoord": "plat 50 x 20 weegt 8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 25",
+      "gewicht_kg_per_m": "10",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 50 x 25",
+      "antwoord": "plat 50 x 25 weegt 10 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 3",
+      "gewicht_kg_per_m": "1,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 50 x 3",
+      "antwoord": "plat 50 x 3 weegt 1,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 30",
+      "gewicht_kg_per_m": "12",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 50 x 30",
+      "antwoord": "plat 50 x 30 weegt 12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 4",
+      "gewicht_kg_per_m": "1,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 50 x 4",
+      "antwoord": "plat 50 x 4 weegt 1,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 40",
+      "gewicht_kg_per_m": "16",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 50 x 40",
+      "antwoord": "plat 50 x 40 weegt 16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 5",
+      "gewicht_kg_per_m": "2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 50 x 5",
+      "antwoord": "plat 50 x 5 weegt 2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 6",
+      "gewicht_kg_per_m": "2,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 50 x 6",
+      "antwoord": "plat 50 x 6 weegt 2,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "50 x 8",
+      "gewicht_kg_per_m": "3,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 50 x 8",
+      "antwoord": "plat 50 x 8 weegt 3,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 10",
+      "gewicht_kg_per_m": "4,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 10",
+      "antwoord": "plat 55 x 10 weegt 4,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 12",
+      "gewicht_kg_per_m": "5,28",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 12",
+      "antwoord": "plat 55 x 12 weegt 5,28 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 15",
+      "gewicht_kg_per_m": "6,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 15",
+      "antwoord": "plat 55 x 15 weegt 6,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 20",
+      "gewicht_kg_per_m": "8,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 20",
+      "antwoord": "plat 55 x 20 weegt 8,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 25",
+      "gewicht_kg_per_m": "11",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 25",
+      "antwoord": "plat 55 x 25 weegt 11 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 3",
+      "gewicht_kg_per_m": "1,32",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 3",
+      "antwoord": "plat 55 x 3 weegt 1,32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 30",
+      "gewicht_kg_per_m": "13,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 30",
+      "antwoord": "plat 55 x 30 weegt 13,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 4",
+      "gewicht_kg_per_m": "1,76",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 4",
+      "antwoord": "plat 55 x 4 weegt 1,76 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 5",
+      "gewicht_kg_per_m": "2,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 5",
+      "antwoord": "plat 55 x 5 weegt 2,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 6",
+      "gewicht_kg_per_m": "2,64",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 6",
+      "antwoord": "plat 55 x 6 weegt 2,64 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "55 x 8",
+      "gewicht_kg_per_m": "3,52",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 55 x 8",
+      "antwoord": "plat 55 x 8 weegt 3,52 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 10",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 60 x 10",
+      "antwoord": "plat 60 x 10 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 12",
+      "gewicht_kg_per_m": "5,76",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 12",
+      "antwoord": "plat 60 x 12 weegt 5,76 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 15",
+      "gewicht_kg_per_m": "7,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 60 x 15",
+      "antwoord": "plat 60 x 15 weegt 7,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 20",
+      "gewicht_kg_per_m": "9,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 20",
+      "antwoord": "plat 60 x 20 weegt 9,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 25",
+      "gewicht_kg_per_m": "12",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 25",
+      "antwoord": "plat 60 x 25 weegt 12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 3",
+      "gewicht_kg_per_m": "1,44",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 3",
+      "antwoord": "plat 60 x 3 weegt 1,44 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 30",
+      "gewicht_kg_per_m": "14,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 30",
+      "antwoord": "plat 60 x 30 weegt 14,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 4",
+      "gewicht_kg_per_m": "1,92",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 4",
+      "antwoord": "plat 60 x 4 weegt 1,92 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 40",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 40",
+      "antwoord": "plat 60 x 40 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 5",
+      "gewicht_kg_per_m": "2,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 60 x 5",
+      "antwoord": "plat 60 x 5 weegt 2,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 6",
+      "gewicht_kg_per_m": "2,88",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 60 x 6",
+      "antwoord": "plat 60 x 6 weegt 2,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "60 x 8",
+      "gewicht_kg_per_m": "3,84",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 60 x 8",
+      "antwoord": "plat 60 x 8 weegt 3,84 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 10",
+      "gewicht_kg_per_m": "5,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 10",
+      "antwoord": "plat 65 x 10 weegt 5,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 12",
+      "gewicht_kg_per_m": "6,24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 12",
+      "antwoord": "plat 65 x 12 weegt 6,24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 15",
+      "gewicht_kg_per_m": "7,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 15",
+      "antwoord": "plat 65 x 15 weegt 7,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 20",
+      "gewicht_kg_per_m": "10,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 20",
+      "antwoord": "plat 65 x 20 weegt 10,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 25",
+      "gewicht_kg_per_m": "13",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 25",
+      "antwoord": "plat 65 x 25 weegt 13 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 3",
+      "gewicht_kg_per_m": "1,56",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 3",
+      "antwoord": "plat 65 x 3 weegt 1,56 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 30",
+      "gewicht_kg_per_m": "15,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 30",
+      "antwoord": "plat 65 x 30 weegt 15,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 4",
+      "gewicht_kg_per_m": "2,08",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 4",
+      "antwoord": "plat 65 x 4 weegt 2,08 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 40",
+      "gewicht_kg_per_m": "20,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 40",
+      "antwoord": "plat 65 x 40 weegt 20,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 5",
+      "gewicht_kg_per_m": "2,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 5",
+      "antwoord": "plat 65 x 5 weegt 2,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 6",
+      "gewicht_kg_per_m": "3,12",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 6",
+      "antwoord": "plat 65 x 6 weegt 3,12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "65 x 8",
+      "gewicht_kg_per_m": "4,16",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 65 x 8",
+      "antwoord": "plat 65 x 8 weegt 4,16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 10",
+      "gewicht_kg_per_m": "5,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 70 x 10",
+      "antwoord": "plat 70 x 10 weegt 5,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 12",
+      "gewicht_kg_per_m": "6,72",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 70 x 12",
+      "antwoord": "plat 70 x 12 weegt 6,72 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 15",
+      "gewicht_kg_per_m": "8,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 15",
+      "antwoord": "plat 70 x 15 weegt 8,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 20",
+      "gewicht_kg_per_m": "11,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 20",
+      "antwoord": "plat 70 x 20 weegt 11,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 25",
+      "gewicht_kg_per_m": "14",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 25",
+      "antwoord": "plat 70 x 25 weegt 14 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 3",
+      "gewicht_kg_per_m": "1,68",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 3",
+      "antwoord": "plat 70 x 3 weegt 1,68 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 30",
+      "gewicht_kg_per_m": "16,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 30",
+      "antwoord": "plat 70 x 30 weegt 16,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 4",
+      "gewicht_kg_per_m": "2,24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 4",
+      "antwoord": "plat 70 x 4 weegt 2,24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 40",
+      "gewicht_kg_per_m": "22,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 40",
+      "antwoord": "plat 70 x 40 weegt 22,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 5",
+      "gewicht_kg_per_m": "2,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 5",
+      "antwoord": "plat 70 x 5 weegt 2,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 50",
+      "gewicht_kg_per_m": "28",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 50",
+      "antwoord": "plat 70 x 50 weegt 28 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 6",
+      "gewicht_kg_per_m": "3,36",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 70 x 6",
+      "antwoord": "plat 70 x 6 weegt 3,36 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "70 x 8",
+      "gewicht_kg_per_m": "4,48",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 70 x 8",
+      "antwoord": "plat 70 x 8 weegt 4,48 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 10",
+      "gewicht_kg_per_m": "6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 10",
+      "antwoord": "plat 75 x 10 weegt 6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 12",
+      "gewicht_kg_per_m": "7,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 12",
+      "antwoord": "plat 75 x 12 weegt 7,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 15",
+      "gewicht_kg_per_m": "9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 15",
+      "antwoord": "plat 75 x 15 weegt 9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 20",
+      "gewicht_kg_per_m": "12",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 20",
+      "antwoord": "plat 75 x 20 weegt 12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 25",
+      "gewicht_kg_per_m": "15",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 25",
+      "antwoord": "plat 75 x 25 weegt 15 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 3",
+      "gewicht_kg_per_m": "1,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 3",
+      "antwoord": "plat 75 x 3 weegt 1,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 30",
+      "gewicht_kg_per_m": "18",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 30",
+      "antwoord": "plat 75 x 30 weegt 18 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 4",
+      "gewicht_kg_per_m": "2,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 4",
+      "antwoord": "plat 75 x 4 weegt 2,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 40",
+      "gewicht_kg_per_m": "24",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 40",
+      "antwoord": "plat 75 x 40 weegt 24 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 5",
+      "gewicht_kg_per_m": "3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 5",
+      "antwoord": "plat 75 x 5 weegt 3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 50",
+      "gewicht_kg_per_m": "30",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 50",
+      "antwoord": "plat 75 x 50 weegt 30 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 6",
+      "gewicht_kg_per_m": "3,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 6",
+      "antwoord": "plat 75 x 6 weegt 3,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "75 x 8",
+      "gewicht_kg_per_m": "4,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 75 x 8",
+      "antwoord": "plat 75 x 8 weegt 4,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 10",
+      "gewicht_kg_per_m": "6,4",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 80 x 10",
+      "antwoord": "plat 80 x 10 weegt 6,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 12",
+      "gewicht_kg_per_m": "7,68",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 12",
+      "antwoord": "plat 80 x 12 weegt 7,68 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 15",
+      "gewicht_kg_per_m": "9,6",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 80 x 15",
+      "antwoord": "plat 80 x 15 weegt 9,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 20",
+      "gewicht_kg_per_m": "12,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 80 x 20",
+      "antwoord": "plat 80 x 20 weegt 12,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 25",
+      "gewicht_kg_per_m": "16",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 25",
+      "antwoord": "plat 80 x 25 weegt 16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 3",
+      "gewicht_kg_per_m": "1,92",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 3",
+      "antwoord": "plat 80 x 3 weegt 1,92 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 30",
+      "gewicht_kg_per_m": "19,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 30",
+      "antwoord": "plat 80 x 30 weegt 19,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 4",
+      "gewicht_kg_per_m": "2,56",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 4",
+      "antwoord": "plat 80 x 4 weegt 2,56 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 40",
+      "gewicht_kg_per_m": "25,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 40",
+      "antwoord": "plat 80 x 40 weegt 25,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 5",
+      "gewicht_kg_per_m": "3,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 5",
+      "antwoord": "plat 80 x 5 weegt 3,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 50",
+      "gewicht_kg_per_m": "32",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 80 x 50",
+      "antwoord": "plat 80 x 50 weegt 32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 6",
+      "gewicht_kg_per_m": "3,84",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 80 x 6",
+      "antwoord": "plat 80 x 6 weegt 3,84 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "80 x 8",
+      "gewicht_kg_per_m": "5,12",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 80 x 8",
+      "antwoord": "plat 80 x 8 weegt 5,12 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 10",
+      "gewicht_kg_per_m": "7,2",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 90 x 10",
+      "antwoord": "plat 90 x 10 weegt 7,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 12",
+      "gewicht_kg_per_m": "8,64",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 12",
+      "antwoord": "plat 90 x 12 weegt 8,64 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 15",
+      "gewicht_kg_per_m": "10,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 15",
+      "antwoord": "plat 90 x 15 weegt 10,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 20",
+      "gewicht_kg_per_m": "14,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 20",
+      "antwoord": "plat 90 x 20 weegt 14,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 25",
+      "gewicht_kg_per_m": "18",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 25",
+      "antwoord": "plat 90 x 25 weegt 18 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 3",
+      "gewicht_kg_per_m": "2,16",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 3",
+      "antwoord": "plat 90 x 3 weegt 2,16 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 30",
+      "gewicht_kg_per_m": "21,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 30",
+      "antwoord": "plat 90 x 30 weegt 21,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 4",
+      "gewicht_kg_per_m": "2,88",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 4",
+      "antwoord": "plat 90 x 4 weegt 2,88 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 40",
+      "gewicht_kg_per_m": "28,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 40",
+      "antwoord": "plat 90 x 40 weegt 28,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 5",
+      "gewicht_kg_per_m": "3,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 5",
+      "antwoord": "plat 90 x 5 weegt 3,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 50",
+      "gewicht_kg_per_m": "36",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 50",
+      "antwoord": "plat 90 x 50 weegt 36 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 6",
+      "gewicht_kg_per_m": "4,32",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal plat 90 x 6",
+      "antwoord": "plat 90 x 6 weegt 4,32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "plat",
+      "afmeting": "90 x 8",
+      "gewicht_kg_per_m": "5,76",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal plat 90 x 8",
+      "antwoord": "plat 90 x 8 weegt 5,76 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "100 x 6",
+      "gewicht_kg_per_m": "6,20",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 100 x 6",
+      "antwoord": "platbulb 100 x 6 weegt 6,20 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "100 x 7",
+      "gewicht_kg_per_m": "6,99",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 100 x 7",
+      "antwoord": "platbulb 100 x 7 weegt 6,99 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "100 x 8",
+      "gewicht_kg_per_m": "7,79",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 100 x 8",
+      "antwoord": "platbulb 100 x 8 weegt 7,79 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "120 x 6",
+      "gewicht_kg_per_m": "7,32",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 120 x 6",
+      "antwoord": "platbulb 120 x 6 weegt 7,32 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "120 x 7",
+      "gewicht_kg_per_m": "8,26",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 120 x 7",
+      "antwoord": "platbulb 120 x 7 weegt 8,26 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "120 x 8",
+      "gewicht_kg_per_m": "9,20",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 120 x 8",
+      "antwoord": "platbulb 120 x 8 weegt 9,20 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "140 x 7",
+      "gewicht_kg_per_m": "9,94",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 140 x 7",
+      "antwoord": "platbulb 140 x 7 weegt 9,94 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "140 x 8",
+      "gewicht_kg_per_m": "11,1",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 140 x 8",
+      "antwoord": "platbulb 140 x 8 weegt 11,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "140 x 9",
+      "gewicht_kg_per_m": "12,2",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 140 x 9",
+      "antwoord": "platbulb 140 x 9 weegt 12,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "160 x 7",
+      "gewicht_kg_per_m": "11,7",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 160 x 7",
+      "antwoord": "platbulb 160 x 7 weegt 11,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "160 x 8",
+      "gewicht_kg_per_m": "13,0",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 160 x 8",
+      "antwoord": "platbulb 160 x 8 weegt 13,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "160 x 9",
+      "gewicht_kg_per_m": "14,2",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 160 x 9",
+      "antwoord": "platbulb 160 x 9 weegt 14,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "180 x 10",
+      "gewicht_kg_per_m": "18,0",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 180 x 10",
+      "antwoord": "platbulb 180 x 10 weegt 18,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "180 x 8",
+      "gewicht_kg_per_m": "15,1",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 180 x 8",
+      "antwoord": "platbulb 180 x 8 weegt 15,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "180 x 9",
+      "gewicht_kg_per_m": "16,5",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 180 x 9",
+      "antwoord": "platbulb 180 x 9 weegt 16,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "200 x 10",
+      "gewicht_kg_per_m": "20,5",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 200 x 10",
+      "antwoord": "platbulb 200 x 10 weegt 20,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "200 x 11,5",
+      "gewicht_kg_per_m": "22,9",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 200 x 11,5",
+      "antwoord": "platbulb 200 x 11,5 weegt 22,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "200 x 9",
+      "gewicht_kg_per_m": "18,9",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 200 x 9",
+      "antwoord": "platbulb 200 x 9 weegt 18,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "220 x 10",
+      "gewicht_kg_per_m": "23,2",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 220 x 10",
+      "antwoord": "platbulb 220 x 10 weegt 23,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "220 x 11,5",
+      "gewicht_kg_per_m": "25,8",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 220 x 11,5",
+      "antwoord": "platbulb 220 x 11,5 weegt 25,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "220 x 12",
+      "gewicht_kg_per_m": "26,7",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 220 x 12",
+      "antwoord": "platbulb 220 x 12 weegt 26,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "240 x 10",
+      "gewicht_kg_per_m": "26,0",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 240 x 10",
+      "antwoord": "platbulb 240 x 10 weegt 26,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "240 x 12",
+      "gewicht_kg_per_m": "29,8",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 240 x 12",
+      "antwoord": "platbulb 240 x 12 weegt 29,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "260 x 11",
+      "gewicht_kg_per_m": "31,0",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 260 x 11",
+      "antwoord": "platbulb 260 x 11 weegt 31,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "260 x 12",
+      "gewicht_kg_per_m": "33,0",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 260 x 12",
+      "antwoord": "platbulb 260 x 12 weegt 33,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "280 x 11",
+      "gewicht_kg_per_m": "34,1",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 280 x 11",
+      "antwoord": "platbulb 280 x 11 weegt 34,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "280 x 12",
+      "gewicht_kg_per_m": "36,4",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 280 x 12",
+      "antwoord": "platbulb 280 x 12 weegt 36,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "300 x 11",
+      "gewicht_kg_per_m": "37,4",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 300 x 11",
+      "antwoord": "platbulb 300 x 11 weegt 37,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "300 x 12",
+      "gewicht_kg_per_m": "39,8",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 300 x 12",
+      "antwoord": "platbulb 300 x 12 weegt 39,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "320 x 12",
+      "gewicht_kg_per_m": "43,4",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 320 x 12",
+      "antwoord": "platbulb 320 x 12 weegt 43,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "320 x 14",
+      "gewicht_kg_per_m": "48,7",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 320 x 14",
+      "antwoord": "platbulb 320 x 14 weegt 48,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "80 x 6",
+      "gewicht_kg_per_m": "4,97",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 80 x 6",
+      "antwoord": "platbulb 80 x 6 weegt 4,97 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "platbulb",
+      "afmeting": "80 x 7",
+      "gewicht_kg_per_m": "5,60",
+      "materiaal": "A-LRS2",
+      "zoekterm": "stafstaal platbulb 80 x 7",
+      "antwoord": "platbulb 80 x 7 weegt 5,60 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "10",
+      "gewicht_kg_per_m": "0,628",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 10",
+      "antwoord": "rond 10 weegt 0,628 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "100",
+      "gewicht_kg_per_m": "62,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 100",
+      "antwoord": "rond 100 weegt 62,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "110",
+      "gewicht_kg_per_m": "76,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 110",
+      "antwoord": "rond 110 weegt 76,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "12",
+      "gewicht_kg_per_m": "0,905",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 12",
+      "antwoord": "rond 12 weegt 0,905 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "120",
+      "gewicht_kg_per_m": "90,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 120",
+      "antwoord": "rond 120 weegt 90,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "13",
+      "gewicht_kg_per_m": "1,06",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 13",
+      "antwoord": "rond 13 weegt 1,06 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "130",
+      "gewicht_kg_per_m": "106",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 130",
+      "antwoord": "rond 130 weegt 106 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "14",
+      "gewicht_kg_per_m": "1,23",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 14",
+      "antwoord": "rond 14 weegt 1,23 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "140",
+      "gewicht_kg_per_m": "123",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 140",
+      "antwoord": "rond 140 weegt 123 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "15",
+      "gewicht_kg_per_m": "1,41",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 15",
+      "antwoord": "rond 15 weegt 1,41 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "150",
+      "gewicht_kg_per_m": "141",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 150",
+      "antwoord": "rond 150 weegt 141 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "16",
+      "gewicht_kg_per_m": "1,61",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 16",
+      "antwoord": "rond 16 weegt 1,61 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "160",
+      "gewicht_kg_per_m": "161",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 160",
+      "antwoord": "rond 160 weegt 161 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "170",
+      "gewicht_kg_per_m": "182",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 170",
+      "antwoord": "rond 170 weegt 182 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "18",
+      "gewicht_kg_per_m": "2,04",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 18",
+      "antwoord": "rond 18 weegt 2,04 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "180",
+      "gewicht_kg_per_m": "204",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 180",
+      "antwoord": "rond 180 weegt 204 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "19",
+      "gewicht_kg_per_m": "2,27",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 19",
+      "antwoord": "rond 19 weegt 2,27 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "190",
+      "gewicht_kg_per_m": "227",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 190",
+      "antwoord": "rond 190 weegt 227 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "20",
+      "gewicht_kg_per_m": "2,51",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal rond 20",
+      "antwoord": "rond 20 weegt 2,51 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "200",
+      "gewicht_kg_per_m": "251",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 200",
+      "antwoord": "rond 200 weegt 251 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "22",
+      "gewicht_kg_per_m": "3,04",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 22",
+      "antwoord": "rond 22 weegt 3,04 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "24",
+      "gewicht_kg_per_m": "3,62",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 24",
+      "antwoord": "rond 24 weegt 3,62 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "25",
+      "gewicht_kg_per_m": "3,93",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal rond 25",
+      "antwoord": "rond 25 weegt 3,93 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "28",
+      "gewicht_kg_per_m": "4,93",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 28",
+      "antwoord": "rond 28 weegt 4,93 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "30",
+      "gewicht_kg_per_m": "5,65",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal rond 30",
+      "antwoord": "rond 30 weegt 5,65 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "32",
+      "gewicht_kg_per_m": "6,43",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 32",
+      "antwoord": "rond 32 weegt 6,43 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "35",
+      "gewicht_kg_per_m": "7,70",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 35",
+      "antwoord": "rond 35 weegt 7,70 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "36",
+      "gewicht_kg_per_m": "8,14",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 36",
+      "antwoord": "rond 36 weegt 8,14 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "38",
+      "gewicht_kg_per_m": "9,07",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 38",
+      "antwoord": "rond 38 weegt 9,07 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "40",
+      "gewicht_kg_per_m": "10,1",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal rond 40",
+      "antwoord": "rond 40 weegt 10,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "42",
+      "gewicht_kg_per_m": "11,1",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 42",
+      "antwoord": "rond 42 weegt 11,1 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "45",
+      "gewicht_kg_per_m": "12,7",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 45",
+      "antwoord": "rond 45 weegt 12,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "48",
+      "gewicht_kg_per_m": "14,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 48",
+      "antwoord": "rond 48 weegt 14,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "50",
+      "gewicht_kg_per_m": "15,7",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal rond 50",
+      "antwoord": "rond 50 weegt 15,7 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "55",
+      "gewicht_kg_per_m": "19,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 55",
+      "antwoord": "rond 55 weegt 19,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "6",
+      "gewicht_kg_per_m": "0,226",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 6",
+      "antwoord": "rond 6 weegt 0,226 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "60",
+      "gewicht_kg_per_m": "22,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 60",
+      "antwoord": "rond 60 weegt 22,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "65",
+      "gewicht_kg_per_m": "26,5",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 65",
+      "antwoord": "rond 65 weegt 26,5 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "70",
+      "gewicht_kg_per_m": "30,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 70",
+      "antwoord": "rond 70 weegt 30,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "75",
+      "gewicht_kg_per_m": "35,3",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 75",
+      "antwoord": "rond 75 weegt 35,3 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "8",
+      "gewicht_kg_per_m": "0,402",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 8",
+      "antwoord": "rond 8 weegt 0,402 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "80",
+      "gewicht_kg_per_m": "40,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 80",
+      "antwoord": "rond 80 weegt 40,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "85",
+      "gewicht_kg_per_m": "45,4",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 85",
+      "antwoord": "rond 85 weegt 45,4 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "rond",
+      "afmeting": "90",
+      "gewicht_kg_per_m": "50,9",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal rond 90",
+      "antwoord": "rond 90 weegt 50,9 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "10",
+      "gewicht_kg_per_m": "0,800",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 10",
+      "antwoord": "vierkant 10 weegt 0,800 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "100",
+      "gewicht_kg_per_m": "80,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 100",
+      "antwoord": "vierkant 100 weegt 80,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "110",
+      "gewicht_kg_per_m": "96,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 110",
+      "antwoord": "vierkant 110 weegt 96,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "12",
+      "gewicht_kg_per_m": "1,15",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 12",
+      "antwoord": "vierkant 12 weegt 1,15 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "120",
+      "gewicht_kg_per_m": "115",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 120",
+      "antwoord": "vierkant 120 weegt 115 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "13",
+      "gewicht_kg_per_m": "1,35",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 13",
+      "antwoord": "vierkant 13 weegt 1,35 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "130",
+      "gewicht_kg_per_m": "135",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 130",
+      "antwoord": "vierkant 130 weegt 135 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "14",
+      "gewicht_kg_per_m": "1,57",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 14",
+      "antwoord": "vierkant 14 weegt 1,57 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "16",
+      "gewicht_kg_per_m": "2,05",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 16",
+      "antwoord": "vierkant 16 weegt 2,05 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "18",
+      "gewicht_kg_per_m": "2,59",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 18",
+      "antwoord": "vierkant 18 weegt 2,59 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "19",
+      "gewicht_kg_per_m": "2,89",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 19",
+      "antwoord": "vierkant 19 weegt 2,89 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "20",
+      "gewicht_kg_per_m": "3,20",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal vierkant 20",
+      "antwoord": "vierkant 20 weegt 3,20 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "22",
+      "gewicht_kg_per_m": "3,87",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 22",
+      "antwoord": "vierkant 22 weegt 3,87 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "25",
+      "gewicht_kg_per_m": "5,00",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal vierkant 25",
+      "antwoord": "vierkant 25 weegt 5,00 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "28",
+      "gewicht_kg_per_m": "6,27",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 28",
+      "antwoord": "vierkant 28 weegt 6,27 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "30",
+      "gewicht_kg_per_m": "7,20",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal vierkant 30",
+      "antwoord": "vierkant 30 weegt 7,20 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "32",
+      "gewicht_kg_per_m": "8,19",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 32",
+      "antwoord": "vierkant 32 weegt 8,19 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "35",
+      "gewicht_kg_per_m": "9,80",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 35",
+      "antwoord": "vierkant 35 weegt 9,80 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "38",
+      "gewicht_kg_per_m": "11,6",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 38",
+      "antwoord": "vierkant 38 weegt 11,6 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "40",
+      "gewicht_kg_per_m": "12,8",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal vierkant 40",
+      "antwoord": "vierkant 40 weegt 12,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "45",
+      "gewicht_kg_per_m": "16,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 45",
+      "antwoord": "vierkant 45 weegt 16,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "50",
+      "gewicht_kg_per_m": "20,0",
+      "materiaal": "S235 en S355",
+      "zoekterm": "stafstaal vierkant 50",
+      "antwoord": "vierkant 50 weegt 20,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "55",
+      "gewicht_kg_per_m": "24,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 55",
+      "antwoord": "vierkant 55 weegt 24,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "6",
+      "gewicht_kg_per_m": "0,288",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 6",
+      "antwoord": "vierkant 6 weegt 0,288 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "60",
+      "gewicht_kg_per_m": "28,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 60",
+      "antwoord": "vierkant 60 weegt 28,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "65",
+      "gewicht_kg_per_m": "33,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 65",
+      "antwoord": "vierkant 65 weegt 33,8 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "70",
+      "gewicht_kg_per_m": "39,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 70",
+      "antwoord": "vierkant 70 weegt 39,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "75",
+      "gewicht_kg_per_m": "45,0",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 75",
+      "antwoord": "vierkant 75 weegt 45,0 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "8",
+      "gewicht_kg_per_m": "0,512",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 8",
+      "antwoord": "vierkant 8 weegt 0,512 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "80",
+      "gewicht_kg_per_m": "51,2",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 80",
+      "antwoord": "vierkant 80 weegt 51,2 kg/m"
+    },
+    {
+      "categorie": "Stafstaal",
+      "type": "vierkant",
+      "afmeting": "90",
+      "gewicht_kg_per_m": "64,8",
+      "materiaal": "S235",
+      "zoekterm": "stafstaal vierkant 90",
+      "antwoord": "vierkant 90 weegt 64,8 kg/m"
+    }
+  ]
+}

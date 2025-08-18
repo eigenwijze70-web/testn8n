@@ -1,0 +1,2513 @@
+{
+  "metadata": {
+    "naam": "Koudgewalst AI Chatbot Database",
+    "versie": "1.0",
+    "categorie": "Koudgewalst",
+    "totaal_entries": 278,
+    "beschrijving": "Geoptimaliseerde koudgewalst database voor AI chatbot gewichtsopzoekingen"
+  },
+  "data": [
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "100x50 x 16 x 3",
+      "gewicht_kg_per_m": "5,17",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 100x50 x 16 x 3",
+      "antwoord": "C 100x50 x 16 x 3 weegt 5,17 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "25x25 x 7 x 1,5",
+      "gewicht_kg_per_m": "0,97",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 25x25 x 7 x 1,5",
+      "antwoord": "C 25x25 x 7 x 1,5 weegt 0,97 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "25x25 x 7,5 x 2",
+      "gewicht_kg_per_m": "1,27",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 25x25 x 7,5 x 2",
+      "antwoord": "C 25x25 x 7,5 x 2 weegt 1,27 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "30x15 x 8 x 2",
+      "gewicht_kg_per_m": "1,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 30x15 x 8 x 2",
+      "antwoord": "C 30x15 x 8 x 2 weegt 1,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "30x30 x 10 x 2",
+      "gewicht_kg_per_m": "1,59",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 30x30 x 10 x 2",
+      "antwoord": "C 30x30 x 10 x 2 weegt 1,59 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "30x30 x 8,5 x 2",
+      "gewicht_kg_per_m": "1,54",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 30x30 x 8,5 x 2",
+      "antwoord": "C 30x30 x 8,5 x 2 weegt 1,54 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "30x50 x 10 x 2",
+      "gewicht_kg_per_m": "2,23",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 30x50 x 10 x 2",
+      "antwoord": "C 30x50 x 10 x 2 weegt 2,23 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "35x35 x 8,5 x 2",
+      "gewicht_kg_per_m": "1,78",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 35x35 x 8,5 x 2",
+      "antwoord": "C 35x35 x 8,5 x 2 weegt 1,78 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "40x20 x 10 x 2",
+      "gewicht_kg_per_m": "1,43",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 40x20 x 10 x 2",
+      "antwoord": "C 40x20 x 10 x 2 weegt 1,43 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "40x40 x 12,5 x 3",
+      "gewicht_kg_per_m": "3,08",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 40x40 x 12,5 x 3",
+      "antwoord": "C 40x40 x 12,5 x 3 weegt 3,08 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "50x50 x 11 x 2",
+      "gewicht_kg_per_m": "2,58",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 50x50 x 11 x 2",
+      "antwoord": "C 50x50 x 11 x 2 weegt 2,58 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "80x40 x 16 x 2",
+      "gewicht_kg_per_m": "2,90",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 80x40 x 16 x 2",
+      "antwoord": "C 80x40 x 16 x 2 weegt 2,90 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "C",
+      "afmeting": "80x40 x 16 x 3",
+      "gewicht_kg_per_m": "4,21",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst c 80x40 x 16 x 3",
+      "antwoord": "C 80x40 x 16 x 3 weegt 4,21 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "100x100 x 3",
+      "gewicht_kg_per_m": "4,70",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 100x100 x 3",
+      "antwoord": "L gel. 100x100 x 3 weegt 4,70 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "100x100 x 5",
+      "gewicht_kg_per_m": "7,72",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 100x100 x 5",
+      "antwoord": "L gel. 100x100 x 5 weegt 7,72 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "15x15 x 1,5",
+      "gewicht_kg_per_m": "0,34",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 15x15 x 1,5",
+      "antwoord": "L gel. 15x15 x 1,5 weegt 0,34 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "15x15 x 2",
+      "gewicht_kg_per_m": "0,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 15x15 x 2",
+      "antwoord": "L gel. 15x15 x 2 weegt 0,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "15x15 x 3",
+      "gewicht_kg_per_m": "0,62",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 15x15 x 3",
+      "antwoord": "L gel. 15x15 x 3 weegt 0,62 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "20x20 x 2",
+      "gewicht_kg_per_m": "0,60",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 20x20 x 2",
+      "antwoord": "L gel. 20x20 x 2 weegt 0,60 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "20x20 x 3",
+      "gewicht_kg_per_m": "0,86",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 20x20 x 3",
+      "antwoord": "L gel. 20x20 x 3 weegt 0,86 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "25x25 x 2",
+      "gewicht_kg_per_m": "0,76",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 25x25 x 2",
+      "antwoord": "L gel. 25x25 x 2 weegt 0,76 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "25x25 x 3",
+      "gewicht_kg_per_m": "1,10",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 25x25 x 3",
+      "antwoord": "L gel. 25x25 x 3 weegt 1,10 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "30x30 x 2",
+      "gewicht_kg_per_m": "0,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 30x30 x 2",
+      "antwoord": "L gel. 30x30 x 2 weegt 0,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "30x30 x 3",
+      "gewicht_kg_per_m": "1,34",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 30x30 x 3",
+      "antwoord": "L gel. 30x30 x 3 weegt 1,34 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "35x35 x 2",
+      "gewicht_kg_per_m": "1,08",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 35x35 x 2",
+      "antwoord": "L gel. 35x35 x 2 weegt 1,08 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "35x35 x 3",
+      "gewicht_kg_per_m": "1,58",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 35x35 x 3",
+      "antwoord": "L gel. 35x35 x 3 weegt 1,58 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "35x35 x 4",
+      "gewicht_kg_per_m": "2,07",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 35x35 x 4",
+      "antwoord": "L gel. 35x35 x 4 weegt 2,07 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "40x40 x 2",
+      "gewicht_kg_per_m": "1,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 40x40 x 2",
+      "antwoord": "L gel. 40x40 x 2 weegt 1,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "40x40 x 3",
+      "gewicht_kg_per_m": "1,82",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 40x40 x 3",
+      "antwoord": "L gel. 40x40 x 3 weegt 1,82 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "40x40 x 4",
+      "gewicht_kg_per_m": "2,39",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 40x40 x 4",
+      "antwoord": "L gel. 40x40 x 4 weegt 2,39 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "45x45 x 4",
+      "gewicht_kg_per_m": "2,71",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 45x45 x 4",
+      "antwoord": "L gel. 45x45 x 4 weegt 2,71 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "50x50 x 2",
+      "gewicht_kg_per_m": "1,56",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 50x50 x 2",
+      "antwoord": "L gel. 50x50 x 2 weegt 1,56 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "50x50 x 3",
+      "gewicht_kg_per_m": "2,30",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 50x50 x 3",
+      "antwoord": "L gel. 50x50 x 3 weegt 2,30 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "50x50 x 4",
+      "gewicht_kg_per_m": "3,03",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 50x50 x 4",
+      "antwoord": "L gel. 50x50 x 4 weegt 3,03 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "50x50 x 5",
+      "gewicht_kg_per_m": "3,72",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 50x50 x 5",
+      "antwoord": "L gel. 50x50 x 5 weegt 3,72 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "60x60 x 3",
+      "gewicht_kg_per_m": "2,78",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 60x60 x 3",
+      "antwoord": "L gel. 60x60 x 3 weegt 2,78 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "60x60 x 4",
+      "gewicht_kg_per_m": "3,67",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 60x60 x 4",
+      "antwoord": "L gel. 60x60 x 4 weegt 3,67 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "65x65 x 3",
+      "gewicht_kg_per_m": "3,02",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 65x65 x 3",
+      "antwoord": "L gel. 65x65 x 3 weegt 3,02 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "70x70 x 4",
+      "gewicht_kg_per_m": "4,31",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 70x70 x 4",
+      "antwoord": "L gel. 70x70 x 4 weegt 4,31 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L gel.",
+      "afmeting": "80x80 x 5",
+      "gewicht_kg_per_m": "6,12",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l gel. 80x80 x 5",
+      "antwoord": "L gel. 80x80 x 5 weegt 6,12 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "100 x 50 x 3",
+      "gewicht_kg_per_m": "3,50",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 100 x 50 x 3",
+      "antwoord": "L ong. 100 x 50 x 3 weegt 3,50 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "100 x 50 x 4",
+      "gewicht_kg_per_m": "4,63",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 100 x 50 x 4",
+      "antwoord": "L ong. 100 x 50 x 4 weegt 4,63 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "100 x 80 x 3",
+      "gewicht_kg_per_m": "4,22",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 100 x 80 x 3",
+      "antwoord": "L ong. 100 x 80 x 3 weegt 4,22 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "100 x 80 x 5",
+      "gewicht_kg_per_m": "6,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 100 x 80 x 5",
+      "antwoord": "L ong. 100 x 80 x 5 weegt 6,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "120 x 100 x 3",
+      "gewicht_kg_per_m": "5,18",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 120 x 100 x 3",
+      "antwoord": "L ong. 120 x 100 x 3 weegt 5,18 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "120 x 100 x 5",
+      "gewicht_kg_per_m": "8,52",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 120 x 100 x 5",
+      "antwoord": "L ong. 120 x 100 x 5 weegt 8,52 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "120 x 60 x 3",
+      "gewicht_kg_per_m": "4,22",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 120 x 60 x 3",
+      "antwoord": "L ong. 120 x 60 x 3 weegt 4,22 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "120 x 60 x 5",
+      "gewicht_kg_per_m": "6,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 120 x 60 x 5",
+      "antwoord": "L ong. 120 x 60 x 5 weegt 6,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "120 x 80 x 3",
+      "gewicht_kg_per_m": "4,70",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 120 x 80 x 3",
+      "antwoord": "L ong. 120 x 80 x 3 weegt 4,70 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "120 x 80 x 5",
+      "gewicht_kg_per_m": "7,72",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 120 x 80 x 5",
+      "antwoord": "L ong. 120 x 80 x 5 weegt 7,72 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "20 x 15 x 2",
+      "gewicht_kg_per_m": "0,52",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 20 x 15 x 2",
+      "antwoord": "L ong. 20 x 15 x 2 weegt 0,52 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "25 x 15 x 2",
+      "gewicht_kg_per_m": "0,60",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 25 x 15 x 2",
+      "antwoord": "L ong. 25 x 15 x 2 weegt 0,60 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "30 x 15 x 2",
+      "gewicht_kg_per_m": "0,68",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 30 x 15 x 2",
+      "antwoord": "L ong. 30 x 15 x 2 weegt 0,68 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "30 x 15 x 3",
+      "gewicht_kg_per_m": "0,98",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 30 x 15 x 3",
+      "antwoord": "L ong. 30 x 15 x 3 weegt 0,98 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "30 x 20 x 2",
+      "gewicht_kg_per_m": "0,76",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 30 x 20 x 2",
+      "antwoord": "L ong. 30 x 20 x 2 weegt 0,76 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "30 x 20 x 3",
+      "gewicht_kg_per_m": "1,10",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 30 x 20 x 3",
+      "antwoord": "L ong. 30 x 20 x 3 weegt 1,10 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "30 x 25 x 3",
+      "gewicht_kg_per_m": "1,22",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 30 x 25 x 3",
+      "antwoord": "L ong. 30 x 25 x 3 weegt 1,22 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "35 x 25 x 3",
+      "gewicht_kg_per_m": "1,34",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 35 x 25 x 3",
+      "antwoord": "L ong. 35 x 25 x 3 weegt 1,34 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "40 x 20 x 2",
+      "gewicht_kg_per_m": "0,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 40 x 20 x 2",
+      "antwoord": "L ong. 40 x 20 x 2 weegt 0,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "40 x 20 x 3",
+      "gewicht_kg_per_m": "1,34",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 40 x 20 x 3",
+      "antwoord": "L ong. 40 x 20 x 3 weegt 1,34 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "40 x 25 x 2",
+      "gewicht_kg_per_m": "1,00",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 40 x 25 x 2",
+      "antwoord": "L ong. 40 x 25 x 2 weegt 1,00 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "40 x 25 x 3",
+      "gewicht_kg_per_m": "1,46",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 40 x 25 x 3",
+      "antwoord": "L ong. 40 x 25 x 3 weegt 1,46 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "40 x 30 x 2",
+      "gewicht_kg_per_m": "1,08",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 40 x 30 x 2",
+      "antwoord": "L ong. 40 x 30 x 2 weegt 1,08 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "40 x 30 x 3",
+      "gewicht_kg_per_m": "1,58",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 40 x 30 x 3",
+      "antwoord": "L ong. 40 x 30 x 3 weegt 1,58 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "50 x 20 x 2",
+      "gewicht_kg_per_m": "1,08",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 50 x 20 x 2",
+      "antwoord": "L ong. 50 x 20 x 2 weegt 1,08 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "50 x 25 x 3",
+      "gewicht_kg_per_m": "1,70",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 50 x 25 x 3",
+      "antwoord": "L ong. 50 x 25 x 3 weegt 1,70 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "50 x 30 x 2",
+      "gewicht_kg_per_m": "1,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 50 x 30 x 2",
+      "antwoord": "L ong. 50 x 30 x 2 weegt 1,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "50 x 30 x 3",
+      "gewicht_kg_per_m": "1,82",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 50 x 30 x 3",
+      "antwoord": "L ong. 50 x 30 x 3 weegt 1,82 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "50 x 40 x 2",
+      "gewicht_kg_per_m": "1,40",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 50 x 40 x 2",
+      "antwoord": "L ong. 50 x 40 x 2 weegt 1,40 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "50 x 40 x 3",
+      "gewicht_kg_per_m": "2,06",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 50 x 40 x 3",
+      "antwoord": "L ong. 50 x 40 x 3 weegt 2,06 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "60 x 30 x 3",
+      "gewicht_kg_per_m": "2,06",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 60 x 30 x 3",
+      "antwoord": "L ong. 60 x 30 x 3 weegt 2,06 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "60 x 40 x 3",
+      "gewicht_kg_per_m": "2,30",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 60 x 40 x 3",
+      "antwoord": "L ong. 60 x 40 x 3 weegt 2,30 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "60 x 40 x 4",
+      "gewicht_kg_per_m": "3,03",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 60 x 40 x 4",
+      "antwoord": "L ong. 60 x 40 x 4 weegt 3,03 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "70 x 40 x 3",
+      "gewicht_kg_per_m": "2,54",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 70 x 40 x 3",
+      "antwoord": "L ong. 70 x 40 x 3 weegt 2,54 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "70 x 50 x 4",
+      "gewicht_kg_per_m": "3,67",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 70 x 50 x 4",
+      "antwoord": "L ong. 70 x 50 x 4 weegt 3,67 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "75 x 40 x 3",
+      "gewicht_kg_per_m": "2,66",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 75 x 40 x 3",
+      "antwoord": "L ong. 75 x 40 x 3 weegt 2,66 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "80 x 40 x 3",
+      "gewicht_kg_per_m": "2,78",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 80 x 40 x 3",
+      "antwoord": "L ong. 80 x 40 x 3 weegt 2,78 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "80 x 40 x 4",
+      "gewicht_kg_per_m": "3,67",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 80 x 40 x 4",
+      "antwoord": "L ong. 80 x 40 x 4 weegt 3,67 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "80 x 50 x 3",
+      "gewicht_kg_per_m": "3,02",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 80 x 50 x 3",
+      "antwoord": "L ong. 80 x 50 x 3 weegt 3,02 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "80 x 50 x 4",
+      "gewicht_kg_per_m": "3,99",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 80 x 50 x 4",
+      "antwoord": "L ong. 80 x 50 x 4 weegt 3,99 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "L ong.",
+      "afmeting": "90 x 40 x 3",
+      "gewicht_kg_per_m": "3,02",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst l ong. 90 x 40 x 3",
+      "antwoord": "L ong. 90 x 40 x 3 weegt 3,02 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "45x20x20x2",
+      "gewicht_kg_per_m": "1,20",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 45x20x20x2",
+      "antwoord": "Omega 45x20x20x2 weegt 1,20 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "45x40x24,5x2",
+      "gewicht_kg_per_m": "1,83",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 45x40x24,5x2",
+      "antwoord": "Omega 45x40x24,5x2 weegt 1,83 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "55x47x30x2",
+      "gewicht_kg_per_m": "2,22",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 55x47x30x2",
+      "antwoord": "Omega 55x47x30x2 weegt 2,22 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "65x40x30x2,5",
+      "gewicht_kg_per_m": "2,62",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 65x40x30x2,5",
+      "antwoord": "Omega 65x40x30x2,5 weegt 2,62 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "70x38x38x2,5",
+      "gewicht_kg_per_m": "2,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 70x38x38x2,5",
+      "antwoord": "Omega 70x38x38x2,5 weegt 2,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "72x40x30x2",
+      "gewicht_kg_per_m": "2,26",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 72x40x30x2",
+      "antwoord": "Omega 72x40x30x2 weegt 2,26 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "75x60x37x3",
+      "gewicht_kg_per_m": "4,28",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 75x60x37x3",
+      "antwoord": "Omega 75x60x37x3 weegt 4,28 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Omega",
+      "afmeting": "85x25x40x2,5",
+      "gewicht_kg_per_m": "2,42",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst omega 85x25x40x2,5",
+      "antwoord": "Omega 85x25x40x2,5 weegt 2,42 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "100x100 x 4",
+      "gewicht_kg_per_m": "9,25",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 100x100 x 4",
+      "antwoord": "U gel. 100x100 x 4 weegt 9,25 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "10x10 x 1,5",
+      "gewicht_kg_per_m": "0,31",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 10x10 x 1,5",
+      "antwoord": "U gel. 10x10 x 1,5 weegt 0,31 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "12x12 x 1,5",
+      "gewicht_kg_per_m": "0,39",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 12x12 x 1,5",
+      "antwoord": "U gel. 12x12 x 1,5 weegt 0,39 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "12x12 x 2",
+      "gewicht_kg_per_m": "0,49",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 12x12 x 2",
+      "antwoord": "U gel. 12x12 x 2 weegt 0,49 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "15x15 x 1,5",
+      "gewicht_kg_per_m": "0,49",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 15x15 x 1,5",
+      "antwoord": "U gel. 15x15 x 1,5 weegt 0,49 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "15x15 x 2",
+      "gewicht_kg_per_m": "0,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 15x15 x 2",
+      "antwoord": "U gel. 15x15 x 2 weegt 0,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "18x18 x 1,5",
+      "gewicht_kg_per_m": "0,6",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 18x18 x 1,5",
+      "antwoord": "U gel. 18x18 x 1,5 weegt 0,6 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "18x18 x 2",
+      "gewicht_kg_per_m": "0,78",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 18x18 x 2",
+      "antwoord": "U gel. 18x18 x 2 weegt 0,78 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "20x20 x 1,5",
+      "gewicht_kg_per_m": "0,67",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 20x20 x 1,5",
+      "antwoord": "U gel. 20x20 x 1,5 weegt 0,67 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "20x20 x 2",
+      "gewicht_kg_per_m": "0,88",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 20x20 x 2",
+      "antwoord": "U gel. 20x20 x 2 weegt 0,88 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "20x20 x 3",
+      "gewicht_kg_per_m": "1,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 20x20 x 3",
+      "antwoord": "U gel. 20x20 x 3 weegt 1,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "22x22 x 2",
+      "gewicht_kg_per_m": "0,97",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 22x22 x 2",
+      "antwoord": "U gel. 22x22 x 2 weegt 0,97 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "23x23 x 1,5",
+      "gewicht_kg_per_m": "0,78",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 23x23 x 1,5",
+      "antwoord": "U gel. 23x23 x 1,5 weegt 0,78 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "23x23 x 2",
+      "gewicht_kg_per_m": "1,02",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 23x23 x 2",
+      "antwoord": "U gel. 23x23 x 2 weegt 1,02 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "25x25 x 1,5",
+      "gewicht_kg_per_m": "0,85",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 25x25 x 1,5",
+      "antwoord": "U gel. 25x25 x 1,5 weegt 0,85 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "25x25 x 2",
+      "gewicht_kg_per_m": "1,12",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 25x25 x 2",
+      "antwoord": "U gel. 25x25 x 2 weegt 1,12 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "25x25 x 2,5",
+      "gewicht_kg_per_m": "1,36",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 25x25 x 2,5",
+      "antwoord": "U gel. 25x25 x 2,5 weegt 1,36 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "25x25 x 3",
+      "gewicht_kg_per_m": "1,6",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 25x25 x 3",
+      "antwoord": "U gel. 25x25 x 3 weegt 1,6 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "28x28 x 1,5",
+      "gewicht_kg_per_m": "0,96",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 28x28 x 1,5",
+      "antwoord": "U gel. 28x28 x 1,5 weegt 0,96 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "30x30 x 1,5",
+      "gewicht_kg_per_m": "1,03",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 30x30 x 1,5",
+      "antwoord": "U gel. 30x30 x 1,5 weegt 1,03 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "30x30 x 2",
+      "gewicht_kg_per_m": "1,36",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 30x30 x 2",
+      "antwoord": "U gel. 30x30 x 2 weegt 1,36 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "30x30 x 2,5",
+      "gewicht_kg_per_m": "1,66",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 30x30 x 2,5",
+      "antwoord": "U gel. 30x30 x 2,5 weegt 1,66 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "30x30 x 3",
+      "gewicht_kg_per_m": "1,96",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 30x30 x 3",
+      "antwoord": "U gel. 30x30 x 3 weegt 1,96 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "32x32 x 2",
+      "gewicht_kg_per_m": "1,45",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 32x32 x 2",
+      "antwoord": "U gel. 32x32 x 2 weegt 1,45 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "35x35 x 2",
+      "gewicht_kg_per_m": "1,6",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 35x35 x 2",
+      "antwoord": "U gel. 35x35 x 2 weegt 1,6 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "35x35 x 3",
+      "gewicht_kg_per_m": "2,32",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 35x35 x 3",
+      "antwoord": "U gel. 35x35 x 3 weegt 2,32 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "36x36 x 2",
+      "gewicht_kg_per_m": "1,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 36x36 x 2",
+      "antwoord": "U gel. 36x36 x 2 weegt 1,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "40x40 x 2",
+      "gewicht_kg_per_m": "1,84",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 40x40 x 2",
+      "antwoord": "U gel. 40x40 x 2 weegt 1,84 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "40x40 x 3",
+      "gewicht_kg_per_m": "2,68",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 40x40 x 3",
+      "antwoord": "U gel. 40x40 x 3 weegt 2,68 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "40x40 x 4",
+      "gewicht_kg_per_m": "3,49",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 40x40 x 4",
+      "antwoord": "U gel. 40x40 x 4 weegt 3,49 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "40x40 x 5",
+      "gewicht_kg_per_m": "4,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 40x40 x 5",
+      "antwoord": "U gel. 40x40 x 5 weegt 4,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "45x45 x 3",
+      "gewicht_kg_per_m": "3,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 45x45 x 3",
+      "antwoord": "U gel. 45x45 x 3 weegt 3,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "50x50 x 2",
+      "gewicht_kg_per_m": "2,32",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 50x50 x 2",
+      "antwoord": "U gel. 50x50 x 2 weegt 2,32 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "50x50 x 3",
+      "gewicht_kg_per_m": "3,4",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 50x50 x 3",
+      "antwoord": "U gel. 50x50 x 3 weegt 3,4 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "50x50 x 4",
+      "gewicht_kg_per_m": "4,45",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 50x50 x 4",
+      "antwoord": "U gel. 50x50 x 4 weegt 4,45 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "50x50 x 5",
+      "gewicht_kg_per_m": "5,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 50x50 x 5",
+      "antwoord": "U gel. 50x50 x 5 weegt 5,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "60x60 x 3",
+      "gewicht_kg_per_m": "4,12",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 60x60 x 3",
+      "antwoord": "U gel. 60x60 x 3 weegt 4,12 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "60x60 x 4",
+      "gewicht_kg_per_m": "5,41",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 60x60 x 4",
+      "antwoord": "U gel. 60x60 x 4 weegt 5,41 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "60x60 x 5",
+      "gewicht_kg_per_m": "6,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 60x60 x 5",
+      "antwoord": "U gel. 60x60 x 5 weegt 6,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "70x70 x 4",
+      "gewicht_kg_per_m": "6,37",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 70x70 x 4",
+      "antwoord": "U gel. 70x70 x 4 weegt 6,37 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U gel.",
+      "afmeting": "80x80 x 4",
+      "gewicht_kg_per_m": "7,33",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u gel. 80x80 x 4",
+      "antwoord": "U gel. 80x80 x 4 weegt 7,33 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 30 x 3",
+      "gewicht_kg_per_m": "3,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 30 x 3",
+      "antwoord": "U ong. 100 x 30 x 3 weegt 3,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 30 x 4",
+      "gewicht_kg_per_m": "4,77",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 30 x 4",
+      "antwoord": "U ong. 100 x 30 x 4 weegt 4,77 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 40 x 3",
+      "gewicht_kg_per_m": "4,12",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 40 x 3",
+      "antwoord": "U ong. 100 x 40 x 3 weegt 4,12 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 40 x 4",
+      "gewicht_kg_per_m": "5,41",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 40 x 4",
+      "antwoord": "U ong. 100 x 40 x 4 weegt 5,41 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 40 x 5",
+      "gewicht_kg_per_m": "6,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 40 x 5",
+      "antwoord": "U ong. 100 x 40 x 5 weegt 6,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 50 x 3",
+      "gewicht_kg_per_m": "4,60",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 50 x 3",
+      "antwoord": "U ong. 100 x 50 x 3 weegt 4,60 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 50 x 4",
+      "gewicht_kg_per_m": "6,05",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 50 x 4",
+      "antwoord": "U ong. 100 x 50 x 4 weegt 6,05 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 50 x 5",
+      "gewicht_kg_per_m": "7,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 50 x 5",
+      "antwoord": "U ong. 100 x 50 x 5 weegt 7,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 50 x 6",
+      "gewicht_kg_per_m": "8,80",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 50 x 6",
+      "antwoord": "U ong. 100 x 50 x 6 weegt 8,80 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 60 x 4",
+      "gewicht_kg_per_m": "6,69",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 60 x 4",
+      "antwoord": "U ong. 100 x 60 x 4 weegt 6,69 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 60 x 5",
+      "gewicht_kg_per_m": "8,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 60 x 5",
+      "antwoord": "U ong. 100 x 60 x 5 weegt 8,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "100 x 60 x 6",
+      "gewicht_kg_per_m": "9,76",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 100 x 60 x 6",
+      "antwoord": "U ong. 100 x 60 x 6 weegt 9,76 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "110 x 50 x 3",
+      "gewicht_kg_per_m": "4,84",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 110 x 50 x 3",
+      "antwoord": "U ong. 110 x 50 x 3 weegt 4,84 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "110 x 50 x 4",
+      "gewicht_kg_per_m": "6,37",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 110 x 50 x 4",
+      "antwoord": "U ong. 110 x 50 x 4 weegt 6,37 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "110 x 50 x 5",
+      "gewicht_kg_per_m": "7,84",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 110 x 50 x 5",
+      "antwoord": "U ong. 110 x 50 x 5 weegt 7,84 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "120 x 50 x 3",
+      "gewicht_kg_per_m": "5,08",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 120 x 50 x 3",
+      "antwoord": "U ong. 120 x 50 x 3 weegt 5,08 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "120 x 50 x 4",
+      "gewicht_kg_per_m": "6,69",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 120 x 50 x 4",
+      "antwoord": "U ong. 120 x 50 x 4 weegt 6,69 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "120 x 50 x 5",
+      "gewicht_kg_per_m": "8,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 120 x 50 x 5",
+      "antwoord": "U ong. 120 x 50 x 5 weegt 8,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "120 x 50 x 6",
+      "gewicht_kg_per_m": "9,76",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 120 x 50 x 6",
+      "antwoord": "U ong. 120 x 50 x 6 weegt 9,76 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "120 x 60 x 4",
+      "gewicht_kg_per_m": "7,33",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 120 x 60 x 4",
+      "antwoord": "U ong. 120 x 60 x 4 weegt 7,33 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "120 x 60 x 5",
+      "gewicht_kg_per_m": "9,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 120 x 60 x 5",
+      "antwoord": "U ong. 120 x 60 x 5 weegt 9,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "120 x 60 x 6",
+      "gewicht_kg_per_m": "10,7",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 120 x 60 x 6",
+      "antwoord": "U ong. 120 x 60 x 6 weegt 10,7 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "13 x 19 x 1,5",
+      "gewicht_kg_per_m": "0,57",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 13 x 19 x 1,5",
+      "antwoord": "U ong. 13 x 19 x 1,5 weegt 0,57 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "133 x 41 x 3",
+      "gewicht_kg_per_m": "4,96",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 133 x 41 x 3",
+      "antwoord": "U ong. 133 x 41 x 3 weegt 4,96 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 40 x 3",
+      "gewicht_kg_per_m": "5,08",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 40 x 3",
+      "antwoord": "U ong. 140 x 40 x 3 weegt 5,08 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 50 x 4",
+      "gewicht_kg_per_m": "7,33",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 50 x 4",
+      "antwoord": "U ong. 140 x 50 x 4 weegt 7,33 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 50 x 5",
+      "gewicht_kg_per_m": "9,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 50 x 5",
+      "antwoord": "U ong. 140 x 50 x 5 weegt 9,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 60 x 4",
+      "gewicht_kg_per_m": "7,97",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 60 x 4",
+      "antwoord": "U ong. 140 x 60 x 4 weegt 7,97 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 60 x 5",
+      "gewicht_kg_per_m": "9,84",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 60 x 5",
+      "antwoord": "U ong. 140 x 60 x 5 weegt 9,84 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 60 x 6",
+      "gewicht_kg_per_m": "11,7",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 60 x 6",
+      "antwoord": "U ong. 140 x 60 x 6 weegt 11,7 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 65 x 6",
+      "gewicht_kg_per_m": "12,2",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 65 x 6",
+      "antwoord": "U ong. 140 x 65 x 6 weegt 12,2 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 80 x 3",
+      "gewicht_kg_per_m": "7,00",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 80 x 3",
+      "antwoord": "U ong. 140 x 80 x 3 weegt 7,00 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "140 x 80 x 4",
+      "gewicht_kg_per_m": "9,25",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 140 x 80 x 4",
+      "antwoord": "U ong. 140 x 80 x 4 weegt 9,25 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "15 x 20 x 1,5",
+      "gewicht_kg_per_m": "0,61",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 15 x 20 x 1,5",
+      "antwoord": "U ong. 15 x 20 x 1,5 weegt 0,61 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "15 x 25 x 2",
+      "gewicht_kg_per_m": "0,96",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 15 x 25 x 2",
+      "antwoord": "U ong. 15 x 25 x 2 weegt 0,96 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "150 x 50 x 4",
+      "gewicht_kg_per_m": "7,65",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 150 x 50 x 4",
+      "antwoord": "U ong. 150 x 50 x 4 weegt 7,65 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "150 x 50 x 5",
+      "gewicht_kg_per_m": "9,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 150 x 50 x 5",
+      "antwoord": "U ong. 150 x 50 x 5 weegt 9,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 50 x 4",
+      "gewicht_kg_per_m": "7,97",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 50 x 4",
+      "antwoord": "U ong. 160 x 50 x 4 weegt 7,97 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 50 x 5",
+      "gewicht_kg_per_m": "9,84",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 50 x 5",
+      "antwoord": "U ong. 160 x 50 x 5 weegt 9,84 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 60 x 4",
+      "gewicht_kg_per_m": "8,61",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 60 x 4",
+      "antwoord": "U ong. 160 x 60 x 4 weegt 8,61 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 60 x 5",
+      "gewicht_kg_per_m": "10,6",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 60 x 5",
+      "antwoord": "U ong. 160 x 60 x 5 weegt 10,6 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 60 x 6",
+      "gewicht_kg_per_m": "12,6",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 60 x 6",
+      "antwoord": "U ong. 160 x 60 x 6 weegt 12,6 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 65 x 6",
+      "gewicht_kg_per_m": "13,1",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 65 x 6",
+      "antwoord": "U ong. 160 x 65 x 6 weegt 13,1 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 70 x 4",
+      "gewicht_kg_per_m": "9,25",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 70 x 4",
+      "antwoord": "U ong. 160 x 70 x 4 weegt 9,25 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "160 x 70 x 5",
+      "gewicht_kg_per_m": "11,4",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 160 x 70 x 5",
+      "antwoord": "U ong. 160 x 70 x 5 weegt 11,4 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "180 x 35 x 4",
+      "gewicht_kg_per_m": "7,65",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 180 x 35 x 4",
+      "antwoord": "U ong. 180 x 35 x 4 weegt 7,65 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "180 x 50 x 4",
+      "gewicht_kg_per_m": "8,61",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 180 x 50 x 4",
+      "antwoord": "U ong. 180 x 50 x 4 weegt 8,61 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "180 x 60 x 4",
+      "gewicht_kg_per_m": "9,25",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 180 x 60 x 4",
+      "antwoord": "U ong. 180 x 60 x 4 weegt 9,25 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "180 x 60 x 5",
+      "gewicht_kg_per_m": "11,4",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 180 x 60 x 5",
+      "antwoord": "U ong. 180 x 60 x 5 weegt 11,4 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "20 x 10 x 2",
+      "gewicht_kg_per_m": "0,56",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 20 x 10 x 2",
+      "antwoord": "U ong. 20 x 10 x 2 weegt 0,56 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "20 x 15 x 2",
+      "gewicht_kg_per_m": "0,72",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 20 x 15 x 2",
+      "antwoord": "U ong. 20 x 15 x 2 weegt 0,72 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "20 x 25 x 2",
+      "gewicht_kg_per_m": "1,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 20 x 25 x 2",
+      "antwoord": "U ong. 20 x 25 x 2 weegt 1,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "20 x 30 x 1,5",
+      "gewicht_kg_per_m": "0,91",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 20 x 30 x 1,5",
+      "antwoord": "U ong. 20 x 30 x 1,5 weegt 0,91 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "20 x 30 x 2",
+      "gewicht_kg_per_m": "1,20",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 20 x 30 x 2",
+      "antwoord": "U ong. 20 x 30 x 2 weegt 1,20 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "20 x 40 x 2",
+      "gewicht_kg_per_m": "1,52",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 20 x 40 x 2",
+      "antwoord": "U ong. 20 x 40 x 2 weegt 1,52 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "200 x 60 x 4",
+      "gewicht_kg_per_m": "9,89",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 200 x 60 x 4",
+      "antwoord": "U ong. 200 x 60 x 4 weegt 9,89 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "200 x 60 x 5",
+      "gewicht_kg_per_m": "12,2",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 200 x 60 x 5",
+      "antwoord": "U ong. 200 x 60 x 5 weegt 12,2 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "200 x 60 x 6",
+      "gewicht_kg_per_m": "14,6",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 200 x 60 x 6",
+      "antwoord": "U ong. 200 x 60 x 6 weegt 14,6 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "200 x 70 x 5",
+      "gewicht_kg_per_m": "13,0",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 200 x 70 x 5",
+      "antwoord": "U ong. 200 x 70 x 5 weegt 13,0 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "200 x 80 x 4",
+      "gewicht_kg_per_m": "11,2",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 200 x 80 x 4",
+      "antwoord": "U ong. 200 x 80 x 4 weegt 11,2 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "200 x 80 x 5",
+      "gewicht_kg_per_m": "13,8",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 200 x 80 x 5",
+      "antwoord": "U ong. 200 x 80 x 5 weegt 13,8 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "22 x 35 x 2",
+      "gewicht_kg_per_m": "1,39",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 22 x 35 x 2",
+      "antwoord": "U ong. 22 x 35 x 2 weegt 1,39 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "220 x 120 x 5",
+      "gewicht_kg_per_m": "17,8",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 220 x 120 x 5",
+      "antwoord": "U ong. 220 x 120 x 5 weegt 17,8 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "220 x 80 x 5",
+      "gewicht_kg_per_m": "14,6",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 220 x 80 x 5",
+      "antwoord": "U ong. 220 x 80 x 5 weegt 14,6 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "25 x 15 x 1,5",
+      "gewicht_kg_per_m": "0,61",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 25 x 15 x 1,5",
+      "antwoord": "U ong. 25 x 15 x 1,5 weegt 0,61 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "25 x 15 x 2",
+      "gewicht_kg_per_m": "0,80",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 25 x 15 x 2",
+      "antwoord": "U ong. 25 x 15 x 2 weegt 0,80 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "25 x 35 x 2",
+      "gewicht_kg_per_m": "1,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 25 x 35 x 2",
+      "antwoord": "U ong. 25 x 35 x 2 weegt 1,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "28 x 54 x 3",
+      "gewicht_kg_per_m": "3,07",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 28 x 54 x 3",
+      "antwoord": "U ong. 28 x 54 x 3 weegt 3,07 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 15 x 2",
+      "gewicht_kg_per_m": "0,88",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 15 x 2",
+      "antwoord": "U ong. 30 x 15 x 2 weegt 0,88 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 15 x 3",
+      "gewicht_kg_per_m": "1,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 15 x 3",
+      "antwoord": "U ong. 30 x 15 x 3 weegt 1,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 20 x 2",
+      "gewicht_kg_per_m": "1,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 20 x 2",
+      "antwoord": "U ong. 30 x 20 x 2 weegt 1,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 20 x 3",
+      "gewicht_kg_per_m": "1,48",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 20 x 3",
+      "antwoord": "U ong. 30 x 20 x 3 weegt 1,48 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 40 x 2",
+      "gewicht_kg_per_m": "1,68",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 40 x 2",
+      "antwoord": "U ong. 30 x 40 x 2 weegt 1,68 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 40 x 3",
+      "gewicht_kg_per_m": "2,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 40 x 3",
+      "antwoord": "U ong. 30 x 40 x 3 weegt 2,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 50 x 2",
+      "gewicht_kg_per_m": "2,00",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 50 x 2",
+      "antwoord": "U ong. 30 x 50 x 2 weegt 2,00 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "30 x 50 x 3",
+      "gewicht_kg_per_m": "2,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 30 x 50 x 3",
+      "antwoord": "U ong. 30 x 50 x 3 weegt 2,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "33 x 48 x 3",
+      "gewicht_kg_per_m": "2,90",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 33 x 48 x 3",
+      "antwoord": "U ong. 33 x 48 x 3 weegt 2,90 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "34 x 20 x 2",
+      "gewicht_kg_per_m": "1,10",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 34 x 20 x 2",
+      "antwoord": "U ong. 34 x 20 x 2 weegt 1,10 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "35 x 30 x 3",
+      "gewicht_kg_per_m": "2,08",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 35 x 30 x 3",
+      "antwoord": "U ong. 35 x 30 x 3 weegt 2,08 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "36 x 12 x 2",
+      "gewicht_kg_per_m": "0,88",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 36 x 12 x 2",
+      "antwoord": "U ong. 36 x 12 x 2 weegt 0,88 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "37 x 50 x 3",
+      "gewicht_kg_per_m": "3,09",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 37 x 50 x 3",
+      "antwoord": "U ong. 37 x 50 x 3 weegt 3,09 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 15 x 2",
+      "gewicht_kg_per_m": "1,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 15 x 2",
+      "antwoord": "U ong. 40 x 15 x 2 weegt 1,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 20 x 2",
+      "gewicht_kg_per_m": "1,20",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 20 x 2",
+      "antwoord": "U ong. 40 x 20 x 2 weegt 1,20 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 20 x 3",
+      "gewicht_kg_per_m": "1,72",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 20 x 3",
+      "antwoord": "U ong. 40 x 20 x 3 weegt 1,72 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 25 x 2",
+      "gewicht_kg_per_m": "1,36",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 25 x 2",
+      "antwoord": "U ong. 40 x 25 x 2 weegt 1,36 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 25 x 3",
+      "gewicht_kg_per_m": "1,96",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 25 x 3",
+      "antwoord": "U ong. 40 x 25 x 3 weegt 1,96 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 30 x 2",
+      "gewicht_kg_per_m": "1,52",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 30 x 2",
+      "antwoord": "U ong. 40 x 30 x 2 weegt 1,52 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 30 x 3",
+      "gewicht_kg_per_m": "2,20",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 30 x 3",
+      "antwoord": "U ong. 40 x 30 x 3 weegt 2,20 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 50 x 3",
+      "gewicht_kg_per_m": "3,16",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 50 x 3",
+      "antwoord": "U ong. 40 x 50 x 3 weegt 3,16 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "40 x 60 x 3",
+      "gewicht_kg_per_m": "3,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 40 x 60 x 3",
+      "antwoord": "U ong. 40 x 60 x 3 weegt 3,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "44 x 32 x 3",
+      "gewicht_kg_per_m": "2,40",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 44 x 32 x 3",
+      "antwoord": "U ong. 44 x 32 x 3 weegt 2,40 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "45 x 20 x 4",
+      "gewicht_kg_per_m": "2,37",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 45 x 20 x 4",
+      "antwoord": "U ong. 45 x 20 x 4 weegt 2,37 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "45 x 40 x 2",
+      "gewicht_kg_per_m": "1,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 45 x 40 x 2",
+      "antwoord": "U ong. 45 x 40 x 2 weegt 1,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 20 x 1,5",
+      "gewicht_kg_per_m": "1,03",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 20 x 1,5",
+      "antwoord": "U ong. 50 x 20 x 1,5 weegt 1,03 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 20 x 2",
+      "gewicht_kg_per_m": "1,36",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 20 x 2",
+      "antwoord": "U ong. 50 x 20 x 2 weegt 1,36 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 20 x 3",
+      "gewicht_kg_per_m": "1,96",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 20 x 3",
+      "antwoord": "U ong. 50 x 20 x 3 weegt 1,96 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 25 x 2",
+      "gewicht_kg_per_m": "1,52",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 25 x 2",
+      "antwoord": "U ong. 50 x 25 x 2 weegt 1,52 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 25 x 3",
+      "gewicht_kg_per_m": "2,20",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 25 x 3",
+      "antwoord": "U ong. 50 x 25 x 3 weegt 2,20 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 30 x 2",
+      "gewicht_kg_per_m": "1,68",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 30 x 2",
+      "antwoord": "U ong. 50 x 30 x 2 weegt 1,68 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 30 x 3",
+      "gewicht_kg_per_m": "2,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 30 x 3",
+      "antwoord": "U ong. 50 x 30 x 3 weegt 2,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 40 x 2",
+      "gewicht_kg_per_m": "2,00",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 40 x 2",
+      "antwoord": "U ong. 50 x 40 x 2 weegt 2,00 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 40 x 3",
+      "gewicht_kg_per_m": "2,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 40 x 3",
+      "antwoord": "U ong. 50 x 40 x 3 weegt 2,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 40 x 4",
+      "gewicht_kg_per_m": "3,81",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 40 x 4",
+      "antwoord": "U ong. 50 x 40 x 4 weegt 3,81 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "50 x 70 x 4",
+      "gewicht_kg_per_m": "5,73",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 50 x 70 x 4",
+      "antwoord": "U ong. 50 x 70 x 4 weegt 5,73 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "55 x 30 x 2",
+      "gewicht_kg_per_m": "1,76",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 55 x 30 x 2",
+      "antwoord": "U ong. 55 x 30 x 2 weegt 1,76 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "55 x 30 x 5",
+      "gewicht_kg_per_m": "4,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 55 x 30 x 5",
+      "antwoord": "U ong. 55 x 30 x 5 weegt 4,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "60 x 30 x 2",
+      "gewicht_kg_per_m": "1,84",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 60 x 30 x 2",
+      "antwoord": "U ong. 60 x 30 x 2 weegt 1,84 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "60 x 30 x 3",
+      "gewicht_kg_per_m": "2,68",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 60 x 30 x 3",
+      "antwoord": "U ong. 60 x 30 x 3 weegt 2,68 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "60 x 30 x 4",
+      "gewicht_kg_per_m": "3,49",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 60 x 30 x 4",
+      "antwoord": "U ong. 60 x 30 x 4 weegt 3,49 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "60 x 40 x 2",
+      "gewicht_kg_per_m": "2,16",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 60 x 40 x 2",
+      "antwoord": "U ong. 60 x 40 x 2 weegt 2,16 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "60 x 40 x 3",
+      "gewicht_kg_per_m": "3,16",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 60 x 40 x 3",
+      "antwoord": "U ong. 60 x 40 x 3 weegt 3,16 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "60 x 40 x 4",
+      "gewicht_kg_per_m": "4,13",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 60 x 40 x 4",
+      "antwoord": "U ong. 60 x 40 x 4 weegt 4,13 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "60 x 50 x 3",
+      "gewicht_kg_per_m": "3,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 60 x 50 x 3",
+      "antwoord": "U ong. 60 x 50 x 3 weegt 3,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "65 x 40 x 4",
+      "gewicht_kg_per_m": "4,29",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 65 x 40 x 4",
+      "antwoord": "U ong. 65 x 40 x 4 weegt 4,29 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "65 x 40 x 5",
+      "gewicht_kg_per_m": "5,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 65 x 40 x 5",
+      "antwoord": "U ong. 65 x 40 x 5 weegt 5,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "65 x 42 x 5",
+      "gewicht_kg_per_m": "5,40",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 65 x 42 x 5",
+      "antwoord": "U ong. 65 x 42 x 5 weegt 5,40 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "65 x 42,5 x 4",
+      "gewicht_kg_per_m": "4,45",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 65 x 42,5 x 4",
+      "antwoord": "U ong. 65 x 42,5 x 4 weegt 4,45 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 20 x 2",
+      "gewicht_kg_per_m": "1,68",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 20 x 2",
+      "antwoord": "U ong. 70 x 20 x 2 weegt 1,68 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 25 x 3",
+      "gewicht_kg_per_m": "2,68",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 25 x 3",
+      "antwoord": "U ong. 70 x 25 x 3 weegt 2,68 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 30 x 2",
+      "gewicht_kg_per_m": "2,00",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 30 x 2",
+      "antwoord": "U ong. 70 x 30 x 2 weegt 2,00 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 30 x 3",
+      "gewicht_kg_per_m": "2,92",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 30 x 3",
+      "antwoord": "U ong. 70 x 30 x 3 weegt 2,92 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 35 x 3",
+      "gewicht_kg_per_m": "3,16",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 35 x 3",
+      "antwoord": "U ong. 70 x 35 x 3 weegt 3,16 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 35 x 4",
+      "gewicht_kg_per_m": "4,13",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 35 x 4",
+      "antwoord": "U ong. 70 x 35 x 4 weegt 4,13 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 40 x 3",
+      "gewicht_kg_per_m": "3,40",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 40 x 3",
+      "antwoord": "U ong. 70 x 40 x 3 weegt 3,40 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 40 x 4",
+      "gewicht_kg_per_m": "4,45",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 40 x 4",
+      "antwoord": "U ong. 70 x 40 x 4 weegt 4,45 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "70 x 50 x 4",
+      "gewicht_kg_per_m": "5,09",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 70 x 50 x 4",
+      "antwoord": "U ong. 70 x 50 x 4 weegt 5,09 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 30 x 3",
+      "gewicht_kg_per_m": "3,16",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 30 x 3",
+      "antwoord": "U ong. 80 x 30 x 3 weegt 3,16 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 30 x 4",
+      "gewicht_kg_per_m": "4,13",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 30 x 4",
+      "antwoord": "U ong. 80 x 30 x 4 weegt 4,13 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 40 x 3",
+      "gewicht_kg_per_m": "3,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 40 x 3",
+      "antwoord": "U ong. 80 x 40 x 3 weegt 3,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 40 x 4",
+      "gewicht_kg_per_m": "4,77",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 40 x 4",
+      "antwoord": "U ong. 80 x 40 x 4 weegt 4,77 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 45 x 3",
+      "gewicht_kg_per_m": "3,88",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 45 x 3",
+      "antwoord": "U ong. 80 x 45 x 3 weegt 3,88 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 45 x 4",
+      "gewicht_kg_per_m": "5,09",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 45 x 4",
+      "antwoord": "U ong. 80 x 45 x 4 weegt 5,09 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 45 x 5",
+      "gewicht_kg_per_m": "6,24",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 45 x 5",
+      "antwoord": "U ong. 80 x 45 x 5 weegt 6,24 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 45 x 6",
+      "gewicht_kg_per_m": "7,36",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 45 x 6",
+      "antwoord": "U ong. 80 x 45 x 6 weegt 7,36 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 50 x 3",
+      "gewicht_kg_per_m": "4,12",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 50 x 3",
+      "antwoord": "U ong. 80 x 50 x 3 weegt 4,12 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 50 x 4",
+      "gewicht_kg_per_m": "5,41",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 50 x 4",
+      "antwoord": "U ong. 80 x 50 x 4 weegt 5,41 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 50 x 5",
+      "gewicht_kg_per_m": "6,64",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 50 x 5",
+      "antwoord": "U ong. 80 x 50 x 5 weegt 6,64 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 50 x 6",
+      "gewicht_kg_per_m": "7,84",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 50 x 6",
+      "antwoord": "U ong. 80 x 50 x 6 weegt 7,84 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "80 x 60 x 6",
+      "gewicht_kg_per_m": "8,80",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 80 x 60 x 6",
+      "antwoord": "U ong. 80 x 60 x 6 weegt 8,80 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "90 x 30 x 2,5",
+      "gewicht_kg_per_m": "2,86",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 90 x 30 x 2,5",
+      "antwoord": "U ong. 90 x 30 x 2,5 weegt 2,86 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "90 x 30 x 3",
+      "gewicht_kg_per_m": "3,40",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 90 x 30 x 3",
+      "antwoord": "U ong. 90 x 30 x 3 weegt 3,40 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "90 x 40 x 3",
+      "gewicht_kg_per_m": "3,88",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 90 x 40 x 3",
+      "antwoord": "U ong. 90 x 40 x 3 weegt 3,88 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "U ong.",
+      "afmeting": "90 x 40 x 4",
+      "gewicht_kg_per_m": "5,09",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst u ong. 90 x 40 x 4",
+      "antwoord": "U ong. 90 x 40 x 4 weegt 5,09 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Z",
+      "afmeting": "20x30x20x2",
+      "gewicht_kg_per_m": "1,04",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst z 20x30x20x2",
+      "antwoord": "Z 20x30x20x2 weegt 1,04 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Z",
+      "afmeting": "20x40x20x3",
+      "gewicht_kg_per_m": "1,72",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst z 20x40x20x3",
+      "antwoord": "Z 20x40x20x3 weegt 1,72 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Z",
+      "afmeting": "30x40x30x3",
+      "gewicht_kg_per_m": "2,20",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst z 30x40x30x3",
+      "antwoord": "Z 30x40x30x3 weegt 2,20 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "Z",
+      "afmeting": "30x50x30x3",
+      "gewicht_kg_per_m": "2,44",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst z 30x50x30x3",
+      "antwoord": "Z 30x50x30x3 weegt 2,44 kg/m"
+    },
+    {
+      "categorie": "Koudgewalst",
+      "type": "rail",
+      "afmeting": "50x30x14x6x3",
+      "gewicht_kg_per_m": "3,00",
+      "materiaal": "S235",
+      "zoekterm": "koudgewalst rail 50x30x14x6x3",
+      "antwoord": "rail 50x30x14x6x3 weegt 3,00 kg/m"
+    }
+  ]
+}

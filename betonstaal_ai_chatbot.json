@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "naam": "Betonstaal AI Chatbot Database",
+    "versie": "1.0",
+    "categorie": "Betonstaal",
+    "totaal_entries": 10,
+    "beschrijving": "Geoptimaliseerde betonstaal database voor AI chatbot gewichtsopzoekingen"
+  },
+  "data": [
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 10,
+      "gewicht_kg_per_m": "0,617",
+      "materiaal": "B500A en B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 10",
+      "antwoord": "gezamelijk (mm²) 10 weegt 0,617 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 12,
+      "gewicht_kg_per_m": "0,888",
+      "materiaal": "B500A en B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 12",
+      "antwoord": "gezamelijk (mm²) 12 weegt 0,888 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 14,
+      "gewicht_kg_per_m": "1,21",
+      "materiaal": "B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 14",
+      "antwoord": "gezamelijk (mm²) 14 weegt 1,21 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 16,
+      "gewicht_kg_per_m": "1,58",
+      "materiaal": "B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 16",
+      "antwoord": "gezamelijk (mm²) 16 weegt 1,58 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 20,
+      "gewicht_kg_per_m": "2,47",
+      "materiaal": "B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 20",
+      "antwoord": "gezamelijk (mm²) 20 weegt 2,47 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 25,
+      "gewicht_kg_per_m": "3,85",
+      "materiaal": "B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 25",
+      "antwoord": "gezamelijk (mm²) 25 weegt 3,85 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 32,
+      "gewicht_kg_per_m": "6,31",
+      "materiaal": "B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 32",
+      "antwoord": "gezamelijk (mm²) 32 weegt 6,31 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 40,
+      "gewicht_kg_per_m": "9,86",
+      "materiaal": "B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 40",
+      "antwoord": "gezamelijk (mm²) 40 weegt 9,86 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 6,
+      "gewicht_kg_per_m": "0,222",
+      "materiaal": "B500A",
+      "zoekterm": "betonstaal gezamelijk (mm²) 6",
+      "antwoord": "gezamelijk (mm²) 6 weegt 0,222 kg/m"
+    },
+    {
+      "categorie": "Betonstaal",
+      "type": "gezamelijk (mm²)",
+      "afmeting": 8,
+      "gewicht_kg_per_m": "0,395",
+      "materiaal": "B500A en B500B",
+      "zoekterm": "betonstaal gezamelijk (mm²) 8",
+      "antwoord": "gezamelijk (mm²) 8 weegt 0,395 kg/m"
+    }
+  ]
+}
