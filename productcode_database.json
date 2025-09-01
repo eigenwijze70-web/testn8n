@@ -1,0 +1,411 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productcode": "VL-INB-001",
+      "name": "Inbouwdoos 1-voudig",
+      "category": "Elektra",
+      "description": "Standaard inbouwdoos voor wandcontactdozen en schakelaars",
+      "specifications": {
+        "diepte": "47mm",
+        "diameter": "68mm",
+        "materiaal": "kunststof"
+      },
+      "synonyms": [
+        "patatbakje",
+        "inbouwdoos",
+        "schakelkastje",
+        "wanddoos",
+        "elektradoos",
+        "bakje"
+      ]
+    },
+    {
+      "id": 2,
+      "productcode": "VL-WCD-002",
+      "name": "Wandcontactdoos wit 16A",
+      "category": "Elektra",
+      "description": "Standaard wandcontactdoos met randaarde",
+      "specifications": {
+        "amperage": "16A",
+        "kleur": "wit",
+        "type": "randaarde"
+      },
+      "synonyms": [
+        "stopcontact",
+        "wandcontact",
+        "contactdoos",
+        "stekker",
+        "wit stopcontact",
+        "16 ampere stopcontact"
+      ]
+    },
+    {
+      "id": 3,
+      "productcode": "VL-SCH-003",
+      "name": "Enkelpolige schakelaar zwart",
+      "category": "Elektra",
+      "description": "Standaard lichtschakelaar enkelpolig",
+      "specifications": {
+        "type": "enkelpolig",
+        "kleur": "zwart",
+        "amperage": "10A"
+      },
+      "synonyms": [
+        "lichtknopje",
+        "schakelaar",
+        "lichtschakelaar",
+        "knopje",
+        "zwarte schakelaar",
+        "aan-uit knop"
+      ]
+    },
+    {
+      "id": 4,
+      "productcode": "VL-KAB-004",
+      "name": "XVB kabel 3x2.5mm²",
+      "category": "Kabels",
+      "description": "Installatiekabel voor vaste installatie",
+      "specifications": {
+        "type": "XVB",
+        "doorsnede": "3x2.5mm²",
+        "spanning": "300/500V"
+      },
+      "synonyms": [
+        "installatiekabel",
+        "elektriciteitskabel",
+        "kabel",
+        "XVB kabel",
+        "2.5 kabel",
+        "drieaderige kabel"
+      ]
+    },
+    {
+      "id": 5,
+      "productcode": "VL-BUI-005",
+      "name": "Flexibele buis 16mm",
+      "category": "Buizen",
+      "description": "Flexibele beschermingsbuis voor kabels",
+      "specifications": {
+        "diameter": "16mm",
+        "materiaal": "PVC",
+        "type": "flexibel"
+      },
+      "synonyms": [
+        "flexbuis",
+        "kabelgoot",
+        "beschermingsbuis",
+        "buis",
+        "16mm buis",
+        "kabelbescherming"
+      ]
+    },
+    {
+      "id": 6,
+      "productcode": "VL-VER-006",
+      "name": "Verdeelkast 12 modules",
+      "category": "Verdeelkasten",
+      "description": "Opbouw verdeelkast voor 12 modules",
+      "specifications": {
+        "modules": "12",
+        "type": "opbouw",
+        "IP": "IP40"
+      },
+      "synonyms": [
+        "verdeelkast",
+        "zekeringkast",
+        "groepenkast",
+        "elektriciteitskast",
+        "12 groepen kast",
+        "modulekast"
+      ]
+    },
+    {
+      "id": 7,
+      "productcode": "VL-AUT-007",
+      "name": "Automaat B16 1-polig",
+      "category": "Beveiliging",
+      "description": "Installatieautomaat 16A karakteristiek B",
+      "specifications": {
+        "amperage": "16A",
+        "karakteristiek": "B",
+        "polen": "1"
+      },
+      "synonyms": [
+        "automaat",
+        "zekering",
+        "installatieautomaat",
+        "16 ampere automaat",
+        "B16",
+        "stroomonderbreker"
+      ]
+    },
+    {
+      "id": 8,
+      "productcode": "VL-LED-008",
+      "name": "LED spot inbouw 5W warm wit",
+      "category": "Verlichting",
+      "description": "Inbouw LED spot dimbaar",
+      "specifications": {
+        "vermogen": "5W",
+        "kleurtemperatuur": "3000K",
+        "dimbaar": true
+      },
+      "synonyms": [
+        "LED spot",
+        "inbouwspot",
+        "plafondspot",
+        "spotje",
+        "warm wit spot",
+        "5 watt spot"
+      ]
+    },
+    {
+      "id": 9,
+      "productcode": "VL-DIM-009",
+      "name": "Dimmer 400W universeel",
+      "category": "Elektra",
+      "description": "Universele dimmer voor LED en gloeilampen",
+      "specifications": {
+        "vermogen": "400W",
+        "type": "universeel",
+        "LED_compatible": true
+      },
+      "synonyms": [
+        "dimmer",
+        "lichtdimmer",
+        "dimschakelaar",
+        "400 watt dimmer",
+        "universele dimmer",
+        "LED dimmer"
+      ]
+    },
+    {
+      "id": 10,
+      "productcode": "VL-WCD-010",
+      "name": "Wandcontactdoos met USB",
+      "category": "Elektra",
+      "description": "Wandcontactdoos met geïntegreerde USB lader",
+      "specifications": {
+        "amperage": "16A",
+        "USB_poorten": "2",
+        "kleur": "wit"
+      },
+      "synonyms": [
+        "USB stopcontact",
+        "stopcontact met USB",
+        "lader stopcontact",
+        "USB wandcontact",
+        "telefoon stopcontact",
+        "oplader stopcontact"
+      ]
+    },
+    {
+      "id": 11,
+      "productcode": "VL-BEW-011",
+      "name": "Bewegingsmelder 180°",
+      "category": "Beveiliging",
+      "description": "PIR bewegingsmelder voor binnen",
+      "specifications": {
+        "detectiehoek": "180°",
+        "bereik": "12m",
+        "type": "PIR"
+      },
+      "synonyms": [
+        "bewegingsmelder",
+        "bewegingssensor",
+        "PIR melder",
+        "aanwezigheidsmelder",
+        "sensor",
+        "automatische schakelaar"
+      ]
+    },
+    {
+      "id": 12,
+      "productcode": "VL-KAB-012",
+      "name": "Coax kabel RG6",
+      "category": "Kabels",
+      "description": "Coaxiale kabel voor TV/satelliet",
+      "specifications": {
+        "type": "RG6",
+        "impedantie": "75 ohm",
+        "toepassing": "TV/SAT"
+      },
+      "synonyms": [
+        "coax kabel",
+        "TV kabel",
+        "antennekabel",
+        "satellietkabel",
+        "RG6 kabel",
+        "coaxiaal"
+      ]
+    },
+    {
+      "id": 13,
+      "productcode": "VL-UTP-013",
+      "name": "UTP kabel Cat6",
+      "category": "Kabels",
+      "description": "Netwerkkabel Cat6 voor dataverbindingen",
+      "specifications": {
+        "categorie": "Cat6",
+        "type": "UTP",
+        "toepassing": "netwerk"
+      },
+      "synonyms": [
+        "netwerkkabel",
+        "UTP kabel",
+        "internetkabel",
+        "Cat6 kabel",
+        "datakabel",
+        "ethernet kabel"
+      ]
+    },
+    {
+      "id": 14,
+      "productcode": "VL-ROO-014",
+      "name": "Rookmelder optisch",
+      "category": "Beveiliging",
+      "description": "Optische rookmelder met 10 jaar batterij",
+      "specifications": {
+        "type": "optisch",
+        "batterij": "10 jaar",
+        "certificering": "EN14604"
+      },
+      "synonyms": [
+        "rookmelder",
+        "brandmelder",
+        "rookdetector",
+        "rook alarm",
+        "optische rookmelder",
+        "branddetector"
+      ]
+    },
+    {
+      "id": 15,
+      "productcode": "VL-DEU-015",
+      "name": "Deurbel draadloos",
+      "category": "Elektra",
+      "description": "Draadloze deurbel met 32 melodieën",
+      "specifications": {
+        "type": "draadloos",
+        "bereik": "100m",
+        "melodieën": "32"
+      },
+      "synonyms": [
+        "deurbel",
+        "bel",
+        "draadloze bel",
+        "deurzoemer",
+        "belletje",
+        "wireless deurbel"
+      ]
+    },
+    {
+      "id": 16,
+      "productcode": "VL-TIM-016",
+      "name": "Tijdschakelaar digitaal",
+      "category": "Elektra",
+      "description": "Digitale tijdschakelaar voor DIN rail",
+      "specifications": {
+        "type": "digitaal",
+        "montage": "DIN rail",
+        "programma's": "20"
+      },
+      "synonyms": [
+        "tijdschakelaar",
+        "timer",
+        "tijdklok",
+        "digitale timer",
+        "schakelklok",
+        "automatische schakelaar"
+      ]
+    },
+    {
+      "id": 17,
+      "productcode": "VL-ARA-017",
+      "name": "Aardlekschakelaar 30mA",
+      "category": "Beveiliging",
+      "description": "Aardlekschakelaar 25A 30mA 2-polig",
+      "specifications": {
+        "amperage": "25A",
+        "lekstroom": "30mA",
+        "polen": "2"
+      },
+      "synonyms": [
+        "aardlekschakelaar",
+        "aardlek",
+        "differentieelschakelaar",
+        "FI schakelaar",
+        "30mA schakelaar",
+        "lekschakelaar"
+      ]
+    },
+    {
+      "id": 18,
+      "productcode": "VL-VEN-018",
+      "name": "Ventilator badkamer Ø100mm",
+      "category": "Ventilatie",
+      "description": "Badkamerventilator met timer",
+      "specifications": {
+        "diameter": "100mm",
+        "capaciteit": "95 m³/h",
+        "timer": true
+      },
+      "synonyms": [
+        "badkamerventilator",
+        "ventilator",
+        "afzuigventilator",
+        "100mm ventilator",
+        "toilet ventilator",
+        "WC ventilator"
+      ]
+    },
+    {
+      "id": 19,
+      "productcode": "VL-THE-019",
+      "name": "Thermostaat digitaal",
+      "category": "Verwarming",
+      "description": "Digitale kamerthermostaat programmeerbaar",
+      "specifications": {
+        "type": "digitaal",
+        "programmeerbaar": true,
+        "display": "LCD"
+      },
+      "synonyms": [
+        "thermostaat",
+        "kamerthermostaat",
+        "temperatuurregelaar",
+        "digitale thermostaat",
+        "verwarmingsregelaar",
+        "temperatuur schakelaar"
+      ]
+    },
+    {
+      "id": 20,
+      "productcode": "VL-WAT-020",
+      "name": "Waterdichte koppeling IP68",
+      "category": "Elektra",
+      "description": "Waterdichte kabelkoppeling voor buiten",
+      "specifications": {
+        "IP_rating": "IP68",
+        "kabeldiameter": "6-12mm",
+        "materiaal": "kunststof"
+      },
+      "synonyms": [
+        "waterdichte koppeling",
+        "IP68 koppeling",
+        "buitenkoppeling",
+        "kabelkoppeling",
+        "waterdichte verbinding",
+        "outdoor koppeling"
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-01-09",
+    "description": "Test database voor Van Linde productcodes met Nederlandse synoniemen",
+    "total_products": 20
+  }
+}
+
