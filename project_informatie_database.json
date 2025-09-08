@@ -1,0 +1,166 @@
+{
+  "project_informatie": {
+    "project_nummer": "WON24019",
+    "project_naam": "Nieuwbouw 8 won. De Bron te Damwald",
+    "bouwnummer": "1 & 2",
+    "adres": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald",
+    "opdrachtgever": "Hekstra",
+    "installatie_datum": "2025",
+    "oplevering": "2025",
+    "status": "DEFINITIEF"
+  },
+  "installateur_informatie": {
+    "bedrijf": "Technisch Installatiebedrijf Bouma Burgum B.V.",
+    "handelsnaam": "Bouma Technisch Installatiebedrijf BV",
+    "adres": "Florynwei 5, 9262 MP Burgum",
+    "telefoon": "0511 - 461 378",
+    "email": "info@bouma-installatie.nl",
+    "website": "www.bouma-installatie.nl",
+    "btw_nummer": "NL 8065.14.541.B01",
+    "iban": "NL74 RABO 0320 9034 35",
+    "kvk": "01068516",
+    "lid_van": "Vereniging van Nederlandse Installatiebedrijven (Techniek Nederland)"
+  },
+  "geinstalleerde_systemen": {
+    "warmtepomp": {
+      "systeem": "Daikin Altherma 3 lucht-water warmtepomp",
+      "functie": "Verwarming en warm tapwater",
+      "energielabel": "A+++",
+      "regeling": "Daikin Madoka thermostaat"
+    },
+    "ventilatie": {
+      "systeem": "Zehnder ComfoAir Q 350",
+      "functie": "Mechanische ventilatie met warmteterugwinning",
+      "rendement": "80-90% warmteterugwinning",
+      "regeling": "CO2 gestuurde ventilatie mogelijk"
+    },
+    "zonnepanelen": {
+      "systeem": "Viridian Solar ClearlineFusion indakpanelen",
+      "omvormer": "Growatt MTL-S serie",
+      "functie": "Duurzame elektriciteitsopwekking",
+      "type": "Geïntegreerd daksysteem"
+    },
+    "elektrische_installatie": {
+      "type": "Volledige elektrische installatie",
+      "groepen": "18 groepen + kookgroep",
+      "norm": "NEN 1010",
+      "beveiliging": "Aardlekschakelaars en automaten"
+    },
+    "rookmelders": {
+      "systeem": "Ei Electronics Ei146",
+      "type": "Optische rookmelders 230V met batterij backup",
+      "koppeling": "Bedraad gekoppeld systeem",
+      "norm": "EN14604:2005"
+    },
+    "sanitair": {
+      "badkamer": "Volledige badkamer met bad, douche, wastafel, toilet",
+      "toilet_bg": "Separaat toilet begane grond met fontein",
+      "kranen": "Gemini serie",
+      "afvoer": "Gescheiden riolering"
+    },
+    "keuken": {
+      "type": "Moderne keuken met inbouwapparatuur",
+      "apparaten": ["Inductiekookplaat", "Oven", "Vaatwasser", "Koelkast", "Quooker"],
+      "ventilatie": "Mechanische afzuiging via WTW"
+    },
+    "waterontharder": {
+      "systeem": "Electrolux waterontharder",
+      "functie": "Waterontharding voor comfort en apparaatbescherming",
+      "capaciteit": "14L of 17L afhankelijk van gekozen model"
+    }
+  },
+  "garantie_overzicht": {
+    "algemene_garantie": {
+      "installateur_garantie": "2 jaar op onderdelen, 1 jaar op arbeid",
+      "voorwaarde": "Onderhoud door Bouma vereist voor garantie",
+      "garantieverklaring": "WON24019"
+    },
+    "systeem_specifieke_garanties": {
+      "warmtepomp": "Daikin fabrikant garantie + Bouma installatie garantie",
+      "ventilatie": "Zehnder fabrikant garantie + Bouma installatie garantie",
+      "zonnepanelen": "Awizon 5 jaar systeemgarantie + fabrikant garanties",
+      "rookmelders": "Ei Electronics 5 jaar + Bouma 5 jaar productgarantie",
+      "elektrische_installatie": "1 jaar garantie op arbeid",
+      "sanitair": "Fabrikant garantie sanitair + Bouma installatie garantie"
+    }
+  },
+  "onderhoudscontracten": {
+    "warmtepomp": {
+      "prijs": "€12,10 per maand (inclusief BTW)",
+      "inbegrepen": "Jaarlijks onderhoud, 24u storingsdienst, geen voorrijkosten"
+    },
+    "ventilatie": {
+      "prijs": "€6,35 per maand (inclusief BTW)", 
+      "inbegrepen": "Filtervervanging, jaarlijks onderhoud"
+    },
+    "totaal_onderhoud": "€18,45 per maand voor warmtepomp + ventilatie"
+  },
+  "service_en_ondersteuning": {
+    "storingsdienst": {
+      "beschikbaarheid": "24 uur per dag, 7 dagen per week",
+      "telefoon": "0511 - 461 378",
+      "email": "info@bouma-installatie.nl",
+      "voorrijkosten": {
+        "lokaal": "€38,00 excl. BTW (Burgum e.o.)",
+        "regionaal": "€65,00 excl. BTW",
+        "buiten_kantooruren": "€81,00 excl. BTW"
+      }
+    },
+    "onderhoud": {
+      "eigen_servicedienst": "Geen uitbesteding aan landelijke organisatie",
+      "vaste_monteurs": "Dezelfde servicemonteurs voor continuïteit",
+      "planning": "Jaarlijkse onderhoudsplanning"
+    }
+  },
+  "technische_tekeningen": {
+    "elektrische_installatie": "WON24019-E01 Elektrische installatie",
+    "ventilatie": "WON24019-V01 Ventilatie", 
+    "verwarming_koeling": "WON24019-VWK01 Verwarming-Koeling",
+    "tapwater": "WON24019-TW01 Tapwater",
+    "riolering": "WON24019-R01 Riolering",
+    "keuken": "WON24019 1- Keukentekening BA Wolters",
+    "badkamer": "WON24019 1- Badkamertekening Wolters"
+  },
+  "meetrapporten": {
+    "wtw_installatie": {
+      "datum": "26-05-25",
+      "uitgevoerd_door": "D. Vriesinga",
+      "controle": "12-6-25",
+      "resultaat": "Alle debieten conform specificaties"
+    }
+  },
+  "normen_en_certificering": {
+    "installatienormen": [
+      "NEN 1010 (Elektrische installaties)",
+      "NEN 1006 (Sanitaire installaties)",
+      "Bouwbesluit 2012",
+      "EN14604:2005 (Rookmelders)",
+      "EU verordening Nr. 1253/2014 (Ventilatie)"
+    ],
+    "certificaten": [
+      "CE-keur op alle apparaten",
+      "KOMO certificering waar van toepassing",
+      "Techniek Nederland lidmaatschap"
+    ]
+  },
+  "energieprestatie": {
+    "energielabel_woning": "Hoog (door warmtepomp, WTW, zonnepanelen)",
+    "duurzaamheidsmaatregelen": [
+      "Warmtepomp voor verwarming en warm water",
+      "Warmteterugwinning ventilatie (80-90%)",
+      "Zonnepanelen voor elektriciteitsopwekking",
+      "Waterontharder voor efficiëntie",
+      "LED verlichting",
+      "Goede isolatie en luchtdichtheid"
+    ]
+  },
+  "contact_noodgevallen": {
+    "brand": "112 - Brandweer",
+    "gas_lekkage": "Niet van toepassing (all-electric woning)",
+    "water_lekkage": "Hoofdkraan sluiten + Bouma bellen",
+    "stroom_uitval": "Netbeheerder + controleer hoofdschakelaar",
+    "warmtepomp_storing": "Bouma 24u storingsdienst: 0511 - 461 378",
+    "ventilatie_storing": "Bouma servicedienst: 0511 - 461 378"
+  }
+}
+

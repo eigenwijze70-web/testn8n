@@ -1,0 +1,157 @@
+{
+  "systeem_informatie": {
+    "type": "Sanitaire installatie",
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "installatie_datum": "2025",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald",
+    "tekening": "WON24019 1- Badkamertekening Wolters"
+  },
+  "badkamer_verdieping": {
+    "afmetingen": {
+      "totaal": "200,8 cm x 220 cm",
+      "hoogte": "Standaard verdiepingshoogte"
+    },
+    "sanitair": {
+      "bad": {
+        "type": "Inbouwbad",
+        "afmetingen": "180 cm lengte",
+        "positie": "Centraal in ruimte",
+        "water_aansluiting": {
+          "type": "Gemini beugel 150 bad",
+          "hoogte": "850 mm vanaf vloer",
+          "positie": "Midden bad (1104 mm)"
+        },
+        "afvoer": {
+          "positie": "45 cm uit achterwand, midden bad (1104 mm)",
+          "type": "Riolering afgedopt"
+        }
+      },
+      "douche": {
+        "type": "Inloopdouche",
+        "afmetingen": "Hoek opstelling",
+        "water_aansluiting": {
+          "type": "Gemini beugel 150 douche",
+          "hoogte": "1200 mm vanaf vloer",
+          "positie": "Midden wand (450 mm)"
+        },
+        "afvoer": {
+          "positie": "Afgedopt midden in douche hoek",
+          "type": "Riolering afgedopt"
+        }
+      },
+      "wastafel": {
+        "type": "Wastafelmeubel",
+        "water_aansluiting": {
+          "type": "Gemini beugel 150 wastafel",
+          "hoogte": "655 mm vanaf vloer",
+          "positie": "1696 mm"
+        },
+        "afvoer": {
+          "hoogte": "595 mm vanaf vloer",
+          "positie": "Midden wastafelmeubel",
+          "type": "Riolering afgedopt"
+        }
+      },
+      "toilet": {
+        "type": "Hangend toilet",
+        "water_aansluiting": {
+          "hoogte": "1,5 meter uit vloer",
+          "eindigt_in": "Dop 16"
+        },
+        "afvoer": {
+          "positie": "1700mm uit wand",
+          "eindigt_in": "Dop"
+        }
+      }
+    }
+  },
+  "toilet_begane_grond": {
+    "toilet": {
+      "type": "Staand toilet",
+      "afvoer": {
+        "hoogte": "15 cm boven vloer",
+        "status": "Afgedopt"
+      }
+    },
+    "fontein": {
+      "type": "Klein wastafel",
+      "status": "Afgedopt",
+      "aansluitingen": "Water + riolering op hoogte",
+      "conform": "Onderstaande schets (in werkomschrijving)"
+    }
+  },
+  "water_systeem": {
+    "koud_water": {
+      "aanvoer": "Hoofdleiding",
+      "distributie": "Naar alle tappunten",
+      "druk": "Netwerkdruk"
+    },
+    "warm_water": {
+      "bron": "Daikin Altherma 3 warmtepomp",
+      "backup": "Elektrische backup boiler",
+      "distributie": "Naar alle warmwatertappunten",
+      "temperatuur": "Instelbaar via warmtepomp regeling"
+    }
+  },
+  "riolering": {
+    "afvoer_systeem": {
+      "type": "Gescheiden riolering",
+      "afvoer_bad": "Naar hoofdriolering",
+      "afvoer_douche": "Naar hoofdriolering", 
+      "afvoer_wastafel": "Naar hoofdriolering",
+      "afvoer_toilet": "Naar hoofdriolering"
+    },
+    "ventilatie": {
+      "mechanisch": "Via WTW systeem",
+      "afvoer_punten": ["Badkamer", "Toilet"],
+      "debiet_badkamer": "50 m³/h",
+      "debiet_toilet": "25 m³/h"
+    }
+  },
+  "installatie_specificaties": {
+    "leidingwerk": {
+      "materiaal": "Kunststof leidingen",
+      "isolatie": "Geïsoleerd waar vereist",
+      "bevestiging": "Conform NEN normen"
+    },
+    "kranen_en_fittingen": {
+      "type": "Gemini serie",
+      "materiaal": "Chroom/RVS",
+      "kwaliteit": "Hoge kwaliteit fittingen"
+    }
+  },
+  "elektrische_voorzieningen": {
+    "verlichting": "Groep 2 - Toilet, hal, zolder, slkr 2, badk, overloop, m.k",
+    "stopcontacten": "Groep 2",
+    "ventilatie": "Groep 10 - WTW unit zolder",
+    "verwarming": "Via warmtepomp systeem"
+  },
+  "onderhoud": {
+    "regelmatig_onderhoud": [
+      "Kranen en fittingen controleren op lekkage",
+      "Afvoeren doorspuiten bij verstopping",
+      "Sanitair reinigen en onderhouden",
+      "Ventilatieroosters schoonmaken"
+    ],
+    "jaarlijks_onderhoud": [
+      "Leidingwerk controleren",
+      "Waterdruk controleren",
+      "Afvoersysteem inspecteren"
+    ],
+    "service": "Bouma Technisch Installatiebedrijf BV"
+  },
+  "normen_en_voorschriften": {
+    "installatienormen": ["NEN 1006", "NEN 1010"],
+    "bouwbesluit": "Conform Bouwbesluit 2012",
+    "hygiëne": "Conform HACCP richtlijnen",
+    "toegankelijkheid": "Conform toegankelijkheidseisen"
+  },
+  "garantie": {
+    "installatie": "Volgens Bouma garantievoorwaarden",
+    "materialen": "Fabrikant garantie op sanitair",
+    "arbeid": "1 jaar garantie op installatie",
+    "service": "24/7 storingsdienst beschikbaar"
+  }
+}
+

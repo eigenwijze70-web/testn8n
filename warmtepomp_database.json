@@ -1,0 +1,108 @@
+{
+  "systeem_informatie": {
+    "type": "Lucht-waterwarmtepomp",
+    "merk": "Daikin",
+    "model": "Altherma 3",
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "installatie_datum": "2025",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald"
+  },
+  "technische_specificaties": {
+    "buitenunit": {
+      "type": "Lucht-water warmtepomp",
+      "koelmiddel": "R-32",
+      "werkingstemperatuur_bereik": "-25°C tot +35°C",
+      "geluidsniveau": "Laag geluidsniveau",
+      "energielabel": "A+++"
+    },
+    "binnenunit": {
+      "type": "Hydromodule",
+      "buffer_tank": "Geïntegreerd",
+      "backup_verwarming": "Elektrische backup boiler",
+      "regeling": "Intelligente regeling"
+    }
+  },
+  "thermostaat": {
+    "merk": "Daikin",
+    "model": "Madoka",
+    "type": "Draadloze slimme thermostaat",
+    "functies": [
+      "Verwarming regeling",
+      "Koeling regeling", 
+      "Programmeerbare tijdschema's",
+      "Zoneregeling mogelijk",
+      "App bediening"
+    ],
+    "bediening": {
+      "display": "Touchscreen",
+      "wifi_verbinding": "Ja",
+      "app_naam": "Daikin Onecta"
+    }
+  },
+  "installatie_details": {
+    "cv_systeem": {
+      "type": "Lage temperatuur verwarming",
+      "distributie": "Vloerverwarming",
+      "zones": "Meerdere zones mogelijk"
+    },
+    "tapwater": {
+      "voorziening": "Via warmtepomp",
+      "backup": "Elektrische backup boiler",
+      "krachtig_verwarmen": "Functie beschikbaar voor extra warm water"
+    }
+  },
+  "onderhoud": {
+    "onderhoudscontract": {
+      "aanbieder": "Bouma Technisch Installatiebedrijf BV",
+      "type": "Jaarlijks onderhoudsabonnement",
+      "prijs": "€12,10 per maand (inclusief BTW)",
+      "inbegrepen": [
+        "Jaarlijkse onderhoudsbeurt",
+        "Geen voorrijkosten bij onderhoud",
+        "Geen werkloon bij onderhoud",
+        "24 uurs storingsdienst",
+        "Materialen binnen mantel van toestel"
+      ]
+    },
+    "onderhoudswerkzaamheden": [
+      "Buitendeel controleren op werking en vervuiling",
+      "Binnendeel controleren op aansluitingen en lekkages",
+      "Controle op slijtage, bekabeling, aarding",
+      "Schoonmaken van filters en warmtewisselaars",
+      "Controle koudemiddel en logboek bijhouden",
+      "Isolatie controleren",
+      "Waterzijdige regeling controleren",
+      "Instellingen controleren en aanpassen"
+    ]
+  },
+  "garantie": {
+    "installateur_garantie": "2 jaar op onderdelen, 1 jaar op arbeid",
+    "voorwaarde": "Onderhoud door Bouma vereist voor garantie",
+    "fabrikant_garantie": "Volgens Daikin voorwaarden"
+  },
+  "energieprestatie": {
+    "energielabel": "A+++",
+    "cop_waarde": "Hoog rendement",
+    "jaarlijks_energieverbruik": "Laag door hoge efficiëntie"
+  },
+  "gebruikersinstructies": {
+    "krachtig_verwarmen": {
+      "functie": "Extra warm water productie",
+      "gebruik": "Voor verhoogde warmwaterbehoefte",
+      "instelling": "Via thermostaat of app"
+    },
+    "cv_bijvullen": {
+      "wanneer": "Bij drukdaling systeem",
+      "procedure": "Via vulkraan met onthard water",
+      "druk": "1,5-2,0 bar"
+    }
+  },
+  "elektrische_aansluiting": {
+    "groep": "15 - Warmtepomp buitendeel",
+    "backup_groep": "K1 - Back up warmtepomp",
+    "spanning": "400V 3-fase",
+    "beveiliging": "Volgens NEN normen"
+  }
+}
+

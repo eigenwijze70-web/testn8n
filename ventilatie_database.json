@@ -1,0 +1,198 @@
+{
+  "systeem_informatie": {
+    "type": "Mechanische ventilatie met warmteterugwinning (WTW)",
+    "merk": "Zehnder",
+    "model": "ComfoAir Q 350",
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "installatie_datum": "2025",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald"
+  },
+  "technische_specificaties": {
+    "type_systeem": "Residentiele ventilatie in twee richtingen",
+    "warmteterugwinning": "Recuperatief (platenwarmtewisselaar)",
+    "thermisch_rendement": "80-90%",
+    "maximum_debiet": "350 m³/h",
+    "maximum_elektrisch_vermogen": "245W",
+    "geluidsvermogensniveau": "45 dB(A)",
+    "energielabel": "A+ tot A",
+    "sec_klasse": "A+ A E (afhankelijk van regeling)"
+  },
+  "meetgegevens": {
+    "datum_meting": "26-05-25",
+    "uitgevoerd_door": "D. Vriesinga",
+    "controledatum": "12-6-25",
+    "meetapparatuur": {
+      "merk": "Testo",
+      "type": "Testo 417"
+    },
+    "toevoer_debieten": {
+      "woonkamer_open_keuken": {
+        "vereist": "100 m³/h",
+        "gemeten": "102 m³/h",
+        "ventiel_type": "Zehnder Luna S125",
+        "aantal_ventielen": 2
+      },
+      "slaapkamer_1": {
+        "vereist": "46 m³/h", 
+        "gemeten": "46 m³/h",
+        "ventiel_type": "Zehnder Luna S125"
+      },
+      "slaapkamer_2": {
+        "vereist": "40 m³/h",
+        "gemeten": "42 m³/h", 
+        "ventiel_type": "Zehnder Luna S125"
+      },
+      "slaapkamer_3": {
+        "vereist": "32 m³/h",
+        "gemeten": "32 m³/h",
+        "ventiel_type": "Zehnder Luna S125"
+      },
+      "totaal_toevoer": {
+        "vereist": "218 m³/h",
+        "gemeten": "222 m³/h"
+      }
+    },
+    "afvoer_debieten": {
+      "keuken": {
+        "vereist": "75 m³/h",
+        "gemeten": "76 m³/h",
+        "ventiel_type": "Zehnder Luna E125",
+        "aantal_ventielen": 2
+      },
+      "toilet": {
+        "vereist": "25 m³/h",
+        "gemeten": "25 m³/h",
+        "ventiel_type": "Zehnder Luna E125"
+      },
+      "berging": {
+        "vereist": "50 m³/h", 
+        "gemeten": "51 m³/h",
+        "ventiel_type": "Zehnder Luna E125"
+      },
+      "badkamer": {
+        "vereist": "50 m³/h",
+        "gemeten": "51 m³/h",
+        "ventiel_type": "Zehnder Luna E125"
+      },
+      "zolder": {
+        "vereist": "18 m³/h",
+        "gemeten": "18 m³/h",
+        "ventiel_type": "Zehnder Luna E125"
+      },
+      "totaal_afvoer": {
+        "vereist": "218 m³/h",
+        "gemeten": "221 m³/h"
+      }
+    }
+  },
+  "regeling_en_bediening": {
+    "regelingstype": [
+      "Driestandenschakelaar",
+      "Tijdsturing", 
+      "Sturing op basis van 1 sensor",
+      "Sturing op basis van 2 of meer sensoren"
+    ],
+    "co2_sensor": {
+      "beschikbaar": "Ja",
+      "functie": "Automatische regeling luchtkwaliteit",
+      "instructie_video": "CO2 sensor met ComfoAir Q Ventilatiestand instellen"
+    },
+    "display_unit": "Melding op display unit of externe bedieningseenheid",
+    "waarschuwingssignalen": "Visueel op display"
+  },
+  "onderhoud": {
+    "onderhoudscontract": {
+      "aanbieder": "Bouma Technisch Installatiebedrijf BV", 
+      "type": "WTW-unit inclusief vervangen filters",
+      "prijs": "€6,35 per maand (inclusief BTW)",
+      "inbegrepen": [
+        "Vervangen filters",
+        "Jaarlijkse onderhoudsbeurt",
+        "Geen voorrijkosten bij onderhoud"
+      ]
+    },
+    "gebruikersonderhoud": {
+      "filters_vervangen": {
+        "frequentie": "Elke 6 maanden",
+        "verantwoordelijke": "Gebruiker",
+        "filtersets": {
+          "G4_G4": "400502012",
+          "F7_G4": "400502013"
+        },
+        "waarschuwing": "LED knippert, display melding FILTERS NU WISSELEN"
+      },
+      "ventielen_reinigen": {
+        "frequentie": "Elke 6 maanden",
+        "verantwoordelijke": "Gebruiker",
+        "methode": "Zachte borstel of stofzuiger"
+      },
+      "roosters_reinigen": {
+        "frequentie": "Elke 6 maanden", 
+        "verantwoordelijke": "Gebruiker",
+        "methode": "Zachte borstel of stofzuiger"
+      },
+      "condensafvoer_vullen": {
+        "frequentie": "Elke 6 maanden",
+        "verantwoordelijke": "Gebruiker",
+        "doel": "Voorkomen rioollucht"
+      }
+    },
+    "professioneel_onderhoud": {
+      "frequentie": "Elke 4 jaar",
+      "verantwoordelijke": "Installateur of servicemonteur",
+      "werkzaamheden": [
+        "Inspectie en reinigen systeem",
+        "Behuizing inspecteren en reinigen",
+        "Warmtewisselaar inspecteren en reinigen", 
+        "Ventilatoren inspecteren en reinigen",
+        "Modulerende bypass inspecteren en reinigen",
+        "Voorverwarmer inspecteren en reinigen",
+        "Condensafvoer inspecteren en reinigen",
+        "Luchtkanalen inspecteren en reinigen"
+      ]
+    }
+  },
+  "energieprestatie": {
+    "sec_waarden": {
+      "koud_klimaat": "-17,3 tot -41,8 kWh/(m²a)",
+      "gematigd_klimaat": "-35,9 tot -17,6 kWh/(m²a)", 
+      "warm_klimaat": "-13,0 tot -17,6 kWh/(m²a)"
+    },
+    "aec_elektriciteit": {
+      "koud_klimaat": "12,1 tot 8,5 kWh/a",
+      "gematigd_klimaat": "6,7 tot 3,1 kWh/a",
+      "warm_klimaat": "6,3 tot 2,6 kWh/a"
+    },
+    "ahs_bespaarde_energie": {
+      "koud_klimaat": "83,4 tot 87,8 kWh/a",
+      "gematigd_klimaat": "42,6 tot 44,9 kWh/a", 
+      "warm_klimaat": "19,3 tot 20,3 kWh/a"
+    }
+  },
+  "installatie_details": {
+    "plaatsing": "Zolder",
+    "kanaalwerk": "Geïsoleerde kanalen",
+    "ventielen": "Zehnder Luna serie (S125 toevoer, E125 afvoer)",
+    "condensafvoer": "Aangesloten op riolering met waterslot",
+    "elektrische_aansluiting": "Groep 10 - WTW unit zolder"
+  },
+  "storingen_en_oplossingen": {
+    "filterwaarschuwing": "Vervang filters volgens instructies",
+    "reset_fout": "RESET FOUT > BEVESTIGEN > 5 minuten wachten",
+    "status_controle": "STATUS > HUIDIGE FOUTEN voor storingscodes",
+    "service": "Contact Bouma voor service bij aanhoudende problemen"
+  },
+  "garantie": {
+    "fabrikant": "Zehnder Group Nederland B.V.",
+    "website": "www.zehnder.nl",
+    "service_telefoon": "0900555 19 37",
+    "prestatieverklaring": "EU verordening Nr. 1253/2014"
+  },
+  "elektrische_aansluiting": {
+    "groep": "10 - WTW unit zolder",
+    "spanning": "230V",
+    "verbruik": "40mA/0,8W"
+  }
+}
+

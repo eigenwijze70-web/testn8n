@@ -1,0 +1,141 @@
+{
+  "systeem_informatie": {
+    "type": "Waterontharder",
+    "merk": "Electrolux",
+    "model_opties": ["Electrolux 14L", "Electrolux 17L", "Electrolux 17R"],
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "installatie_datum": "2025",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald"
+  },
+  "technische_specificaties": {
+    "electrolux_14l": {
+      "model": "Electrolux 14L",
+      "harsvolume": "14 liter",
+      "uitwisselingscapaciteit": "74°Fm³",
+      "service_flow_rate": "18,9 lpm",
+      "zoutbak_capaciteit": "45 kg",
+      "afmetingen": {
+        "breedte": "31,4 cm",
+        "diepte": "43,2 cm", 
+        "hoogte": "85,2 cm",
+        "vloer_bypass_afstand": "69,9 cm"
+      }
+    },
+    "electrolux_17l": {
+      "model": "Electrolux 17L",
+      "harsvolume": "17,5 liter",
+      "uitwisselingscapaciteit": "92°Fm³",
+      "service_flow_rate": "23,2 lpm",
+      "zoutbak_capaciteit": "79 kg",
+      "afmetingen": {
+        "breedte": "31,4 cm",
+        "diepte": "43,2 cm",
+        "hoogte": "108,1 cm",
+        "vloer_bypass_afstand": "92,7 cm"
+      }
+    },
+    "electrolux_17r": {
+      "model": "Electrolux 17R",
+      "harsvolume": "17,5 liter",
+      "uitwisselingscapaciteit": "92°Fm³", 
+      "service_flow_rate": "23,2 lpm",
+      "zoutbak_capaciteit": "79 kg",
+      "extra_functie": "Extra actieve kool tot 2,6 kg capaciteit",
+      "afmetingen": {
+        "breedte": "31,4 cm",
+        "diepte": "43,2 cm",
+        "hoogte": "120,8 cm",
+        "vloer_bypass_afstand": "105,4 cm"
+      }
+    }
+  },
+  "algemene_specificaties": {
+    "klep_type": "Volumetrisch / Elektronisch",
+    "elektrische_voeding": "24V",
+    "indicaties": "Laag zoutniveau indicatie",
+    "regeling": "Automatische regeneratie",
+    "bypass": "Ingebouwde bypass functie"
+  },
+  "voordelen_zacht_water": {
+    "comfort": [
+      "Zachter gevoel op huid en haar",
+      "Minder zeep en shampoo nodig",
+      "Zachter wasgoed",
+      "Geen kalkaanslag op sanitair"
+    ],
+    "technisch": [
+      "Bescherming leidingwerk tegen kalk",
+      "Langere levensduur apparaten",
+      "Betere werking warmtepomp",
+      "Minder onderhoud verwarmingssysteem"
+    ],
+    "economisch": [
+      "Minder reinigingsmiddelen nodig",
+      "Lagere energiekosten door schone warmtewisselaars",
+      "Minder reparaties aan apparaten"
+    ]
+  },
+  "installatie": {
+    "plaatsing": "Technische ruimte of kelder",
+    "water_aansluiting": "Hoofdwaterleiding na watermeter",
+    "afvoer": "Naar riolering voor spoelwater",
+    "elektrische_aansluiting": "24V voeding",
+    "bypass": "Voor onderhoud en noodgevallen"
+  },
+  "onderhoud": {
+    "zout_bijvullen": {
+      "frequentie": "Afhankelijk van waterverbruik en hardheid",
+      "type_zout": "Speciaal regeneratiezout",
+      "hoeveelheid": "45-79 kg afhankelijk van model",
+      "indicatie": "Automatische waarschuwing laag zoutniveau"
+    },
+    "filter_vervangen": {
+      "frequentie": "Volgens fabrikant specificaties",
+      "type": "Harsbed regeneratie automatisch"
+    },
+    "jaarlijks_onderhoud": [
+      "Controle instellingen",
+      "Controle zoutverbruik",
+      "Controle regeneratiecyclus",
+      "Reiniging zoutbak indien nodig"
+    ],
+    "service": "Bouma Technisch Installatiebedrijf BV"
+  },
+  "certificaten": {
+    "iso_9001": "Versie 2008 - Europese conformiteit",
+    "acs": "Verklaring overeenstemming gezondheidsvoorschriften",
+    "rohs": "Beperking gevaarlijke stoffen in elektrische apparatuur",
+    "ce_markering": "Europese conformiteit"
+  },
+  "werking": {
+    "principe": "Ionenwisseling - calcium en magnesium vervangen door natrium",
+    "regeneratie": "Automatisch met zoutoplossing",
+    "capaciteit": "Afhankelijk van waterhardheid en verbruik",
+    "flow_rate": "Voldoende voor huishoudelijk gebruik"
+  },
+  "waterkwaliteit": {
+    "input": "Hard leidingwater",
+    "output": "Zacht water (0-1°dH)",
+    "behoud": "Alle mineralen behalve calcium en magnesium",
+    "smaak": "Neutraal, geschikt voor consumptie"
+  },
+  "garantie": {
+    "fabrikant": "Electrolux garantievoorwaarden",
+    "installatie": "Volgens Bouma garantievoorwaarden",
+    "onderdelen": "Fabrikant garantie",
+    "service": "24/7 storingsdienst beschikbaar"
+  },
+  "energieverbruik": {
+    "elektrisch": "24V - laag verbruik",
+    "water": "Spoelwater tijdens regeneratie",
+    "zout": "Afhankelijk van waterhardheid en verbruik"
+  },
+  "milieu": {
+    "duurzaamheid": "Lange levensduur apparaat",
+    "recycling": "Onderdelen recycleerbaar",
+    "waterbesparend": "Efficiënte regeneratie",
+    "energiebesparend": "Laag elektrisch verbruik"
+  }
+}
+

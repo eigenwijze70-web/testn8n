@@ -1,0 +1,194 @@
+{
+  "systeem_informatie": {
+    "type": "Optische rookmelders",
+    "merk": "Ei Electronics",
+    "model": "Ei146",
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "installatie_datum": "2025",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald"
+  },
+  "technische_specificaties": {
+    "type_melder": "Ei146 - Alkaline 9V batterij back-up",
+    "voeding": "230V/50Hz (verbruik 40mA/0,8W)",
+    "batterij_backup": "9V alkaline batterij type 6LR61 (1 jaar)",
+    "geluidsniveau": "85dB(A) op 3 meter afstand",
+    "europese_norm": "EN14604:2005",
+    "certificaten": ["CE-keur", "KOMO"],
+    "conformiteitscertificaat": "0086-CPD-537430",
+    "levensduur": "10 jaar (gehele melder)",
+    "koppeling": "Maximaal 20 melders bedraad of 30 melders draadloos (RF)"
+  },
+  "installatie_details": {
+    "plaatsing": {
+      "locaties": [
+        "Alle verkeersroutes",
+        "Alle verblijfsruimten", 
+        "Alle vluchtroutes",
+        "Elke verdieping/bouwlaag"
+      ],
+      "bewakingsoppervlak": "Maximaal 80 m² per melder",
+      "maximale_hoogte": "8 meter",
+      "positie": "Centraal aan plafond, minimaal 50cm uit hoeken en wanden"
+    },
+    "geluidseisen": {
+      "verblijfsruimten": "Minimaal 65 dB(A)",
+      "slaapruimten": "Minimaal 75 dB(A)",
+      "vluchtroutes": "Minimaal 65 dB(A)"
+    },
+    "te_vermijden_plaatsen": [
+      "Badkamers, keukens, douches (minimaal 5 meter afstand)",
+      "Garages en stoffige ruimtes",
+      "Temperaturen boven +40°C of onder +4°C",
+      "Direct bij verlichting, ramen, deuren",
+      "Bij kachels, airco, ventilators",
+      "Zeer hoge of moeilijk bereikbare plaatsen"
+    ]
+  },
+  "elektrische_aansluiting": {
+    "spanning": "230V/50Hz",
+    "verbruik": "40mA/0,8W",
+    "aansluiting": "Vast aangesloten volgens NEN 1010",
+    "groep": "Eigen eindgroep zonder schakelaars",
+    "bedrading": {
+      "L_fase": "Bruine draad",
+      "N_nul": "Blauwe draad", 
+      "IC_koppeling": "Oranje draad (bij gekoppelde melders)",
+      "aarding": "Niet vereist"
+    },
+    "koppeling": {
+      "bedraad": "Maximaal 20 melders, 250 meter bedrading",
+      "draadloos": "Maximaal 30 melders met Ei168RC sokkel"
+    }
+  },
+  "bediening_en_functies": {
+    "led_indicaties": {
+      "groene_led": "Netvoeding aanwezig",
+      "rode_led": "Knippert elke 40 seconden (zelftest)"
+    },
+    "test_functie": {
+      "methode": "10 seconden op testknop drukken",
+      "resultaat": "Sirene gaat af, rode LED knippert",
+      "frequentie": "Elke 14 dagen testen aanbevolen"
+    },
+    "alarmpauze": {
+      "functie": "Tijdelijk verlaagde gevoeligheid",
+      "duur": "10 minuten",
+      "gebruik": "Bij ongewenst alarm"
+    }
+  },
+  "onderhoud": {
+    "batterij_vervangen": {
+      "frequentie": "Jaarlijks (alleen Ei146)",
+      "waarschuwing": "Pieptoon elke 40 seconden bij lage spanning",
+      "type": "9V alkaline batterij type 6LR61"
+    },
+    "schoonmaken": {
+      "frequentie": "Maandelijks afstoffen, halfjaarlijks stofzuigen",
+      "methode": "Droge doek of stofzuiger",
+      "waarschuwing": "Nooit water of vocht gebruiken"
+    },
+    "filters_vervangen": "Niet van toepassing",
+    "professioneel_onderhoud": "Volgens garantievoorwaarden"
+  },
+  "garantie": {
+    "installateur_garantie": {
+      "duur": "5 jaar productgarantie",
+      "eerste_jaar": "Geen kosten voor klant bij defecten",
+      "resterende_jaren": "Fabrikant garantievoorwaarden",
+      "service_kosten": "Na eerste jaar doorberekend aan klant"
+    },
+    "fabrikant_garantie": {
+      "duur": "5 jaar na aankoopdatum",
+      "dekking": "Alle defecten niet door verkeerd gebruik",
+      "uitsluiting": "Schade door brand niet verhaalbaar",
+      "importeur": "Hemmink B.V., Zwolle",
+      "website": "www.eirookmelders.nl"
+    },
+    "onderhoud_vereiste": {
+      "video_link": "https://www.youtube.com/watch?v=Jkibroej5rw",
+      "beschrijving": "Juiste onderhoud voor garantie behoud"
+    }
+  },
+  "storingen_en_oplossingen": {
+    "ongewenst_alarm": [
+      "Controleer op stoom/damp van keuken/badkamer",
+      "Zorg voor 5 meter afstand van stoom/dampbronnen",
+      "Reinig melder bij vervuiling",
+      "Overweeg andere montageplaats",
+      "Vervang door hittemelder indien nodig"
+    ],
+    "alarm_zonder_reden": [
+      "Identificeer oorsprong (rode LED knippert snel)",
+      "Controleer op dampen van verf of andere bronnen",
+      "Druk testknop voor 10 minuten uitschakeling",
+      "Schakel stroom uit en verwijder melder indien nodig"
+    ],
+    "lage_batterij": [
+      "Pieptoon elke 40 seconden = batterij vervangen",
+      "Controleer groene LED (netvoeding)",
+      "Controleer bedrading en zekeringen",
+      "Test batterij handmatig bij stroomuitval"
+    ],
+    "andere_pieptonen": [
+      "Controleer batterij aansluiting",
+      "Maak rookkamer schoon bij problemen",
+      "Vervang melder bij aanhoudende problemen"
+    ]
+  },
+  "veiligheidsvoorschriften": {
+    "bij_brand": [
+      "Verlaat onmiddellijk de woning",
+      "Waarschuw brandweer (112)",
+      "Ga naar afgesproken verzamelplek",
+      "Keer NOOIT terug in brandend huis"
+    ],
+    "vluchtplan": [
+      "Maak plattegrond met 2 vluchtwegen per kamer",
+      "Oefen regelmatig met gezinsleden",
+      "Leer kinderen zelfstandig vluchten",
+      "Houd vluchtroutes altijd vrij"
+    ],
+    "bij_rook": [
+      "Kruip laag bij de grond",
+      "Haal kort adem door natte doek",
+      "Controleer deuren op hitte",
+      "Sluit ramen en deuren achter je"
+    ]
+  },
+  "milieu_en_recycling": {
+    "levensduur": "10 jaar (zie sticker op melder)",
+    "recycling": "Milieuvriendelijk via www.wecycle.nl",
+    "symbool": "Doorgekruiste kliko = niet bij huisvuil",
+    "batterijen": "Apart inleveren bij inzamelpunt"
+  },
+  "accessoires": {
+    "beschikbaar": [
+      "Ei168RC - RF/draadloos koppelen",
+      "Ei1529RC/Ei411H/Ei450 - Locatie/test schakelaar",
+      "Ei144/Ei164 - Hittemelder",
+      "Ei170/Ei169/160 - Voor doven en slechthorenden",
+      "Ei128R/Ei428RF - Relais module"
+    ]
+  },
+  "contact_informatie": {
+    "installateur": {
+      "naam": "Bouma Technisch Installatiebedrijf BV",
+      "adres": "Florynwei 5, 9262 MP Burgum",
+      "telefoon": "0511 - 461 378",
+      "email": "info@bouma-installatie.nl"
+    },
+    "importeur": {
+      "naam": "Hemmink B.V.",
+      "adres": "Ampèrestraat 24-28, 8013 PV Zwolle",
+      "email": "info@hemmink.nl",
+      "website": "www.eirookmelders.nl"
+    },
+    "producent": {
+      "naam": "Ei Electronics",
+      "locatie": "Shannon, Co Clare, Ierland",
+      "website": "www.eielectronics.com"
+    }
+  }
+}
+

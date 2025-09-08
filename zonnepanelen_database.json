@@ -1,0 +1,138 @@
+{
+  "systeem_informatie": {
+    "type": "Indak zonnepanelensysteem",
+    "merk_panelen": "Viridian Solar ClearlineFusion",
+    "merk_omvormer": "Growatt",
+    "model_omvormer": "MTL-S serie",
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "installatie_datum": "2025",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald"
+  },
+  "zonnepanelen_specificaties": {
+    "systeem_type": "ClearlineFusion indakzonnepanelensysteem",
+    "leverancier": "Viridian Solar NL",
+    "adres_leverancier": "Nijverheidsstraat 3, 7261 AK Ruurlo",
+    "telefoon_leverancier": "(+31)(0)573 454 200",
+    "email_leverancier": "Info@viridiansolar.nl",
+    "website": "www.viridiansolar.com/nl",
+    "eigenschappen": {
+      "esthetica": "Verzonken in dak, vormt één geheel met dakbedekking",
+      "installatie_snelheid": "1 kilowattpiek in minder dan 1 uur",
+      "tussenafstand": "5mm tussen panelen onder elkaar, 30mm naast elkaar",
+      "windresistentie": "5.300 Pa (4x hoger dan concurrenten)",
+      "brandclassificatie": "BRoof T1 t/m BRoof T4",
+      "dakhellingen": "20-60°",
+      "dikte": "69mm",
+      "dakbelasting": "12,9 kg/m²"
+    },
+    "toepassing": {
+      "dakbedekkingen": [
+        "Platte dakpannen",
+        "In elkaar grijpende dakpannen", 
+        "Natuurlijke leisteen",
+        "Kunstmatige leisteen",
+        "Riet"
+      ],
+      "normen": "MCS012, KMI/5990",
+      "certificering": "CE-keur, KOMO"
+    }
+  },
+  "omvormer_specificaties": {
+    "serie": "Growatt 2500MTL-S tot 5500MTL-S",
+    "topologie": "Transformerless design",
+    "mppt_trackers": "2 onafhankelijke MPPT trackers",
+    "mppt_nauwkeurigheid": ">99,5%",
+    "maximum_efficiency": "97,9%",
+    "europese_efficiency": "97,4%",
+    "input_specificaties": {
+      "max_dc_voltage": "550V",
+      "start_voltage": "100V", 
+      "pv_voltage_range": "70V-550V",
+      "mppt_voltage_range": "80V-550V",
+      "max_input_current": "10A-15A per tracker"
+    },
+    "output_specificaties": {
+      "ac_voltage_range": "180Vac-280Vac",
+      "frequency": "50Hz/60Hz ±5Hz",
+      "thdi": "<3%",
+      "connection": "Single phase"
+    },
+    "beveiliging": [
+      "DC reverse polarity protection",
+      "DC switch rating",
+      "Output over current protection", 
+      "Output over voltage protection",
+      "Ground fault monitoring",
+      "Grid monitoring",
+      "Leakage current monitoring"
+    ],
+    "algemene_data": {
+      "operating_temperature": "-25°C tot +60°C",
+      "noise_emission": "≤25 dB(A)",
+      "altitude": "2000m zonder derating",
+      "self_consumption_night": "<0,5W",
+      "protection_rating": "IP65",
+      "relative_humidity": "100%",
+      "warranty": "5 jaar standaard, 10 jaar optioneel"
+    }
+  },
+  "garantie": {
+    "awizon_garantie": {
+      "leverancier": "Awizon B.V.",
+      "adres": "Meander 3, 9231 DB Surhuisterveen",
+      "telefoon": "+31 (0)512-363031",
+      "email": "info@awizon.nl",
+      "website": "www.awizon.nl",
+      "systeemgarantie": "5 jaar op alle systeemcomponenten",
+      "voorwaarden": [
+        "Garantie vervalt bij onjuiste handelingen",
+        "Garantie vervalt bij directe veranderingen",
+        "Garantie vervalt bij reparatiepogingen door derden",
+        "Garantie vervalt bij onjuist gebruik",
+        "Garantie vervalt bij negeren veiligheidsrichtlijnen",
+        "Garantie vervalt bij overmacht (bliksem, storm, brand)"
+      ],
+      "melding_gebreken": "Binnen 14 dagen per aangetekend schrijven",
+      "transportkosten": "Voor rekening Awizon tijdens garantieperiode",
+      "montage_demontage": "Niet voor rekening Awizon"
+    },
+    "zonnepanelen_garantie": "Volgens producent garantieverklaring",
+    "omvormer_garantie": "Volgens producent (verlengde) fabrieksgarantie",
+    "lightbox_constructie": "5 jaar garantie op aluminium draagconstructie"
+  },
+  "installatie_details": {
+    "elektrische_aansluiting": "Groep 16 - PV",
+    "beveiliging": "Volgens NEN normen",
+    "aarding": "Conform voorschriften",
+    "monitoring": "Via omvormer display en eventuele app"
+  },
+  "onderhoud_en_gebruik": {
+    "gebruikerstips": [
+      "Elektrameter stand altijd lager dan opgewekte vermogen op omvormer",
+      "Verschil door eigen verbruik voor teruglevering naar net",
+      "Storing vaak zelf op te lossen door groep en omvormer reset",
+      "Rendement vermindert bij warm weer door silicium eigenschappen",
+      "Automatische herstart na stroomstoring",
+      "Valt onder opstalverzekering (melden bij verzekeraar)",
+      "Niet uitschakelen bij onweer"
+    ],
+    "onderhoud": "Minimaal onderhoud vereist",
+    "levensduur": "25+ jaar voor panelen, 10-15 jaar voor omvormer"
+  },
+  "energiefakten": {
+    "zonne_energie": "8 minuten zon = wereldbevolking 1 jaar energie",
+    "milieuvriendelijk": "Een van meest rendabele en milieuvriendelijke energiebronnen",
+    "silicium": "Tweede meest voorkomende element op aarde na zuurstof",
+    "herkomst_naam": "Latijnse 'silex' betekent vuursteen"
+  },
+  "storingen_oplossen": {
+    "geen_opwekking": [
+      "Controleer groep in meterkast",
+      "Reset omvormer (uit en na 1 minuut weer aan)",
+      "Contact Bouma als storing blijft bestaan"
+    ],
+    "service": "Bouma Technisch Installatiebedrijf BV voor service en onderhoud"
+  }
+}
+

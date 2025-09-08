@@ -1,0 +1,178 @@
+{
+  "systeem_informatie": {
+    "type": "Keukeninstallatie",
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "installatie_datum": "2025",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald",
+    "tekening": "WON24019 1- Keukentekening BA Wolters"
+  },
+  "keuken_layout": {
+    "type": "L-vormige keuken",
+    "afmetingen": {
+      "totaal_lengte": "Volgens tekening",
+      "werkblad_hoogte": "90 cm standaard",
+      "bovenkastjes": "Standaard hoogte"
+    },
+    "indeling": {
+      "kookzone": "Inductiekookplaat met afzuigkap",
+      "spoelzone": "Spoelbak met Quooker",
+      "bereidingszone": "Werkblad met stopcontacten",
+      "opslag": "Onder- en bovenkastjes"
+    }
+  },
+  "elektrische_apparaten": {
+    "inductie_kookplaat": {
+      "aansluiting": "Groep K - Kooktoestel",
+      "type": "Inductie kookplaat",
+      "vermogen": "Hoog vermogen (aparte groep vereist)",
+      "spanning": "400V 3-fase",
+      "beveiliging": "Aparte kookgroep",
+      "positie": "Centraal in keuken"
+    },
+    "inbouwoven": {
+      "aansluiting": "Groep 7 - Oven", 
+      "type": "Elektrische inbouwoven",
+      "spanning": "230V",
+      "positie": "In hoge kast of onder werkblad",
+      "vermogen": "Standaard ovenvermogen"
+    },
+    "vaatwasser": {
+      "aansluiting": "Groep 4 - Vaatwasser",
+      "type": "Inbouw vaatwasser",
+      "spanning": "230V",
+      "positie": "Onder werkblad bij spoelbak",
+      "water_aansluiting": "Koud water + afvoer"
+    },
+    "koelkast": {
+      "aansluiting": "Groep 8 - Koelkast, Berging, Buiten",
+      "type": "Inbouw of vrijstaande koelkast",
+      "spanning": "230V",
+      "positie": "Volgens keukenindeling"
+    },
+    "quooker": {
+      "aansluiting": "Groep 6 - Quooker",
+      "type": "Kokendwaterkraan systeem",
+      "spanning": "230V",
+      "positie": "Bij spoelbak",
+      "water_aansluiting": "Koud water",
+      "functie": "Kokend, koud en eventueel bruisend water"
+    }
+  },
+  "elektrische_installatie": {
+    "verlichting": {
+      "groep": "Groep 1 - Woonkamer, eetkmr/keuken en slkr 1,2,3",
+      "types": [
+        "Plafondverlichting",
+        "Werkblad verlichting", 
+        "Kastverlichting"
+      ],
+      "schakelaars": "Volgens tekening geplaatst"
+    },
+    "stopcontacten": {
+      "werkblad_stopcontacten": {
+        "groep": "Groep 1",
+        "aantal": "Voldoende voor kleine apparaten",
+        "hoogte": "15 cm boven werkblad",
+        "type": "Randaarde stopcontacten"
+      },
+      "algemene_stopcontacten": {
+        "groep": "Groep 8 - Koelkast, Berging, Buiten",
+        "functie": "Algemene apparaten"
+      }
+    },
+    "speciale_aansluitingen": [
+      "Groep K - Kooktoestel (400V)",
+      "Groep 7 - Oven (230V)",
+      "Groep 4 - Vaatwasser (230V)",
+      "Groep 6 - Quooker (230V)",
+      "Groep 8 - Koelkast (230V)"
+    ]
+  },
+  "water_en_afvoer": {
+    "koud_water": {
+      "aanvoer": "Hoofdleiding",
+      "tappunten": [
+        "Spoelbak mengkraan",
+        "Vaatwasser",
+        "Quooker"
+      ]
+    },
+    "warm_water": {
+      "bron": "Daikin Altherma 3 warmtepomp",
+      "tappunten": [
+        "Spoelbak mengkraan"
+      ]
+    },
+    "afvoer": {
+      "spoelbak": "Naar hoofdriolering",
+      "vaatwasser": "Naar hoofdriolering",
+      "type": "Gescheiden riolering"
+    }
+  },
+  "ventilatie": {
+    "mechanische_ventilatie": {
+      "systeem": "Zehnder ComfoAir Q 350",
+      "afvoer_debiet": "75 m³/h (2 ventielen)",
+      "ventiel_type": "Zehnder Luna E125",
+      "aantal_ventielen": 2,
+      "positie": "Plafond boven kookzone en algemeen"
+    },
+    "afzuigkap": {
+      "type": "Afzuigkap boven kookplaat",
+      "functie": "Lokale afzuiging kookdampen",
+      "aansluiting": "Naar buiten of recirculatie"
+    }
+  },
+  "veiligheid": {
+    "rookmelder": {
+      "advies": "Niet in keuken (minimaal 5 meter afstand)",
+      "alternatief": "Hittemelder indien gewenst"
+    },
+    "aardlekbeveiliging": "Alle groepen beveiligd",
+    "overspanningsbeveiliging": "Aanwezig in hoofdbord",
+    "brandveiligheid": "Conform bouwvoorschriften"
+  },
+  "onderhoud": {
+    "dagelijks": [
+      "Apparaten schoonhouden",
+      "Werkbladen reinigen",
+      "Afvoeren doorspuiten"
+    ],
+    "periodiek": [
+      "Filters afzuigkap vervangen",
+      "Ventilatieroosters reinigen",
+      "Apparaten onderhouden volgens handleiding"
+    ],
+    "jaarlijks": [
+      "Elektrische installatie controleren",
+      "Water aansluitingen controleren",
+      "Quooker onderhoud"
+    ],
+    "service": "Bouma Technisch Installatiebedrijf BV"
+  },
+  "garantie": {
+    "installatie": "Volgens Bouma garantievoorwaarden",
+    "apparaten": "Fabrikant garantie per apparaat",
+    "elektrische_installatie": "1 jaar garantie op arbeid",
+    "service": "24/7 storingsdienst voor installatie"
+  },
+  "gebruikersinstructies": {
+    "quooker": {
+      "gebruik": "Voorzichtig met kokend water",
+      "onderhoud": "Volgens fabrikant handleiding",
+      "veiligheid": "Kinderbeveiliging indien aanwezig"
+    },
+    "inductie_kookplaat": {
+      "gebruik": "Alleen geschikt kookgerei",
+      "reiniging": "Speciaal glaskeramiek reiniger",
+      "veiligheid": "Automatische uitschakeling"
+    },
+    "vaatwasser": {
+      "gebruik": "Volgens handleiding",
+      "onderhoud": "Filter regelmatig reinigen",
+      "zout_en_glansmiddel": "Bijvullen indien nodig"
+    }
+  }
+}
+

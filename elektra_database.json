@@ -1,0 +1,227 @@
+{
+  "systeem_informatie": {
+    "type": "Elektrische installatie nieuwbouw",
+    "installateur": "Bouma Technisch Installatiebedrijf BV",
+    "project_nummer": "WON24019",
+    "tekening_nummer": "E01",
+    "datum_tekening": "21-11-2024",
+    "schaal": "1:50",
+    "locatie": "Wyger Martensstrjitte (Bouwnr. 1), 9104 JM Damwald",
+    "project": "Nieuwbouw 8 won. De Bron te Damwald"
+  },
+  "groepenverdeling": {
+    "bouwnummer": 1,
+    "groepen": {
+      "1": {
+        "nummer": 1,
+        "omschrijving": "Woonkamer, eetkmr/keuken en slkr 1,2,3",
+        "type": "Verlichting en stopcontacten",
+        "ruimtes": ["Woonkamer", "Eetkamer", "Keuken", "Slaapkamer 1", "Slaapkamer 2", "Slaapkamer 3"]
+      },
+      "2": {
+        "nummer": 2,
+        "omschrijving": "Toilet, hal, zolder, slkr 2, badk, overloop, m.k",
+        "type": "Verlichting en stopcontacten",
+        "ruimtes": ["Toilet", "Hal", "Zolder", "Slaapkamer 2", "Badkamer", "Overloop", "Meterkast"]
+      },
+      "3": {
+        "nummer": 3,
+        "omschrijving": "Wasmachine berging",
+        "type": "Stopcontact wasmachine",
+        "ruimtes": ["Berging"],
+        "apparaat": "Wasmachine"
+      },
+      "4": {
+        "nummer": 4,
+        "omschrijving": "Vaatwasser",
+        "type": "Stopcontact vaatwasser",
+        "ruimtes": ["Keuken"],
+        "apparaat": "Vaatwasser"
+      },
+      "5": {
+        "nummer": 5,
+        "omschrijving": "Wasdroger berging",
+        "type": "Stopcontact wasdroger",
+        "ruimtes": ["Berging"],
+        "apparaat": "Wasdroger"
+      },
+      "6": {
+        "nummer": 6,
+        "omschrijving": "Quooker",
+        "type": "Stopcontact Quooker",
+        "ruimtes": ["Keuken"],
+        "apparaat": "Quooker kokendwaterkraan"
+      },
+      "7": {
+        "nummer": 7,
+        "omschrijving": "Oven",
+        "type": "Stopcontact oven",
+        "ruimtes": ["Keuken"],
+        "apparaat": "Inbouwoven"
+      },
+      "8": {
+        "nummer": 8,
+        "omschrijving": "Koelkast, Berging, Buiten",
+        "type": "Stopcontacten",
+        "ruimtes": ["Keuken", "Berging", "Buiten"],
+        "apparaat": "Koelkast en algemene stopcontacten"
+      },
+      "9": {
+        "nummer": 9,
+        "omschrijving": "Berging",
+        "type": "Verlichting en stopcontacten",
+        "ruimtes": ["Berging"]
+      },
+      "10": {
+        "nummer": 10,
+        "omschrijving": "WTW unit zolder",
+        "type": "Ventilatie-unit",
+        "ruimtes": ["Zolder"],
+        "apparaat": "Zehnder ComfoAir Q 350"
+      },
+      "11": {
+        "nummer": 11,
+        "omschrijving": "Wasmachine zolder",
+        "type": "Stopcontact wasmachine",
+        "ruimtes": ["Zolder"],
+        "apparaat": "Wasmachine zolder"
+      },
+      "12": {
+        "nummer": 12,
+        "omschrijving": "Wasdroger zolder",
+        "type": "Stopcontact wasdroger",
+        "ruimtes": ["Zolder"],
+        "apparaat": "Wasdroger zolder"
+      },
+      "13": {
+        "nummer": 13,
+        "omschrijving": "Grondkabel",
+        "type": "Grondkabel aansluiting",
+        "ruimtes": ["Extern"]
+      },
+      "14": {
+        "nummer": 14,
+        "omschrijving": "Back-up boiler",
+        "type": "Elektrische backup boiler",
+        "ruimtes": ["Technische ruimte"],
+        "apparaat": "Backup boiler warmtepomp"
+      },
+      "15": {
+        "nummer": 15,
+        "omschrijving": "Warmtepomp buitendeel",
+        "type": "Warmtepomp buitenunit",
+        "ruimtes": ["Buiten"],
+        "apparaat": "Daikin Altherma 3 buitenunit"
+      },
+      "16": {
+        "nummer": 16,
+        "omschrijving": "PV",
+        "type": "Zonnepanelen omvormer",
+        "ruimtes": ["Technische ruimte"],
+        "apparaat": "Growatt omvormer zonnepanelen"
+      },
+      "K": {
+        "nummer": "K",
+        "omschrijving": "Kooktoestel",
+        "type": "Kookplaat aansluiting",
+        "ruimtes": ["Keuken"],
+        "apparaat": "Inductie kookplaat"
+      },
+      "K1": {
+        "nummer": "K1",
+        "omschrijving": "Back up warmtepomp",
+        "type": "Backup systeem warmtepomp",
+        "ruimtes": ["Technische ruimte"],
+        "apparaat": "Backup systeem Daikin warmtepomp"
+      }
+    }
+  },
+  "installatie_details": {
+    "hoofdaansluiting": {
+      "type": "3-fase aansluiting",
+      "spanning": "400V/230V",
+      "frequentie": "50Hz",
+      "hoofdzekering": "Volgens netbeheerder specificaties"
+    },
+    "aardingsysteem": {
+      "type": "TN-S systeem",
+      "hoofdaarding": "Conform NEN 1010",
+      "equipotentiaalverbinding": "Aanwezig"
+    },
+    "beveiliging": {
+      "hoofdschakelaar": "Aanwezig",
+      "aardlekschakelaars": "Conform NEN 1010",
+      "installatieautomaten": "Per groep beveiligd",
+      "overspanningsbeveiliging": "Aanwezig"
+    }
+  },
+  "keuken_installatie": {
+    "apparaten": {
+      "inductie_kookplaat": {
+        "aansluiting": "Groep K - Kooktoestel",
+        "type": "Inductie",
+        "vermogen": "Hoog vermogen",
+        "beveiliging": "Aparte groep"
+      },
+      "oven": {
+        "aansluiting": "Groep 7 - Oven",
+        "type": "Inbouwoven",
+        "positie": "Volgens keukentekening"
+      },
+      "vaatwasser": {
+        "aansluiting": "Groep 4 - Vaatwasser",
+        "positie": "Onder aanrecht"
+      },
+      "koelkast": {
+        "aansluiting": "Groep 8 - Koelkast, Berging, Buiten",
+        "type": "Inbouw of vrijstaand"
+      },
+      "quooker": {
+        "aansluiting": "Groep 6 - Quooker",
+        "type": "Kokendwaterkraan systeem",
+        "positie": "Bij spoelbak"
+      }
+    },
+    "verlichting": {
+      "algemene_verlichting": "Groep 1",
+      "werkblad_verlichting": "Groep 1",
+      "schakelaars": "Volgens tekening geplaatst"
+    },
+    "stopcontacten": {
+      "aanrecht_stopcontacten": "Groep 1",
+      "algemene_stopcontacten": "Groep 8"
+    }
+  },
+  "technische_ruimte": {
+    "apparaten": {
+      "warmtepomp_binnen": "Daikin Altherma 3 binnenunit",
+      "backup_boiler": "Groep 14 - Back-up boiler",
+      "omvormer_zonnepanelen": "Groep 16 - PV",
+      "backup_warmtepomp": "Groep K1 - Back up warmtepomp"
+    },
+    "ventilatie": "Natuurlijke ventilatie technische ruimte"
+  },
+  "buiteninstallatie": {
+    "warmtepomp_buiten": {
+      "aansluiting": "Groep 15 - Warmtepomp buitendeel",
+      "type": "Daikin Altherma 3 buitenunit",
+      "beveiliging": "Weerbestendige behuizing"
+    },
+    "buitenstopcontacten": "Groep 8 - Koelkast, Berging, Buiten",
+    "buitenverlichting": "Groep 2",
+    "grondkabel": "Groep 13 - Grondkabel"
+  },
+  "normen_en_voorschriften": {
+    "installatienorm": "NEN 1010",
+    "bouwbesluit": "Conform Bouwbesluit 2012",
+    "ce_markering": "Alle apparaten CE gemarkeerd",
+    "installatieverklaring": "Door erkend installateur"
+  },
+  "onderhoud": {
+    "periodieke_controle": "Elke 5 jaar door erkend installateur",
+    "aardlektest": "Maandelijks door gebruiker",
+    "visuele_inspectie": "Jaarlijks door gebruiker",
+    "service": "Bouma Technisch Installatiebedrijf BV"
+  }
+}
+
